@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On Linked Lists"
+date:   2019-23-01 21:08:00 +0100
+categories: data-structures 
+---
+
+Linked Lists
