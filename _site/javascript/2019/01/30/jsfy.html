@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>JSfy part I: Language and community | Bytes</title>
+<meta name="generator" content="Jekyll v3.8.4" />
+<meta property="og:title" content="JSfy part I: Language and community" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is the first post in the series JSfy where I will talk about my experience using JavaScript in the last years." />
+<meta property="og:description" content="This is the first post in the series JSfy where I will talk about my experience using JavaScript in the last years." />
+<link rel="canonical" href="http://localhost:4000/javascript/2019/01/30/jsfy.html" />
+<meta property="og:url" content="http://localhost:4000/javascript/2019/01/30/jsfy.html" />
+<meta property="og:site_name" content="Bytes" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-01-30T20:08:00+00:00" />
+<script type="application/ld+json">
+{"description":"This is the first post in the series JSfy where I will talk about my experience using JavaScript in the last years.","url":"http://localhost:4000/javascript/2019/01/30/jsfy.html","headline":"JSfy part I: Language and community","dateModified":"2019-01-30T20:08:00+00:00","datePublished":"2019-01-30T20:08:00+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/javascript/2019/01/30/jsfy.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Bytes" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Bytes</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">JSfy part I: Language and community</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2019-01-30T20:08:00+00:00" itemprop="datePublished">Jan 30, 2019
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>This is the first post in the series <strong>JSfy</strong> where I will talk about my experience using JavaScript in the last years.</p>
+
+<h3 id="language-and-community">Language and community</h3>
+
+<p>Once I was talking to a group of programmers and one of them was getting started with JavaScript, having previous experience with other languages. At first he said that the language was horrible, that it is too easy to make mistakes. Then, he said that the language was ok, but the community, the people were awful. Is there some truth to any of these comments? Is the language that bad or is the community around it that awful?</p>
+
+<p>These statements made me realise that, at this point, JavaScript is so ubiquitous that everyone has an opinion about it. I even got asked about my opinion on the term “JavaScript fatigue” in an interview once (more on that later). Sometimes, people form their opinion after using the tools for a long time, having found the good, the bad and the ugly in the language. On other occasions, people read blog posts, or merely talk to other developers and create a misconception.</p>
+
+<p>It’s very easy to spread misconceptions, having no context whatsoever, and often times, these things stick around.</p>
+
+<h3 id="context">Context</h3>
+
+<p>JavaScript’s origin story<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup> is quite interesting. In 1995, Brendan Eich, at the time working for Netscape Communications, was tasked to develop a scripting language for the browser. The new language was going to be based on Scheme<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup>, but then something happened. Sun Microsystems was about to close a deal with Netscape, where they would include Java in the browser as well.</p>
+
+<p>In that scenario, Java is the big, enterprise language and they wanted a scripting language to be the lightweight counterpart. Available options at that time includes Perl, Python, TCL and Scheme, but none of them resembled Java in the slightest. Netscape wanted to make the case that their language was up for the task.</p>
+
+<p>That dramatically changed the fate of JavaScript, a language that initially was supposed to be “Scheme for the browser” now inherits the syntax of Java, with curly braces instead of parenthesis. Semantically, though, JavaScript still maintained its functional roots. A prototype was created in 10 days in May 1995<sup id="fnref:fn3"><a href="#fn:fn3" class="footnote">3</a></sup>.</p>
+
+<p>It is easy to see how the language could have flaws, knowing that its first prototype was put together in 10 days, under a lot of pressure. It seems to me that the language might have been marketed as a less serious language, where Java got all the professional praise. It is also worth pointing out that during the period, the web was in its infancy, and JavaScript was not being used by professional engineers, but rather by anyone trailblazing the internet.</p>
+
+<h3 id="language">Language</h3>
+
+<p>JavaScript is very permissive. That’s both a blessing and a curse. Being dynamic and weakly typed, you can create programs very quickly, run them and see things happening, even if there are small mistakes lurking. Here’s an example:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">number</span> <span class="o">=</span> <span class="mi">50</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">text</span> <span class="o">=</span> <span class="s2">"Hello"</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">number</span> <span class="o">+</span> <span class="nx">text</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>First of all, notice that the operator “+” is being used with two different types, string and number. The output is “50Hello”, which is odd to be allowed in the first place. But if you think about it, we just said that the language is <em>weakly</em> typed, so it should not be a surprise that there is automatic typecasting.</p>
+
+<p>Novices will find joy creating programs, even with some minor mistakes. And that might be a good thing, that these first steps can be done more easily, with less associated cognitive load. Compare that with having, say, C, C++ or Java as your first language. It might be the case that if you’re not studying Computer Science, you just want to learn to build some cool things, and starting with a language that is “blocking” your progress may be just enough to make you give up.</p>
+
+<p>As for more experienced engineers, I’m under the impression that very few actually learned JavaScript. Most people I’ve come across just started using it and took it from there. Again, it is a blessing and a curse that you can just start using the language and most things just work (it reminds me a little bit of Ruby in that regard). The curse aspect is that people may never really understand the language (prototype? this? bind?). Douglas Crockford called JavaScript “Lisp in C’s Clothing”<sup id="fnref:fn4"><a href="#fn:fn4" class="footnote">4</a></sup>.</p>
+
+<p>It became my personal quest to fully learn and understand the language, so I’ve read the following books:</p>
+
+<ul>
+  <li>JavaScript: The Good Parts (Douglas Crockford);</li>
+  <li>Effective JavaScript (David Herman);</li>
+  <li>Eloquent JavaScript (Marijn Haverbeke);</li>
+  <li>How JavaScript Works (Douglas Crockford).</li>
+</ul>
+
+<p>(I will give an overview of these books in another post).</p>
+
+<p>So… to answer the first question, do I think JavaScript is a bad language? No, I don’t think it is. In its current version, I find the language (and its ecosystem) very powerful and fun to use. I do, however, find it odd that, for example, <em>classes</em> were introduced in the language, since we already have a <em>prototype</em> system in place. I think that gives a shortcut to developers that are not willing to learn a different concept (namely prototyping and prototype chain). I’m a big believer that languages should have less facelifts and more consistency.</p>
+
+<p>What Douglas Crockford wrote here<sup id="fnref:fn5"><a href="#fn:fn5" class="footnote">5</a></sup> pretty much sums it up:</p>
+
+<ul>
+  <li>
+    <p>“JavaScript is an astonishing language, in the very worst sense. Its astonishing nature led to a very bad reputation”;</p>
+  </li>
+  <li>
+    <p>“But despite JavaScript’s astonishing shortcomings, deep down, in its core, it got something very right. When you peel away the cruft, there is an expressive and powerful programming language there”.</p>
+  </li>
+</ul>
+
+<h3 id="community">Community</h3>
+
+<p>The second question: Is the community bad? For me that is very quick answer: No.</p>
+
+<p>The community effectively “ported” JavaScript to the server (<a href="https://nodejs.org/en/">Node.js</a>), the desktop (<a href="https://electronjs.org">Electron</a>) and mobile (<a href="https://facebook.github.io/react-native/">React Native</a>). Whether you think it’s good to use JavaScript in these scenarios or not, that’s another story, but we must be able to admit that it is amazing how much people embraced JavaScript and made it the most popular programming language ever<sup id="fnref:fn6"><a href="#fn:fn6" class="footnote">6</a></sup>. By the way, that’s why the title of this series is called JSfy, because the community if JSfying the programming world.</p>
+
+<h3 id="fatigue-vs-renaissance">Fatigue vs renaissance</h3>
+
+<p>An interviewer asked me “What do you think about JavaScript fatigue?” and I also remember reading somewhere “We’re not living a JavaScript fatigue, we’re going through JavaScript renaissance!”. You can make the case for both sides. Indeed, too many things are happening too fast in the JS community, and it’s hard to keep up with everything. On the bright side, how awesome is the fact that there is so much activity all the time?</p>
+
+<h3 id="so-what">So what?</h3>
+
+<p>I think we should spread less misconceptions. It’s one thing if you have your opinion and want to discuss it, but bashing languages (or anything really), without proper context and understanding, just piping what one reads on the internet, it’s just counter productive to all tech communities.</p>
+
+<h3 id="links">Links:</h3>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn1">
+      <p><a href="https://auth0.com/blog/a-brief-history-of-javascript/">A Brief History of JavaScript</a> <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn2">
+      <p><a href="https://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a> <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn3">
+      <p><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> <a href="#fnref:fn3" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn4">
+      <p><a href="http://crockford.com/javascript/javascript.html">Douglas Crockford - JavaScript: The World’s Most Misunderstood Programming Language</a> <a href="#fnref:fn4" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn5">
+      <p><a href="http://crockford.com/javascript/popular.html">Douglas Crockford - The World’s Most Misunderstood Programming Language Has Become the World’s Most Popular Programming Language</a> <a href="#fnref:fn5" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:fn6">
+      <p>Ibid. <a href="#fnref:fn6" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div><a class="u-url" href="/javascript/2019/01/30/jsfy.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Bytes</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Bytes</li><li><a class="u-email" href="mailto:frankkair@gmail.com">frankkair@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/FrankKair"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">FrankKair</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Software Engineering + Productivity</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
