@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-13T23:04:33+01:00</updated><id>http://localhost:4000/</id><title type="html">Bytes</title><subtitle>Software Engineering + Productivity</subtitle><entry><title type="html">JSfy part I: Language and community</title><link href="http://localhost:4000/javascript/2019/01/30/jsfy.html" rel="alternate" type="text/html" title="JSfy part I: Language and community" /><published>2019-01-30T20:08:00+00:00</published><updated>2019-01-30T20:08:00+00:00</updated><id>http://localhost:4000/javascript/2019/01/30/jsfy</id><content type="html" xml:base="http://localhost:4000/javascript/2019/01/30/jsfy.html">&lt;p&gt;This is the first post in the series &lt;strong&gt;JSfy&lt;/strong&gt; where I will talk about my experience using JavaScript in the last years.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-14T18:09:09+01:00</updated><id>http://localhost:4000/</id><title type="html">Bytes</title><subtitle>Software Engineering + Productivity</subtitle><entry><title type="html">Interlude: JavaScript without classes</title><link href="http://localhost:4000/javascript/2019/03/30/js-without-classes.html" rel="alternate" type="text/html" title="Interlude: JavaScript without classes" /><published>2019-03-30T20:08:00+00:00</published><updated>2019-03-30T20:08:00+00:00</updated><id>http://localhost:4000/javascript/2019/03/30/js-without-classes</id><content type="html" xml:base="http://localhost:4000/javascript/2019/03/30/js-without-classes.html">&lt;p&gt;I find it odd that, for example, &lt;em&gt;classes&lt;/em&gt; were introduced in the language, since we already have a &lt;em&gt;prototype&lt;/em&gt; system in place. I think that gives a shortcut to developers that are not willing to learn a different concept.&lt;/p&gt;
+
+&lt;p&gt;I’m a big believer that languages should have less facelifts and more consistency. Not only that, I also enjoy learning languages that teach new concepts, making me think fundamentally different in at least some aspects. Some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby&lt;/strong&gt; taught me metaprogramming (open classes, dynamic method creation);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Swift&lt;/strong&gt; taught me Optional types, protocol extensions and my first steps into functional programming;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt; taught me ownership, algebraic data types and pattern matching.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On “&lt;strong&gt;How JavaScript Works&lt;/strong&gt;”&lt;sup id=&quot;fnref:fn1&quot;&gt;&lt;a href=&quot;#fn:fn1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, Douglas Crockford says:&lt;/p&gt;
+
+&lt;p&gt;“JavaScript also has more convetional looking &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt; syntax that was designed specifically for developers who do not know nor ever will know how JavaScript works. It allows transfer of skills from lesser languages with no new learning.”&lt;/p&gt;
+
+&lt;p&gt;This is a rather strong statement, but it does have some truth to it. If you use JavaScript as you would use any other language, you’re missing the opportunity to learn new concepts, like prototypes and closures (of course, that also depends on your programming language upbringing).&lt;/p&gt;
+
+&lt;h3 id=&quot;classes&quot;&gt;Classes&lt;/h3&gt;
+
+&lt;p&gt;Classes are mainly used to hold state and have an attached behaviour, while also providing type extensibility via inheritance and composition. Let’s try to have this semantics without the &lt;em&gt;class&lt;/em&gt; keyword. The first idea is to use the prototype model:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Counter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;Counter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prototype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Counter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// 2&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In this example, we create Counter (with capital letter to signal that it needs the &lt;em&gt;new&lt;/em&gt; keyword in order to be invoked) with a state, a property &lt;code class=&quot;highlighter-rouge&quot;&gt;count&lt;/code&gt; set to zero and a &lt;em&gt;method&lt;/em&gt; that it’s attached to its prototype. What I like about this idea is that one uses the constructor for data and the prototype for behaviour, something like what Rust has with &lt;em&gt;struct&lt;/em&gt; and &lt;em&gt;impl&lt;/em&gt; or Go with &lt;em&gt;struct&lt;/em&gt; and &lt;em&gt;receivers&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;One can tinker with the &lt;code class=&quot;highlighter-rouge&quot;&gt;count&lt;/code&gt; property though (since it’s basically public), and being able to modify data directly is not good encapsulation. We should always define a contract, an interface for our classes / structs / objects. Functions to the rescue!&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;freeze&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;up&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// 2&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Think about this for a second. We have state (the variable &lt;code class=&quot;highlighter-rouge&quot;&gt;count&lt;/code&gt;) and we have behaviour (the methods &lt;code class=&quot;highlighter-rouge&quot;&gt;up&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;val&lt;/code&gt;) as well. Not only that, but by controlling what we expose via returning &lt;code class=&quot;highlighter-rouge&quot;&gt;Object.freeze&lt;/code&gt;, we effectively have &lt;em&gt;private&lt;/em&gt; access level in our “class”! The bad thing is that every time we create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;counter&lt;/code&gt; object, we’re recreating all of its functions, and that’s why prototypes are good, because when you attach behaviour to them, every new instance comes clean with its properties. When you call a method, like &lt;code class=&quot;highlighter-rouge&quot;&gt;c.up()&lt;/code&gt;, the JavaScript runtime asks the Counter prototype if it has something called &lt;code class=&quot;highlighter-rouge&quot;&gt;up&lt;/code&gt; attached to it.&lt;/p&gt;
+
+&lt;p&gt;Ok, that solves grouping state and behaviour, but how do we introduce composition? Here’s another example with functions:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Think of this constructor as an interface / protocol / trait&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Fly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;`I am a &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; and I can fly!`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;freeze&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fly&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// The &quot;class&quot; that &quot;implements&quot; the interface&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Bird&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;undefined&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Missing species parameter in constructor&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;freeze&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;fly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Fly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fly&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Bird&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Canary'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// I am a Canary and I can fly!&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We can include another function in our “class” to act as a building block, creating composition. Hopefully that shows that using “non traditional” methods to create custom data types is feasible and also cool to learn.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.howjavascriptworks.com&quot;&gt;How JavaScript Works&lt;/a&gt; &lt;a href=&quot;#fnref:fn1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">I find it odd that, for example, classes were introduced in the language, since we already have a prototype system in place. I think that gives a shortcut to developers that are not willing to learn a different concept.</summary></entry><entry><title type="html">JSfy part I: Language and community</title><link href="http://localhost:4000/javascript/2019/01/30/jsfy.html" rel="alternate" type="text/html" title="JSfy part I: Language and community" /><published>2019-01-30T20:08:00+00:00</published><updated>2019-01-30T20:08:00+00:00</updated><id>http://localhost:4000/javascript/2019/01/30/jsfy</id><content type="html" xml:base="http://localhost:4000/javascript/2019/01/30/jsfy.html">&lt;p&gt;This is the first post in the series &lt;strong&gt;JSfy&lt;/strong&gt; where I will talk about my experience using JavaScript in the last years.&lt;/p&gt;
 
 &lt;h3 id=&quot;language-and-community&quot;&gt;Language and community&lt;/h3&gt;
 
@@ -44,9 +140,7 @@
 
 &lt;p&gt;(I will give an overview of these books in another post).&lt;/p&gt;
 
-&lt;p&gt;So… to answer the first question, do I think JavaScript is a bad language? No, I don’t think it is. In its current version, I find the language (and its ecosystem) very powerful and fun to use. I do, however, find it odd that, for example, &lt;em&gt;classes&lt;/em&gt; were introduced in the language, since we already have a &lt;em&gt;prototype&lt;/em&gt; system in place. I think that gives a shortcut to developers that are not willing to learn a different concept (namely prototyping and prototype chain). I’m a big believer that languages should have less facelifts and more consistency.&lt;/p&gt;
-
-&lt;p&gt;What Douglas Crockford wrote here&lt;sup id=&quot;fnref:fn5&quot;&gt;&lt;a href=&quot;#fn:fn5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; pretty much sums it up:&lt;/p&gt;
+&lt;p&gt;So… to answer the first question, do I think JavaScript is a bad language? No, I don’t think it is. In its current version, I find the language (and its ecosystem) very powerful and fun to use. What Douglas Crockford wrote here&lt;sup id=&quot;fnref:fn5&quot;&gt;&lt;a href=&quot;#fn:fn5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; pretty much sums it up:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
