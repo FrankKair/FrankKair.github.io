@@ -3,19 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Interlude: JavaScript without classes | Bytes</title>
+<title>Classy JavaScript 🎩 | Bytes</title>
 <meta name="generator" content="Jekyll v3.8.4" />
-<meta property="og:title" content="Interlude: JavaScript without classes" />
+<meta property="og:title" content="Classy JavaScript 🎩" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="I find it odd that, for example, classes were introduced in the language, since we already have a prototype system in place. I think that gives a shortcut to developers that are not willing to learn a different concept." />
 <meta property="og:description" content="I find it odd that, for example, classes were introduced in the language, since we already have a prototype system in place. I think that gives a shortcut to developers that are not willing to learn a different concept." />
-<link rel="canonical" href="http://localhost:4000/javascript/2019/03/30/js-without-classes.html" />
-<meta property="og:url" content="http://localhost:4000/javascript/2019/03/30/js-without-classes.html" />
+<link rel="canonical" href="http://localhost:4000/javascript/2019/05/10/js-without-classes.html" />
+<meta property="og:url" content="http://localhost:4000/javascript/2019/05/10/js-without-classes.html" />
 <meta property="og:site_name" content="Bytes" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-03-30T20:08:00+00:00" />
+<meta property="article:published_time" content="2019-05-10T21:08:00+01:00" />
 <script type="application/ld+json">
-{"description":"I find it odd that, for example, classes were introduced in the language, since we already have a prototype system in place. I think that gives a shortcut to developers that are not willing to learn a different concept.","url":"http://localhost:4000/javascript/2019/03/30/js-without-classes.html","headline":"Interlude: JavaScript without classes","dateModified":"2019-03-30T20:08:00+00:00","datePublished":"2019-03-30T20:08:00+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/javascript/2019/03/30/js-without-classes.html"},"@context":"http://schema.org"}</script>
+{"description":"I find it odd that, for example, classes were introduced in the language, since we already have a prototype system in place. I think that gives a shortcut to developers that are not willing to learn a different concept.","url":"http://localhost:4000/javascript/2019/05/10/js-without-classes.html","headline":"Classy JavaScript 🎩","dateModified":"2019-05-10T21:08:00+01:00","datePublished":"2019-05-10T21:08:00+01:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/javascript/2019/05/10/js-without-classes.html"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Bytes" /></head>
 <body><header class="site-header" role="banner">
@@ -38,16 +38,16 @@
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Interlude: JavaScript without classes</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Classy JavaScript 🎩</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="2019-03-30T20:08:00+00:00" itemprop="datePublished">Mar 30, 2019
+      <time class="dt-published" datetime="2019-05-10T21:08:00+01:00" itemprop="datePublished">May 10, 2019
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     <p>I find it odd that, for example, <em>classes</em> were introduced in the language, since we already have a <em>prototype</em> system in place. I think that gives a shortcut to developers that are not willing to learn a different concept.</p>
 
-<p>I’m a big believer that languages should have less facelifts and more consistency. Not only that, I also enjoy learning languages that teach new concepts, making me think fundamentally different in at least some aspects. Some examples:</p>
+<p>I’m a big believer that languages should have less facelifts and more consistency. Not only that, I also enjoy learning languages that teach new concepts, making me think fundamentally different in at least one aspects. Some examples:</p>
 
 <ul>
   <li><strong>Ruby</strong> taught me metaprogramming (open classes, dynamic method creation);</li>
@@ -57,11 +57,13 @@
 
 <p>On “<strong>How JavaScript Works</strong>”<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">1</a></sup>, Douglas Crockford says:</p>
 
-<p>“JavaScript also has more convetional looking <code class="highlighter-rouge">class</code> syntax that was designed specifically for developers who do not know nor ever will know how JavaScript works. It allows transfer of skills from lesser languages with no new learning.”</p>
+<blockquote>
+  <p>“JavaScript also has more convetional looking <code class="highlighter-rouge">class</code> syntax that was designed specifically for developers who do not know nor ever will know how JavaScript works. It allows transfer of skills from lesser languages with no new learning.”</p>
+</blockquote>
 
 <p>This is a rather strong statement, but it does have some truth to it. If you use JavaScript as you would use any other language, you’re missing the opportunity to learn new concepts, like prototypes and closures (of course, that also depends on your programming language upbringing).</p>
 
-<h3 id="classes">Classes</h3>
+<h3 id="classless">Classless</h3>
 
 <p>Classes are mainly used to hold state and have an attached behaviour, while also providing type extensibility via inheritance and composition. Let’s try to have this semantics without the <em>class</em> keyword. The first idea is to use the prototype model:</p>
 
@@ -71,12 +73,12 @@
 
 <span class="nx">Counter</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">up</span> <span class="o">=</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
   <span class="k">this</span><span class="p">.</span><span class="nx">count</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">;</span>
+  <span class="k">return</span> <span class="k">this</span><span class="p">;</span>
 <span class="p">}</span>
 
 <span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Counter</span><span class="p">();</span>
-<span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">();</span>
-<span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">();</span>
-<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">c</span><span class="p">.</span><span class="nx">count</span><span class="p">);</span> <span class="c1">// 2</span>
+<span class="kd">const</span> <span class="nx">count</span> <span class="o">=</span> <span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">().</span><span class="nx">up</span><span class="p">().</span><span class="nx">count</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">count</span><span class="p">);</span> <span class="c1">// 2</span>
 </code></pre></div></div>
 
 <p>In this example, we create Counter (with capital letter to signal that it needs the <em>new</em> keyword in order to be invoked) with a state, a property <code class="highlighter-rouge">count</code> set to zero and a <em>method</em> that it’s attached to its prototype. What I like about this idea is that one uses the constructor for data and the prototype for behaviour, something like what Rust has with <em>struct</em> and <em>impl</em> or Go with <em>struct</em> and <em>receivers</em>.</p>
@@ -88,6 +90,7 @@
 
   <span class="kd">function</span> <span class="nx">up</span><span class="p">()</span> <span class="p">{</span>
     <span class="nx">count</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="k">return</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">freeze</span><span class="p">({</span> <span class="nx">up</span><span class="p">,</span> <span class="nx">val</span> <span class="p">});</span>
   <span class="p">}</span>
 
   <span class="kd">function</span> <span class="nx">val</span><span class="p">()</span> <span class="p">{</span>
@@ -98,9 +101,8 @@
 <span class="p">}</span>
 
 <span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="nx">counter</span><span class="p">();</span>
-<span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">()</span>
-<span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">()</span>
-<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">c</span><span class="p">.</span><span class="nx">val</span><span class="p">());</span> <span class="c1">// 2</span>
+<span class="kd">const</span> <span class="nx">count</span> <span class="o">=</span> <span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">().</span><span class="nx">up</span><span class="p">().</span><span class="nx">val</span><span class="p">();</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">count</span><span class="p">);</span> <span class="c1">// 2</span>
 </code></pre></div></div>
 
 <p>Think about this for a second. We have state (the variable <code class="highlighter-rouge">count</code>) and we have behaviour (the methods <code class="highlighter-rouge">up</code> and <code class="highlighter-rouge">val</code>) as well. Not only that, but by controlling what we expose via returning <code class="highlighter-rouge">Object.freeze</code>, we effectively have <em>private</em> access level in our “class”! The bad thing is that every time we create a new <code class="highlighter-rouge">counter</code> object, we’re recreating all of its functions, and that’s why prototypes are good, because when you attach behaviour to them, every new instance comes clean with its properties. When you call a method, like <code class="highlighter-rouge">c.up()</code>, the JavaScript runtime asks the Counter prototype if it has something called <code class="highlighter-rouge">up</code> attached to it.</p>
@@ -108,7 +110,7 @@
 <p>Ok, that solves grouping state and behaviour, but how do we introduce composition? Here’s another example with functions:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Think of this constructor as an interface / protocol / trait</span>
-<span class="kd">function</span> <span class="nx">Fly</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+<span class="kd">function</span> <span class="nx">flying</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
   <span class="kd">function</span> <span class="nx">fly</span><span class="p">()</span> <span class="p">{</span>
     <span class="k">return</span> <span class="s2">`I am a </span><span class="p">${</span><span class="nx">type</span><span class="p">}</span><span class="s2"> and I can fly!`</span><span class="p">;</span>
   <span class="p">}</span>
@@ -117,21 +119,39 @@
 <span class="p">}</span>
 
 <span class="c1">// The "class" that "implements" the interface</span>
-<span class="kd">function</span> <span class="nx">Bird</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
-  <span class="k">if</span> <span class="p">(</span><span class="nx">type</span> <span class="o">===</span> <span class="kc">undefined</span><span class="p">)</span> <span class="p">{</span>
-    <span class="k">throw</span> <span class="s2">"Missing species parameter in constructor"</span><span class="p">;</span>
-  <span class="p">}</span>
-
+<span class="kd">function</span> <span class="nx">bird</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
   <span class="k">return</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">freeze</span><span class="p">({</span>
-    <span class="na">fly</span><span class="p">:</span> <span class="nx">Fly</span><span class="p">(</span><span class="nx">type</span><span class="p">).</span><span class="nx">fly</span>
+    <span class="na">fly</span><span class="p">:</span> <span class="nx">flying</span><span class="p">(</span><span class="nx">type</span><span class="p">).</span><span class="nx">fly</span>
   <span class="p">});</span>
 <span class="p">}</span>
 
-<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="nx">Bird</span><span class="p">(</span><span class="s1">'Canary'</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">b</span> <span class="o">=</span> <span class="nx">bird</span><span class="p">(</span><span class="s1">'Canary'</span><span class="p">);</span>
 <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">b</span><span class="p">.</span><span class="nx">fly</span><span class="p">());</span> <span class="c1">// I am a Canary and I can fly!</span>
 </code></pre></div></div>
 
 <p>We can include another function in our “class” to act as a building block, creating composition. Hopefully that shows that using “non traditional” methods to create custom data types is feasible and also cool to learn.</p>
+
+<h3 id="using-class">Using class</h3>
+
+<p>Here’s the Counter example using the <code class="highlighter-rouge">class</code> keyword and the new <code class="highlighter-rouge">#</code> symbol for private members<sup id="fnref:fn2"><a href="#fn:fn2" class="footnote">2</a></sup>:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nx">Counter</span> <span class="p">{</span>
+  <span class="err">#</span><span class="nx">count</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+
+  <span class="kd">get</span> <span class="nx">val</span><span class="p">()</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="err">#</span><span class="nx">count</span><span class="p">;</span>
+  <span class="p">}</span>
+
+  <span class="nx">up</span><span class="p">()</span> <span class="p">{</span>
+    <span class="k">this</span><span class="p">.</span><span class="err">#</span><span class="nx">count</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="k">return</span> <span class="k">this</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kd">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Counter</span><span class="p">();</span>
+<span class="kd">const</span> <span class="nx">count</span> <span class="o">=</span> <span class="nx">c</span><span class="p">.</span><span class="nx">up</span><span class="p">().</span><span class="nx">up</span><span class="p">().</span><span class="nx">val</span><span class="p">;</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">count</span><span class="p">);</span> <span class="c1">// 2</span>
+</code></pre></div></div>
 
 <h3 id="links">Links</h3>
 
@@ -140,10 +160,13 @@
     <li id="fn:fn1">
       <p><a href="http://www.howjavascriptworks.com">How JavaScript Works</a> <a href="#fnref:fn1" class="reversefootnote">&#8617;</a></p>
     </li>
+    <li id="fn:fn2">
+      <p><a href="https://www.youtube.com/watch?v=c0oy0vQKEZE">What’s new in JavaScript (Google I/O ’19)</a> <a href="#fnref:fn2" class="reversefootnote">&#8617;</a></p>
+    </li>
   </ol>
 </div>
 
-  </div><a class="u-url" href="/javascript/2019/03/30/js-without-classes.html" hidden></a>
+  </div><a class="u-url" href="/javascript/2019/05/10/js-without-classes.html" hidden></a>
 </article>
 
       </div>

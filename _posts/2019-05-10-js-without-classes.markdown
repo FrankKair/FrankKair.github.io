@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Interlude: JavaScript without classes"
-date:   2019-03-30 21:08:00 +0100
+title:  "Classy JavaScript 🎩"
+date:   2019-05-10 21:08:00 +0100
 categories: javascript
 ---
 
@@ -15,11 +15,11 @@ I'm a big believer that languages should have less facelifts and more consistenc
 
 On "**How JavaScript Works**"[^fn1], Douglas Crockford says:
 
-"JavaScript also has more convetional looking `class` syntax that was designed specifically for developers who do not know nor ever will know how JavaScript works. It allows transfer of skills from lesser languages with no new learning."
+> "JavaScript also has more convetional looking `class` syntax that was designed specifically for developers who do not know nor ever will know how JavaScript works. It allows transfer of skills from lesser languages with no new learning."
 
 This is a rather strong statement, but it does have some truth to it. If you use JavaScript as you would use any other language, you're missing the opportunity to learn new concepts, like prototypes and closures (of course, that also depends on your programming language upbringing).
 
-### Classes
+### Classless
 
 Classes are mainly used to hold state and have an attached behaviour, while also providing type extensibility via inheritance and composition. Let's try to have this semantics without the *class* keyword. The first idea is to use the prototype model:
 
@@ -90,6 +90,31 @@ console.log(b.fly()); // I am a Canary and I can fly!
 
 We can include another function in our "class" to act as a building block, creating composition. Hopefully that shows that using "non traditional" methods to create custom data types is feasible and also cool to learn.
 
+### Using class
+
+Here's the Counter example using the `class` keyword and the new `#` symbol for private members[^fn2]:
+
+```javascript
+class Counter {
+  #count = 0;
+
+  get val() {
+    return this.#count;
+  }
+
+  up() {
+    this.#count += 1;
+    return this;
+  }
+}
+
+const c = new Counter();
+const count = c.up().up().val;
+console.log(count); // 2
+```
+
 ### Links
 
 [^fn1]: [How JavaScript Works](http://www.howjavascriptworks.com)
+
+[^fn2]: [What’s new in JavaScript (Google I/O ’19)](https://www.youtube.com/watch?v=c0oy0vQKEZE)
