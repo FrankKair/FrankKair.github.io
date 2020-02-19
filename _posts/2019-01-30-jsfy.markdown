@@ -1,25 +1,19 @@
 ---
 layout: post
-title:  "JSfy (all the things?)"
+title:  "Classy JavaScript 🎩"
 date:   2019-01-30 21:08:00 +0100
 categories: javascript
 ---
 
-Disclaimer: I started JavaScripting in 2016, already in the context of ES6 and the boom of [React](https://reactjs.org).
+This post blends a little historic perspective and a few examples comparing classes with functions and the prototype model.
 
-### Fatigue or Renaissance?
+### JSfy (all the things!?)
 
-Once I was talking to a group of programmers and one of them was getting started with JavaScript. After fiddling with the language, he said that the language was horrible, that it was too easy to make mistakes. Then, he went on to say that the language was ok, but the community, the people were awful. On other occasion, during an interview, the interviewer asked me "What do you think about JavaScript fatigue?".
+JavaScript is so ubiquitous that everyone has something to say about it. During an interview, an engineer asked me "What do you think about JavaScript fatigue?" and I also remember reading somewhere "We're not living a JavaScript fatigue, we're going through JavaScript renaissance!". You can make the case for both sides. Indeed, things happen fast in the JS community, and it's hard to keep up with everything. On the bright side, the fact that there is so much activity all the time is incredible. You can literally find JavaScript libraries for all of your needs.
 
-These situations made me realise that, at this point, JavaScript is so ubiquitous that everyone has something to say about it. People form their opinion after using the tools for some time, having dealt with the good, the bad and the ugly. On other occasions, we just propagate the louder voices of the community, sometimes spreading misconceptions.
+The community effectively ported JavaScript to the server ([Node.js](https://nodejs.org/en/)), desktop ([Electron](https://electronjs.org)) and mobile ([React Native](https://facebook.github.io/react-native/)). Whether you think it's good to use JavaScript in these scenarios or not, that's another story, but we must admit that it is amazing how much people embraced JavaScript and made it the most popular programming language ever[^fn1]. You also have compilers that target JavaScript, allowing you to write code in other languages that eventually become JavaScript. See [ClojureScript](https://clojurescript.org) and [BuckleScript](https://bucklescript.github.io/).
 
-I also remember reading somewhere "We're not living a JavaScript fatigue, we're going through JavaScript renaissance!". You can make the case for both sides. Indeed, too many things are happening too fast in the JS community, and it's hard to keep up with everything (frontend frameworks comes to mind). On the bright side, how incredible is the fact that there is so much activity all the time? You can literally find JavaScript libraries for all of your needs. And that takes me back to what my friend said before, that the community was awful. 
-
-The community effectively "ported" JavaScript to the server ([Node.js](https://nodejs.org/en/)), the desktop ([Electron](https://electronjs.org)) and mobile ([React Native](https://facebook.github.io/react-native/)). Whether you think it's good to use JavaScript in these scenarios or not, that's another story, but we must be able to admit that it is amazing how much people embraced JavaScript and made it the most popular programming language ever[^fn1].
-
-You also have compilers that target JavaScript, allowing you to write code in other languages that eventually becomes JavaScript. See [ClojureScript](https://clojurescript.org) and [Reason](https://reasonml.github.io).
-
-Furthermore, I don’t think JavaScript is a bad language. In its current iteration, I find the language (and its ecosystem) very convenient and fun to use. What [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) wrote here[^fn2] pretty much sums it up:
+With [TypeScript](https://www.typescriptlang.org/) in its current iteration, I find the language (and its ecosystem) quite convenient to use. In regards to traditional JavaScript, what [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) wrote [here](http://crockford.com/javascript/popular.html)) pretty much sums it up:
 
 > "JavaScript is an astonishing language, in the very worst sense. Its astonishing nature led to a very bad reputation".
 
@@ -27,99 +21,121 @@ Furthermore, I don’t think JavaScript is a bad language. In its current itera
 
 ### Story time: Humble beginnings
 
-JavaScript’s origin story[^fn3] is quite interesting. In 1995, [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), at the time working for Netscape Communications, was tasked to develop a scripting language for the browser. The new language was going to be based on Scheme[^fn4], but then something happened. Sun Microsystems was about to close a deal with Netscape, where they would include Java in the browser as well. 
+JavaScript’s origin story[^fn2] is quite interesting. In 1995, [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), at the time working for Netscape Communications, was tasked to develop a scripting language for the browser. The new language was going to be based on [Scheme](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29), but then something happened. Sun Microsystems was about to close a deal with Netscape, where they would include Java in the browser as well. 
 
 In that scenario, Java is the big, enterprise language and they wanted a scripting language to be the lightweight counterpart. Available options at that time included Perl, Python, TCL and Scheme, but none of them resembled Java in the slightest. Netscape wanted to make the case that their language was up for the task.
 
-That dramatically changed the fate of JavaScript, a language that initially was supposed to be “Scheme for the browser” now inherits the syntax of Java, with curly braces instead of parenthesis. Semantically, though, JavaScript still maintained some functional roots. A prototype was created in 10 days in May 1995[^fn5].
+That dramatically changed the fate of JavaScript, a language that initially was supposed to be “Scheme for the browser” now inherits the syntax of Java, with curly braces instead of parenthesis. Semantically, though, JavaScript still maintained some functional roots. A prototype was created in 10 days in May 1995.
 
-It is easy to see how the language could have flaws, knowing that its first prototype was put together in 10 days, under a lot of pressure. It seems to me that the language might have been marketed as a less serious language, where Java got all the professional praise. It is also worth pointing out that during the period, the web was in its infancy, and JavaScript was not being used by professional engineers, but rather by anyone trailblazing the internet.
+It is easy to see why the language has (many) flaws, knowing that its first prototype was put together under a lot of pressure. It seems to me that the language might have been marketed as a less serious language, where Java got the professional stamp.
 
-### Interlude: Stockholm syndrome? 🇸🇪
+### Classy JavaScript 🎩
 
-Could it be the case that the more you use a tool, the more affectionate you become, thus making you blind to its flaws? 🤔
+It is a blessing and a curse that you can just pick up a language and most things just work. On the other end of the spectrum, some languages (like [Rust](https://www.rust-lang.org)) require a lot of grinding before real productivity kicks in. And there's nothing wrong with either cases, they're just different. Being dynamic and weakly typed, JavaScript is very permissive, allowing you to create programs quickly, run them and see things happening, even if there are small mistakes lurking. Common sources of confusion include: `prototype`, `this` and `bind`.
 
-### (Finally) Learning JavaScript
-
-I’m under the impression that very few people actually bothered studying JavaScript. Most engineers I’ve come across just started using it and took it from there. It is a blessing and a curse that you can just pick up the language and most things just work. On the other end of the spectrum, [Rust](https://www.rust-lang.org) requires a lot of grinding before real productivity kicks in.
-
-And there's nothing wrong with either cases, they're just different.
-
-Being dynamic and weakly typed, JavaScript is very permissive, allowing you to create programs quickly, run them and see things happening, even if there are small mistakes lurking. The curse aspect is that one may never really understand the language. Common sources of confusion include: `prototype`, `this` and `bind`.
-
-It became my quest to fully learn and understand the language, so I’ve read the following books:
-
-- [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?keywords=javascript+the+good+parts&qid=1558178821&s=gateway&sr=8-1) (Douglas Crockford);
-- [Effective JavaScript](http://effectivejs.com) (David Herman);
-- [Eloquent JavaScript](https://eloquentjavascript.net) (Marijn Haverbeke);
-- [How JavaScript Works](http://howjavascriptworks.com) (Douglas Crockford);
-- [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) (Reg Braithwaite).
-
-Both _JavaScript: The Good Parts_ and _Effective JavaScript_ deal with older versions of JavaScript (pre-ES6) since they were released in 2008 and 2013 respectively. One might think that these books are outdated and have little relevance, however I happen to like the history of things in general, so reading these books gave me a glimpse of the language's past, while also providing some insights.
-
-Yes, ES6 improvements certainly made some chapters less important, like the ones talking about `"use strict";` and scoping with `var` (today's `const` and `let` to the rescue!), but one still finds good advices, such as (chapters from Effective JavaScript):
-
-- 8 Minimize use of the global object / 9 Always declare local variables;
-- 11 Get comfortable with closures;
-- 18 Understand the difference between function, method and constructor calls;
-- 30 Undestand the difference between prototype, getPrototypeOf, and \__proto__;
-- 34 Store methods on Prototypes;
-- 37 Recognize the implicit binding of this.
-
-Notice that my favorite chapters are about functions and prototypes. Curiously enough, properly understanding the prototype model made me wonder why classes were introduced in JavaScript. Going forward though, it seems that classes are here to stay and the prototype model will only be wielded by those dealing with older environments (may it be browsers or libraries).
-
-On _Eloquent JavaScript_, one can already sense that Haverbeke points to prototype as something just to be aware of, where classes are the way to go:
+Curiously enough, [How JavaScript Works](http://howjavascriptworks.com) ([Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford)'s new book) made me like the prototype model and question a little why classes were introduced in the language. Going forward though, classes are here to stay and I imagine the prototype model will only be wielded by those dealing with older environments (may it be browsers or libraries). On [Eloquent JavaScript](https://eloquentjavascript.net) one can see that Marijn Haverbeke points to prototypes as something just to be aware of, where classes are the way to go:
 
 > JavaScript’s prototype system can be interpreted as a somewhat informal take on an object-oriented concept called classes.
 
-Apart from my personal feeling towards prototypes and classes, _Eloquent JavaScript_ is probably the **best (modern) introductory JavaScript book** out there, guiding you not only through the language itself but also giving beginners a nice overview of networks, browsers, DOM, HTTP and Node.js. It is a very friendly intro to Web programming in general.
+(Eloquent JavaScript is a good (modern) beginner JavaScript book, guiding the reader through the language itself and also providing a brief overview of networks, browsers, DOM, HTTP and Node.js).
 
-_How JavaScript Works_ and _JavaScript Allongé_ on the other hand, are geared towards advanced users. [Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford)'s new book is a very ergonomic read, with chapters being just the right size and blending in a much appreciated dose of humour. My favorites chapters are:
+### Classes, prototypes and functions
 
-- 12 How Functions Work;
-- 17 How Classfree Works;
-- 20 How Eventual Programming Works;
+Classes are mainly used to define a custom type, hold state and have an attached behaviour, while also providing extensibility via inheritance and composition. This is the base example we'll be using:
 
-_JavaScript Allongé_ is a book to stretch your skills, rethink concepts and (hopefully) see things differently. It left me scratching my head a few times, but the _aha_ moments were well worth it. You will gain  a deeper understading of not only JavaScript, but programming in general, exploring different paradigms and techniques. Highly recommended as a "next level" book.
+```javascript
+class Counter {
+  constructor() {
+    this.count = 0;
+  }
 
-### Epilogue: Lisp in C's clothing?
+  get val() {
+    return this.count;
+  }
 
-[Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) called JavaScript “Lisp in C’s Clothing”[^fn6]. By no means I'm a Lisp expert, however, from the limited knowledge I have about Lisp, Scheme and Clojure, there's little resemblance to be found.
+  up() {
+    this.count += 1;
+    return this;
+  }
+}
 
-The key characteristic of the Lisp family of languages is **homoiconicity**[^fn7]. From Wikipedia:
+const c = new Counter();
+const count = c.up().up().val;
+console.log(count); // 2
+```
 
->"A language is homoiconic if a program written in it can be manipulated as data using the language, and thus the program's internal representation can be inferred just by reading the program itself".
+Let's try to have the same semantics without the *class* keyword. The first idea is to use the prototype model:
 
-In other words, the code you write is the same code the compiler / interpreter sees and manipulates. That's different from most languages, like C for example, that transforms your high level code into an intermediate representation before becoming machine code for the specific architecture you're targeting.
+```javascript
+function Counter() {
+  this.count = 0;
+}
 
-Having "code as data" allows the following (also from Wikipedia):
+Counter.prototype.up = function() {
+  this.count += 1;
+  return this;
+}
 
-> "Lisp programs are written in the form of lists; the result is that the program can access its own functions and procedures while running, and programmatically alter itself on the fly. Homoiconic languages typically include full support of syntactic macros, allowing the programmer to express transformations of programs in a concise way."
+const c = new Counter();
+const count = c.up().up().count;
+console.log(count); // 2
+```
 
-Simply put, a syntactic **macro** gives you the power to create new syntax for your language, and JavaScript does not possess that power. Then why people say "JavaScript is Lisp in C's clothing"? Lisp pioneered some very important ideas in computer science and the ones that interest us are:
+In this example, we create Counter (with capital letter to signal that it needs the *new* keyword in order to be invoked) with a state, a property `count` set to zero and a *method* that it's attached to its prototype. What I like about this idea is that one uses the constructor for data and the prototype for behaviour, something like what Rust has with *struct* and *impl* or Go with *struct* and *receivers*.
 
-- Automatic memory management;
-- Dynamic typing;
-- Higher-order functions.
+One can tinker with the `count` property though (since it's basically public), and being able to modify data directly is not good encapsulation. We should always define a contract, an interface for our classes / structs / objects. Functions to the rescue!
 
-On **How JavaScript Works**, [Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) wrote the following about **closures**:
+```javascript
+function counter() {
+  let count = 0;
 
-> It is the most important discovery so far in the history of programming languages. It was discovered in the Scheme language. It reached the mainstream with JavaScript.
+  function up() {
+    count += 1;
+    return Object.freeze({ up, val });
+  }
 
-I imagine that **higher-order functions** in particular weren't that popular back in the 90's, where C, C++ and Java were major players. So when people first laid eyes on this feature, it took them back to Lisp and Scheme and therefore this relation was made.
+  function val() {
+    return count;
+  }
+
+  return Object.freeze({ up, val });
+}
+
+const c = counter();
+const count = c.up().up().val();
+console.log(count); // 2
+```
+
+Think about this for a second. We have state (the variable `count`) and we have behaviour (the methods `up` and `val`) as well. Not only that, but by controlling what we expose via returning `Object.freeze`, we effectively have *private* access level in our "class"! The bad thing is that every time we create a new `counter` object, we're recreating all of its functions, and that's why prototypes are good, because when you attach behaviour to them, every new instance comes clean with its properties. When you call a method, like `c.up()`, the JavaScript runtime asks the Counter prototype if it has something called `up` attached to it.
+
+Ok, that solves grouping state and behaviour, but how do we introduce composition? As you might have guessed by now: using more functions!
+
+```javascript
+// Think of this constructor as an interface / protocol / trait
+function flying(type) {
+  function fly() {
+    return `I am a ${type} and I can fly!`;
+  }
+
+  return Object.freeze({ fly });
+}
+
+// The "class" that "implements" the interface
+function bird(type) {
+  return Object.freeze({
+    fly: flying(type).fly
+  });
+}
+
+const b = bird('Canary');
+console.log(b.fly()); // I am a Canary and I can fly!
+```
+
+Hopefully that shows that using "non traditional" methods to create custom data types is feasible and also interesting to learn.
 
 ### Links:
 
 [^fn1]: [The World's Most Misunderstood Programming Language Has Become the World's Most Popular Programming Language](http://crockford.com/javascript/popular.html)
 
-[^fn2]: Ibid.
+[^fn2]: [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 
-[^fn3]: [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
-
-[^fn4]: [Scheme](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29)
-
-[^fn5]: [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
-[^fn6]: [JavaScript: The World's Most Misunderstood Programming Language](http://crockford.com/javascript/javascript.html)
-
-[^fn7]: [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity)
