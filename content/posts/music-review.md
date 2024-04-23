@@ -1,12 +1,20 @@
 +++
 title = 'Music Review'
-date = 2024-04-06T14:19:26Z
+date = 2024-05-06T14:19:26Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
+| Dividing The Element | Dividing The Element | 2018 | 🇿🇼 Zimbabwe | 08/06/2024 |
+| Linda Martini | Olhos de Mongol | 2006 | 🇵🇹 Portugal | 01/06/2024 |
+| Rush | Moving Pictures | 1981 | 🇨🇦 Canada | 25/05/2024 |
+| Soen | Tellurian | 2014 | 🇸🇪 Sweden | 18/05/2024 |
+| Behemoth | I Loved You at Your Darkest | 2018 | 🇵🇱 Poland | 11/05/2024 |
+| Vesna | Muzika Slavica | 2023 | 🇨🇿 Czechia | 04/05/2024 |
+| Gardens & Villa | Gardens & Villa | 2011 | 🇺🇸 USA | 20/04/2024 |
 | alt-J | An Awesome Wave | 2012 | 🇬🇧 UK | 13/04/2024 |
 | Beyoncé | Cowboy Carter | 2024 | 🇺🇸 USA | 06/04/2024 |
 | Pitty | Admirável Chip Novo | 2003 | 🇧🇷 Brazil | 30/03/2024 |
@@ -171,43 +179,47 @@ date = 2024-04-06T14:19:26Z
 
 ## Stats
 
-Total: 147
+Total: 155
 
 | Country      | Count |
 |--------------|-------|
-| 🇺🇸 USA      | 46    |
+| 🇺🇸 USA      | 47    |
 | 🇧🇷 Brazil   | 36    |
 | 🇬🇧 UK       | 27    |
-| 🇸🇪 Sweden   | 10    |
+| 🇸🇪 Sweden   | 11    |
+| 🇨🇦 Canada   | 3     |
+| 🇦🇷 Argentina | 2    |
+| 🇦🇺 Australia | 2    |
+| 🇨🇿 Czechia  | 2     |
+| 🇫🇷 France   | 2     |
+| 🇮🇹 Italy    | 2     |
 | 🇳🇿 New Zealand | 2  |
 | 🇳🇴 Norway   | 2     |
-| 🇦🇷 Argentina | 2    |
-| 🇫🇷 France   | 2     |
 | 🇰🇷 South Korea | 2  |
-| 🇮🇹 Italy    | 2     |
-| 🇨🇦 Canada   | 2     |
-| 🇦🇺 Australia | 2    |
 | 🇦🇲 Armenia  | 1     |
-| 🇬🇷 Greece   | 1     |
-| 🇵🇰 Pakistan | 1     |
-| 🇪🇸 Spain    | 1     |
-| 🇮🇪 Ireland  | 1     |
-| 🇨🇿 Czechia  | 1     |
-| 🇮🇱 Israel   | 1     |
-| 🇳🇬 Nigeria  | 1     |
 | 🇫🇮 Finland  | 1     |
+| 🇬🇷 Greece   | 1     |
 | 🇮🇸 Iceland  | 1     |
+| 🇮🇪 Ireland  | 1     |
+| 🇮🇱 Israel   | 1     |
+| 🇯🇵 Japan    | 1     | 
 | 🇲🇱 Mali     | 1     |
+| 🇳🇬 Nigeria  | 1     |
+| 🇵🇰 Pakistan | 1     |
+| 🇵🇱 Poland   | 1     |
+| 🇵🇹 Portugal | 1     |
 | 🇷🇺 Russia   | 1     |
+| 🇪🇸 Spain    | 1     |
+| 🇿🇼 Zimbabwe | 1     |
 
 | Decade   | Count |
 |----------|-------|
-| 2010s    | 46    |
-| 2020s    | 36    |
+| 2010s    | 50    |
+| 2020s    | 37    |
 | 1990s    | 21    |
-| 1970s    | 16    |
-| 2000s    | 14    |
-| 1980s    | 11    |
+| 1970s    | 17    |
+| 2000s    | 15    |
+| 1980s    | 12    |
 | 1950s    | 1     |
 | 1910s    | 1     |
 | 1960s    | 1     |
