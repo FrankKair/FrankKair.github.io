@@ -68,7 +68,7 @@ class Printer:
 
     def write_albums_data(self):
         years = set()
-        header = '| Artist | Album | Year | Country | Review | \n'
+        header = '| Artist | Album | Year | Country | Review |\n'
         next_line = '| ------ | ----- | ---- | ------- | ------ |\n'
         with open(self.output, 'a') as out:
             for a in self.stats.data:
