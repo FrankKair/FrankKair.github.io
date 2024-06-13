@@ -1,11 +1,11 @@
 +++
 title = 'Music Review'
-date = 2024-06-13T13:20:39Z
+date = 2024-06-13T22:18:33Z
 +++
 
 ## 2024
 
-| Artist | Album | Year | Country | Review | 
+| Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
 | Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
 | Dividing The Element | Dividing The Element | 2018 | 🇿🇼 Zimbabwe | 08/06/2024 |
@@ -30,7 +30,7 @@ date = 2024-06-13T13:20:39Z
 
 ## 2023
 
-| Artist | Album | Year | Country | Review | 
+| Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
 | Bullet Bane | Continental | 2017 | 🇧🇷 Brazil | 25/11/2023 |
 | Radiohead | In Rainbows | 2007 | 🇬🇧 UK | 18/11/2023 |
@@ -76,7 +76,7 @@ date = 2024-06-13T13:20:39Z
 
 ## 2022
 
-| Artist | Album | Year | Country | Review | 
+| Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
 | Xênia França | Em Nome da Estrela | 2022 | 🇧🇷 Brazil | 17/12/2022 |
 | Boston | Boston | 1976 | 🇺🇸 USA | 10/12/2022 |
@@ -131,7 +131,7 @@ date = 2024-06-13T13:20:39Z
 
 ## 2021
 
-| Artist | Album | Year | Country | Review | 
+| Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
 | Bon Iver | 22 a million | 2016 | 🇺🇸 USA | 25/12/2021 |
 | Esperanza Spalding | Emily's D+Evolution | 2016 | 🇺🇸 USA | 18/12/2021 |

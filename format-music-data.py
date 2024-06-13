@@ -17,11 +17,12 @@ class Album:
 
 
 class Stats:
-    def __init__(self):
+    def __init__(self, filepath):
         self.data = []
         self.count = 0
         self.countries = Counter()
         self.decades = Counter()
+        self.parse_csv(filepath)
 
     def add(self, album):
         self.data.append(album)
@@ -30,29 +31,28 @@ class Stats:
         decade = str(album.year // 10 * 10) + 's'
         self.decades[decade] += 1
 
-
-def parse_csv_into_stats(filepath, stats):
-    with open(filepath, 'r', encoding='utf-8') as csvfile:
-        parsed = csv.reader(csvfile)
-        for count, row in enumerate(parsed):
-            if count != 0 and row[0] != '':
-                stats.add(
-                    Album(
-                        row[0],
-                        row[1],
-                        int(row[2]),
-                        row[3],
-                        row[4],
+    def parse_csv(self, filepath):
+        with open(filepath, 'r', encoding='utf-8') as csvfile:
+            parsed = csv.reader(csvfile)
+            for count, row in enumerate(parsed):
+                if count != 0 and row[0] != '':
+                    self.add(
+                        Album(
+                            row[0],
+                            row[1],
+                            int(row[2]),
+                            row[3],
+                            row[4],
+                        )
                     )
-                )
 
 
-class Printer:
+class PostConverter:
     def __init__(self, stats, output):
         self.stats = stats
         self.output = output
 
-    def write_md(self):
+    def write_to_markdown(self):
         self.write_headers()
         self.write_albums_data()
         self.write_albums_stats()
@@ -105,6 +105,5 @@ class Printer:
 
 
 if __name__ == '__main__':
-    stats = Stats()
-    parse_csv_into_stats('music-review-data.csv', stats)
-    Printer(stats, 'content/posts/music-review.md').write_md()
+    stats = Stats('music-review-data.csv')
+    PostConverter(stats, 'content/posts/music-review.md').write_to_markdown()
