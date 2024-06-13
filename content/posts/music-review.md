@@ -1,11 +1,11 @@
 +++
 title = 'Music Review'
-date = 2024-05-06T14:19:26Z
+date = 2024-06-13T13:20:39Z
 +++
 
 ## 2024
 
-| Artist | Album | Year | Country | Review |
+| Artist | Album | Year | Country | Review | 
 | ------ | ----- | ---- | ------- | ------ |
 | Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
 | Dividing The Element | Dividing The Element | 2018 | 🇿🇼 Zimbabwe | 08/06/2024 |
@@ -30,7 +30,7 @@ date = 2024-05-06T14:19:26Z
 
 ## 2023
 
-| Artist | Album | Year | Country | Review |
+| Artist | Album | Year | Country | Review | 
 | ------ | ----- | ---- | ------- | ------ |
 | Bullet Bane | Continental | 2017 | 🇧🇷 Brazil | 25/11/2023 |
 | Radiohead | In Rainbows | 2007 | 🇬🇧 UK | 18/11/2023 |
@@ -76,7 +76,7 @@ date = 2024-05-06T14:19:26Z
 
 ## 2022
 
-| Artist | Album | Year | Country | Review |
+| Artist | Album | Year | Country | Review | 
 | ------ | ----- | ---- | ------- | ------ |
 | Xênia França | Em Nome da Estrela | 2022 | 🇧🇷 Brazil | 17/12/2022 |
 | Boston | Boston | 1976 | 🇺🇸 USA | 10/12/2022 |
@@ -131,7 +131,7 @@ date = 2024-05-06T14:19:26Z
 
 ## 2021
 
-| Artist | Album | Year | Country | Review |
+| Artist | Album | Year | Country | Review | 
 | ------ | ----- | ---- | ------- | ------ |
 | Bon Iver | 22 a million | 2016 | 🇺🇸 USA | 25/12/2021 |
 | Esperanza Spalding | Emily's D+Evolution | 2016 | 🇺🇸 USA | 18/12/2021 |
@@ -143,7 +143,7 @@ date = 2024-05-06T14:19:26Z
 | Julio y Agosto | La niebla y la autopista | 2016 | 🇦🇷 Argentina | 30/11/2021 |
 | Periphery | Periphery II: This Time It's Personal | 2012 | 🇺🇸 USA | 18/10/2021 |
 | Lil Nas X | Montero | 2021 | 🇺🇸 USA | 12/10/2021 |
-| Papangu | Holoceno | 2021 | 🇧🇷 Brazil | 03/10/10 |
+| Papangu | Holoceno | 2021 | 🇧🇷 Brazil | 03/10/2021 |
 | Deftones | Diamond Eyes | 2010 | 🇺🇸 USA | 25/09/2021 |
 | Metallica | ...And Justice for All | 1988 | 🇺🇸 USA | 18/09/2021 |
 | Vulfpeck | The Beautiful Game | 2016 | 🇺🇸 USA | 11/09/2021 |
@@ -179,47 +179,47 @@ date = 2024-05-06T14:19:26Z
 
 ## Stats
 
-Total: 155
+Total: 154
 
-| Country      | Count |
-|--------------|-------|
-| 🇺🇸 USA      | 47    |
-| 🇧🇷 Brazil   | 36    |
-| 🇬🇧 UK       | 27    |
-| 🇸🇪 Sweden   | 11    |
-| 🇨🇦 Canada   | 3     |
-| 🇦🇷 Argentina | 2    |
-| 🇦🇺 Australia | 2    |
-| 🇨🇿 Czechia  | 2     |
-| 🇫🇷 France   | 2     |
-| 🇮🇹 Italy    | 2     |
-| 🇳🇿 New Zealand | 2  |
-| 🇳🇴 Norway   | 2     |
-| 🇰🇷 South Korea | 2  |
-| 🇦🇲 Armenia  | 1     |
-| 🇫🇮 Finland  | 1     |
-| 🇬🇷 Greece   | 1     |
-| 🇮🇸 Iceland  | 1     |
-| 🇮🇪 Ireland  | 1     |
-| 🇮🇱 Israel   | 1     |
-| 🇯🇵 Japan    | 1     | 
-| 🇲🇱 Mali     | 1     |
-| 🇳🇬 Nigeria  | 1     |
-| 🇵🇰 Pakistan | 1     |
-| 🇵🇱 Poland   | 1     |
-| 🇵🇹 Portugal | 1     |
-| 🇷🇺 Russia   | 1     |
-| 🇪🇸 Spain    | 1     |
-| 🇿🇼 Zimbabwe | 1     |
+| Country | Count |
+|---------|-------|
+| 🇺🇸 USA | 47 |
+| 🇧🇷 Brazil | 36 |
+| 🇬🇧 UK | 26 |
+| 🇸🇪 Sweden | 11 |
+| 🇨🇦 Canada | 3 |
+| 🇨🇿 Czechia | 2 |
+| 🇳🇿 New Zealand | 2 |
+| 🇮🇹 Italy | 2 |
+| 🇦🇺 Australia | 2 |
+| 🇫🇷 France | 2 |
+| 🇰🇷 South Korea | 2 |
+| 🇳🇴 Norway | 2 |
+| 🇦🇷 Argentina | 2 |
+| 🇯🇵 Japan | 1 |
+| 🇿🇼 Zimbabwe | 1 |
+| 🇵🇹 Portugal | 1 |
+| 🇵🇱 Poland | 1 |
+| 🇷🇺 Russia | 1 |
+| 🇲🇱 Mali | 1 |
+| 🇮🇸 Iceland | 1 |
+| 🇫🇮 Finland | 1 |
+| 🇳🇬 Nigeria | 1 |
+| 🇮🇱 Israel | 1 |
+| 🇮🇪 Ireland | 1 |
+| 🇪🇸 Spain | 1 |
+| 🇵🇰 Pakistan | 1 |
+| 🇬🇷 Greece | 1 |
+| 🇦🇲 Armenia | 1 |
 
-| Decade   | Count |
-|----------|-------|
-| 2010s    | 50    |
-| 2020s    | 37    |
-| 1990s    | 21    |
-| 1970s    | 17    |
-| 2000s    | 15    |
-| 1980s    | 12    |
-| 1950s    | 1     |
-| 1910s    | 1     |
-| 1960s    | 1     |
+| Decade | Count |
+|--------|-------|
+| 2010s | 50 |
+| 2020s | 37 |
+| 1990s | 21 |
+| 1970s | 16 |
+| 2000s | 15 |
+| 1980s | 12 |
+| 1960s | 1 |
+| 1910s | 1 |
+| 1950s | 1 |
