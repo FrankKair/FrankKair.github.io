@@ -1,12 +1,13 @@
 +++
 title = 'Music Review'
-date = 2024-06-13T22:18:33Z
+date = 2024-06-19T12:16:02Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Lantlôs | Wildhund | 2021 | 🇩🇪 Germany | 22/06/2024 |
 | Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
 | Dividing The Element | Dividing The Element | 2018 | 🇿🇼 Zimbabwe | 08/06/2024 |
 | Linda Martini | Olhos de Mongol | 2006 | 🇵🇹 Portugal | 01/06/2024 |
@@ -179,7 +180,7 @@ date = 2024-06-13T22:18:33Z
 
 ## Stats
 
-Total: 154
+Total: 155
 
 | Country | Count |
 |---------|-------|
@@ -196,6 +197,7 @@ Total: 154
 | 🇰🇷 South Korea | 2 |
 | 🇳🇴 Norway | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇩🇪 Germany | 1 |
 | 🇯🇵 Japan | 1 |
 | 🇿🇼 Zimbabwe | 1 |
 | 🇵🇹 Portugal | 1 |
@@ -215,7 +217,7 @@ Total: 154
 | Decade | Count |
 |--------|-------|
 | 2010s | 50 |
-| 2020s | 37 |
+| 2020s | 38 |
 | 1990s | 21 |
 | 1970s | 16 |
 | 2000s | 15 |
