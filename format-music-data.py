@@ -105,5 +105,5 @@ class PostConverter:
 
 
 if __name__ == '__main__':
-    stats = Stats('music-review-data.csv')
+    stats = Stats('music-data.csv')
     PostConverter(stats, 'content/posts/music-review.md').write_to_markdown()
