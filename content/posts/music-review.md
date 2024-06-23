@@ -1,12 +1,13 @@
 +++
 title = 'Music Review'
-date = 2024-06-19T12:16:02Z
+date = 2024-06-23T19:23:37Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Congreso | Pájaros de Arcilla | 1984 | 🇨🇱 Chile | 29/06/2024 |
 | Lantlôs | Wildhund | 2021 | 🇩🇪 Germany | 22/06/2024 |
 | Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
 | Dividing The Element | Dividing The Element | 2018 | 🇿🇼 Zimbabwe | 08/06/2024 |
@@ -180,7 +181,7 @@ date = 2024-06-19T12:16:02Z
 
 ## Stats
 
-Total: 155
+Total: 156
 
 | Country | Count |
 |---------|-------|
@@ -197,6 +198,7 @@ Total: 155
 | 🇰🇷 South Korea | 2 |
 | 🇳🇴 Norway | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇨🇱 Chile | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇯🇵 Japan | 1 |
 | 🇿🇼 Zimbabwe | 1 |
@@ -221,7 +223,7 @@ Total: 155
 | 1990s | 21 |
 | 1970s | 16 |
 | 2000s | 15 |
-| 1980s | 12 |
+| 1980s | 13 |
 | 1960s | 1 |
 | 1910s | 1 |
 | 1950s | 1 |
