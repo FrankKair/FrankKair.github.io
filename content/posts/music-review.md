@@ -1,12 +1,13 @@
 +++
 title = 'Music Review'
-date = 2024-06-23T19:23:37Z
+date = 2024-07-01T09:30:15Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Lorde | Melodrama | 2017 | 🇳🇿 New Zealand | 06/07/2024 |
 | Congreso | Pájaros de Arcilla | 1984 | 🇨🇱 Chile | 29/06/2024 |
 | Lantlôs | Wildhund | 2021 | 🇩🇪 Germany | 22/06/2024 |
 | Ryo Fukui (福居良) | Scenary (シーナリィ) | 1976 | 🇯🇵 Japan | 15/06/2024 |
@@ -181,7 +182,7 @@ date = 2024-06-23T19:23:37Z
 
 ## Stats
 
-Total: 156
+Total: 157
 
 | Country | Count |
 |---------|-------|
@@ -189,9 +190,9 @@ Total: 156
 | 🇧🇷 Brazil | 36 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
+| 🇳🇿 New Zealand | 3 |
 | 🇨🇦 Canada | 3 |
 | 🇨🇿 Czechia | 2 |
-| 🇳🇿 New Zealand | 2 |
 | 🇮🇹 Italy | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇫🇷 France | 2 |
@@ -218,7 +219,7 @@ Total: 156
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 50 |
+| 2010s | 51 |
 | 2020s | 38 |
 | 1990s | 21 |
 | 1970s | 16 |
