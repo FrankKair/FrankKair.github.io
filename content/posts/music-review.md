@@ -1,12 +1,14 @@
 +++
 title = 'Music Review'
-date = 2024-07-01T09:30:15Z
+date = 2024-07-18T08:14:12Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Beto Guedes | Amor de Índio | 1978 | 🇧🇷 Brazil | 20/07/2024 |
+| The Tea Club | If / When | 2019 | 🇺🇸 USA | 13/07/2024 |
 | Lorde | Melodrama | 2017 | 🇳🇿 New Zealand | 06/07/2024 |
 | Congreso | Pájaros de Arcilla | 1984 | 🇨🇱 Chile | 29/06/2024 |
 | Lantlôs | Wildhund | 2021 | 🇩🇪 Germany | 22/06/2024 |
@@ -182,12 +184,12 @@ date = 2024-07-01T09:30:15Z
 
 ## Stats
 
-Total: 157
+Total: 159
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 47 |
-| 🇧🇷 Brazil | 36 |
+| 🇺🇸 USA | 48 |
+| 🇧🇷 Brazil | 37 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
 | 🇳🇿 New Zealand | 3 |
@@ -219,10 +221,10 @@ Total: 157
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 51 |
+| 2010s | 52 |
 | 2020s | 38 |
 | 1990s | 21 |
-| 1970s | 16 |
+| 1970s | 17 |
 | 2000s | 15 |
 | 1980s | 13 |
 | 1960s | 1 |

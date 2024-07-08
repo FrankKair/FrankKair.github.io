@@ -36,15 +36,8 @@ class Stats:
             parsed = csv.reader(csvfile)
             for count, row in enumerate(parsed):
                 if count != 0 and row[0] != '':
-                    self.add(
-                        Album(
-                            row[0],
-                            row[1],
-                            int(row[2]),
-                            row[3],
-                            row[4],
-                        )
-                    )
+                    album = Album(row[0], row[1], int(row[2]), row[3], row[4])
+                    self.add(album)
 
 
 class PostConverter:
@@ -105,5 +98,7 @@ class PostConverter:
 
 
 if __name__ == '__main__':
-    stats = Stats('music-data.csv')
-    PostConverter(stats, 'content/posts/music-review.md').write_to_markdown()
+    PostConverter(
+        stats=Stats('music-data.csv'),
+        output='content/posts/music-review.md'
+    ).write_to_markdown()
