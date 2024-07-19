@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-07-19T18:07:31Z
+date = 2024-07-19T18:15:03Z
 +++
 
 
@@ -16,17 +16,17 @@ date = 2024-07-19T18:07:31Z
 | Annie Ernaux | La place | 1983 | 🇫🇷 France | 28/05/2024 |
 | Sylvia Plath | The Bell Jar | 1963 | 🇺🇸 USA | 24/05/2024 |
 | Ray Bradbury | Fahrenheit 451 | 1953 | 🇺🇸 USA | 19/05/2024 |
-| Ivan Turgenev (Иван Тургенев) | First Love (Первая любовь) | 1860 | 🇷🇺 Russia | 14/05/2024 |
-| Vladimir Nabokov (Владимир Набоков) | Pnin | 1957 | 🇷🇺 Russia | 06/05/2024 |
+| Ivan Turgenev | First Love | 1860 | 🇷🇺 Russia | 14/05/2024 |
+| Vladimir Nabokov | Pnin | 1957 | 🇷🇺 Russia | 06/05/2024 |
 | Lana Del Rey | Violet Bent Backwards Over the Grass | 2020 | 🇺🇸 USA | 26/04/2024 |
 | Nita Prose | The Maid | 2022 | 🇺🇸 USA | 17/04/2024 |
 | Henry David Thoreau | Walden | 1854 | 🇺🇸 USA | 15/04/2024 |
-| Javier Marías | All Souls (Todas las almas) | 1989 | 🇪🇸 Spain | 14/04/2024 |
-| Haruki Murakami (村上 春樹) | Sputnik Sweetheart (スプートニクの恋人) | 1999 | 🇯🇵 Japan | 02/04/2024 |
-| Fyodor Dostoevsky (Фёдор Достоевский) | White Nights (Белые ночи) | 1848 | 🇷🇺 Russia | 15/03/2024 |
+| Javier Marías | All Souls | 1989 | 🇪🇸 Spain | 14/04/2024 |
+| Haruki Murakami | Sputnik Sweetheart | 1999 | 🇯🇵 Japan | 02/04/2024 |
+| Fyodor Dostoevsky | White Nights | 1848 | 🇷🇺 Russia | 15/03/2024 |
 | Oscar Wilde | The Picture of Dorian Gray | 1890 | 🇮🇪 Ireland | 17/02/2024 |
 | Chinua Achebe | Africa’s Tarnished Name | 1997 | 🇳🇬 Nigeria | 05/02/2024 |
-| Yanis Varoufakis (Γιάνης Βαρουφάκης) | Technofeudalism: What Killed Capitalism | 2023 | 🇬🇷 Greece | 10/01/2024 |
+| Yanis Varoufakis | Technofeudalism: What Killed Capitalism | 2023 | 🇬🇷 Greece | 10/01/2024 |
 
 ## 2023
 
@@ -40,8 +40,8 @@ date = 2024-07-19T18:07:31Z
 | Susanna Clarke | Piranesi | 2020 | 🇬🇧 UK | 24/11/2023 |
 | Donna Tartt | The Secret History | 1992 | 🇺🇸 USA | 28/10/2023 |
 | Robert Louis Stevenson | Strange Case of Dr Jekyll and Mr Hyde | 1886 | 🇬🇧 UK | 11/10/2023 |
-| Tove Jansson | Notes from an Island (Anteckningar från en ö) | 1996 | 🇫🇮 Finland | 08/10/2023 |
-| Anton Chekhov (Антон Чехов) |  The Cherry Orchard (Вишнëвый сад) | 1903 | 🇷🇺 Russia | 30/09/2023 |
+| Tove Jansson | Notes from an Island | 1996 | 🇫🇮 Finland | 08/10/2023 |
+| Anton Chekhov |  The Cherry Orchard | 1903 | 🇷🇺 Russia | 30/09/2023 |
 | Claire Keegan | Small Things Like These | 2021 | 🇮🇪 Ireland | 23/09/2023 |
 | Charlotte Perkins Gilman | Herland | 1915 | 🇺🇸 USA | 14/09/2023 |
 | F. Scott Fitzgerald | The Great Gatsby | 1925 | 🇺🇸 USA | 09/09/2023 |
@@ -50,18 +50,18 @@ date = 2024-07-19T18:07:31Z
 | Evelyn Waugh | Brideshead Revisted | 1945 | 🇬🇧 UK | 21/05/2023 |
 | Neil Gaiman | The Ocean at the End of the Lane | 2013 | 🇬🇧 UK | 06/05/2023 |
 | Simon Kuper | Chums | 2022 | 🇬🇧 UK | 05/05/2023 |
-| Hannah Arendt | The Freedom to Be Free (Die Freiheit - Frei Zu Sein) | 1967 | 🇩🇪 Germany | 30/04/2023 |
+| Hannah Arendt | The Freedom to Be Free | 1967 | 🇩🇪 Germany | 30/04/2023 |
 | Amia Srinivasan | The Right to Sex | 2021 | 🇧🇭 Bahrain | 18/04/2023 |
 | Danny Dorling / Annika Koljonen | Finntopia | 2020 | 🇬🇧 UK / 🇫🇮 Finland | 06/04/2023 |
 | Daniel Kahneman | Thinking Fast and Slow | 2011 | 🇺🇸 USA | 04/04/2023 |
-| Yōko Tawada (多和田葉子) | The Last Children of Tokyo (献灯使) | 2014 | 🇯🇵 Japan | 01/04/2023 |
+| Yōko Tawada | The Last Children of Tokyo | 2014 | 🇯🇵 Japan | 01/04/2023 |
 | William Golding | Lord of the Flies | 1954 | 🇬🇧 UK | 28/03/2023 |
 | Carissa Véliz | Privacy is Power | 2020 | 🇲🇽 Mexico | 19/03/2023 |
 | Johann Hari | Stolen Focus | 2022 | 🇬🇧 UK | 11/02/2023 |
 | Clive Barker | The Hellbound Heart | 1986 | 🇬🇧 UK | 09/02/2023 |
 | J.R.R. Tolkien | Tree and Leaf | 1964 | 🇬🇧 UK | 19/01/2023 |
 | Tove Jansson | Kometen kommer | 1946 | 🇫🇮 Finland | 17/01/2023 |
-| Haruki Murakami (村上 春樹) | L'arte di correre (走ることについて語るときに僕の語ること) | 2007 | 🇯🇵 Japan | 10/01/2023 |
+| Haruki Murakami | L'arte di correre | 2007 | 🇯🇵 Japan | 10/01/2023 |
 
 ## 2022
 
@@ -74,8 +74,8 @@ date = 2024-07-19T18:07:31Z
 | Paulo Freire | Pedagogia do Oprimido | 1968 | 🇧🇷 Brazil | 15/12/2022 |
 | Bo Seo | The Art of Disagreeing Well | 2022 | 🇰🇷 South Korea | 25/11/2022 |
 | Claire Keegan | Foster | 2010 | 🇮🇪 Ireland | 17/10/2022 |
-| Haruki Murakami (村上 春樹) | Pinball 1973 (1973年のピンボール) | 2007 | 🇯🇵 Japan | 23/06/2023 |
-| Haruki Murakami (村上 春樹) | Hear the Wind Sing (風の歌を聴け) | 2007 | 🇯🇵 Japan | 27/05/2023 |
+| Haruki Murakami | Pinball 1973 | 2007 | 🇯🇵 Japan | 23/06/2023 |
+| Haruki Murakami | Hear the Wind Sing | 2007 | 🇯🇵 Japan | 27/05/2023 |
 
 ## Stats
 
