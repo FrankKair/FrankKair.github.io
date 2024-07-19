@@ -1,12 +1,13 @@
 +++
 title = 'Music Review'
-date = 2024-07-18T08:14:12Z
+date = 2024-07-19T10:35:29Z
 +++
 
 ## 2024
 
 | Artist | Album | Year | Country | Review |
 | ------ | ----- | ---- | ------- | ------ |
+| Premiata Forneria Marconi | Per un amico | 1972 | 🇮🇹 Italy | 27/07/2024 |
 | Beto Guedes | Amor de Índio | 1978 | 🇧🇷 Brazil | 20/07/2024 |
 | The Tea Club | If / When | 2019 | 🇺🇸 USA | 13/07/2024 |
 | Lorde | Melodrama | 2017 | 🇳🇿 New Zealand | 06/07/2024 |
@@ -184,7 +185,7 @@ date = 2024-07-18T08:14:12Z
 
 ## Stats
 
-Total: 159
+Total: 160
 
 | Country | Count |
 |---------|-------|
@@ -192,10 +193,10 @@ Total: 159
 | 🇧🇷 Brazil | 37 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
+| 🇮🇹 Italy | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇨🇦 Canada | 3 |
 | 🇨🇿 Czechia | 2 |
-| 🇮🇹 Italy | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇫🇷 France | 2 |
 | 🇰🇷 South Korea | 2 |
@@ -224,7 +225,7 @@ Total: 159
 | 2010s | 52 |
 | 2020s | 38 |
 | 1990s | 21 |
-| 1970s | 17 |
+| 1970s | 18 |
 | 2000s | 15 |
 | 1980s | 13 |
 | 1960s | 1 |
