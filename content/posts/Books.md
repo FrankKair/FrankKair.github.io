@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-07-19T18:15:03Z
+date = 2024-07-20T12:28:26Z
 +++
 
 
@@ -76,23 +76,77 @@ date = 2024-07-19T18:15:03Z
 | Claire Keegan | Foster | 2010 | 🇮🇪 Ireland | 17/10/2022 |
 | Haruki Murakami | Pinball 1973 | 2007 | 🇯🇵 Japan | 23/06/2023 |
 | Haruki Murakami | Hear the Wind Sing | 2007 | 🇯🇵 Japan | 27/05/2023 |
+| Margaret Walters | Feminism: A Very Short Introduction | 2006 | 🇬🇧 UK | 27/05/2022 |
+| Bill Gates | How To Avoid a Climate Disaster | 2021 | 🇺🇸 USA | 05/04/2022 |
+
+## 2021
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| Yuval Noah Harari | 21 Lessons for the 21st Century | 2018 | 🇮🇱 Israel | 24/10/2021 |
+| Barbara Oakley | A Mind for Numbers | 2014 | 🇺🇸 USA | 13/10/2021 |
+| Andrew Michael Hurley | Starve Acre | 2019 | 🇬🇧 UK | 02/06/2021 |
+| Ernest Hemingway | A Moveable Feast | 1964 | 🇺🇸 USA | 28/05/2021 |
+| James Baldwin | Giovanni's Room | 1956 | 🇺🇸 USA | 22/05/2021 |
+| Haruki Murakami | First Person Singular | 2020 | 🇯🇵 Japan | 17/05/2021 |
+| Edward Craig | Philosophy: A Very Short Introduction | 2002 | 🇬🇧 UK | 16/02/2021 |
+
+## 2020
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| Thomas Nagel | What Does It All Mean? | 1987 | 🇬🇧 UK | 26/12/2020 |
+| Chimamanda Ngozi Adichie | Zikora | 2020 | 🇳🇬 Nigeria | 20/12/2020 |
+| Robert C. O'Brien | Mrs. Frisby and the Rats of NIMH | 1971 | 🇺🇸 USA | 19/12/2020 |
+| Bernadine Evaristo | Girl Woman Other | 2019 | 🇬🇧 UK | 22/07/2020 |
+| Jonathan Safran Foer | We Are the Weather | 2019 | 🇺🇸 USA | 31/05/2020 |
+| Stephen King | The Wind Through the Keyhole | 2012 | 🇺🇸 USA | 17/05/2020 |
+| Antoine de Saint-Exupéry | Le Petit Prince | 1943 | 🇫🇷 France | 14/05/2020 |
+| Yōko Ogawa | The Memory Police | 1994 | 🇯🇵 Japan | 10/05/2020 |
+| Stephen King | The Institute | 2019 | 🇺🇸 USA | 09/05/2020 |
+| Haruki Murakami | Norwegian Wood | 1987 | 🇯🇵 Japan | 23/04/2020 |
+| Haruki Murakami | Kafka on the Shore | 2002 | 🇯🇵 Japan | 17/04/2020 |
+| Cal Newport | Deep Work | 2016 | 🇺🇸 USA | 08/04/2020 |
+| Paul Gallico | The Snow Goose | 1941 | 🇺🇸 USA | 26/01/2020 |
+
+## 2019
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| Haruki Murakami | After the Quake | 2000 | 🇯🇵 Japan | 16/12/2019 |
+| James Clear | Atomic Habits | 2018 | 🇺🇸 USA | 10/12/2019 |
+| Jonathan Safran Foer | Eating Animals | 2009 | 🇺🇸 USA | 25/11/2019 |
+| Gabriel Wyner | Fluent Forever | 2014 | 🇺🇸 USA | 21/11/2019 |
+| Jo Nesbø | The Bat | 1997 | 🇳🇴 Norway | 19/11/2019 |
+| Haruki Murakami | Men Without Women | 2014 | 🇯🇵 Japan | 17/11/2019 |
+| Cal Newport | Digital Minimalism | 2019 | 🇺🇸 USA | 06/11/2019 |
+| Stephen King | On Writing | 2000 | 🇺🇸 USA | 05/11/2019 |
+| Eric Barker | Barking Up the Wrong Tree | 2017 | 🇺🇸 USA | 29/10/2019 |
+| Susan Sontag | Notes on 'Camp' | 1964 | 🇺🇸 USA | 26/05/2019 |
+| Beatrix Potter | The Tale of Peter Rabbit | 1902 | 🇬🇧 UK | 12/05/2019 |
+
+## 2018
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| J.K. Rowling | The Tales of Beedle the Bard | 2008 | 🇬🇧 UK | 15/10/2018 |
 
 ## Stats
 
-Total: 58
+Total: 92
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 18 |
-| 🇬🇧 UK | 15 |
-| 🇯🇵 Japan | 5 |
+| 🇺🇸 USA | 35 |
+| 🇬🇧 UK | 22 |
+| 🇯🇵 Japan | 11 |
 | 🇷🇺 Russia | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇫🇮 Finland | 3 |
+| 🇫🇷 France | 2 |
+| 🇳🇬 Nigeria | 2 |
 | 🇨🇦 Canada | 1 |
-| 🇫🇷 France | 1 |
 | 🇪🇸 Spain | 1 |
-| 🇳🇬 Nigeria | 1 |
 | 🇬🇷 Greece | 1 |
 | 🇮🇹 Italy | 1 |
 | 🇩🇪 Germany | 1 |
@@ -100,3 +154,5 @@ Total: 58
 | 🇲🇽 Mexico | 1 |
 | 🇧🇷 Brazil | 1 |
 | 🇰🇷 South Korea | 1 |
+| 🇮🇱 Israel | 1 |
+| 🇳🇴 Norway | 1 |
