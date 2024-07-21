@@ -12,18 +12,29 @@ class Stats(ABC):
 
 
 class CountryStats(Stats):
-    def __init__(self, column):
+    def __init__(self):
         self.count = 0
         self.countries = Counter()
-        self.country_column = column
 
     def write(self, input_csv_file, output):
         with open(input_csv_file, 'r', encoding='utf-8') as csvfile:
             parsed = csv.reader(csvfile)
-            for count, r in enumerate(parsed):
-                if count != 0 and r[0] != '':
+            country_column = None
+            for count, row in enumerate(parsed):
+                # Find 'country' header index
+                if count == 0:
+                    for index, header in enumerate(row):
+                        if header == 'country':
+                            country_column = index
+                            break
+                    continue
+                if not country_column:
+                    return
+
+                # Count occurrences
+                if row[0]:
                     self.count += 1
-                    countries = r[self.country_column].split(' / ')
+                    countries = row[country_column].split(' / ')
                     for c in countries:
                         self.countries[c] += 1
 
@@ -104,7 +115,7 @@ class CsvToMarkdownPost:
     def write(self):
         self.write_headers()
         self.write_data()
-        if self.stats is not None:
+        if self.stats:
             self.stats.write(self.input_file, self.output)
 
     def write_headers(self):
@@ -160,12 +171,12 @@ class CsvToMarkdownPost:
 if __name__ == '__main__':
     CsvToMarkdownPost(
         'Travelling.csv',
-        stats=CountryStats(column=1)
+        stats=CountryStats()
     )
 
     CsvToMarkdownPost(
         'Books.csv',
-        stats=CountryStats(column=3),
+        stats=CountryStats(),
         by_year=True
     )
 
