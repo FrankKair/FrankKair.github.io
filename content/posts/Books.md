@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-07-20T12:28:26Z
+date = 2024-07-22T10:54:39Z
 +++
 
 
@@ -26,7 +26,7 @@ date = 2024-07-20T12:28:26Z
 | Fyodor Dostoevsky | White Nights | 1848 | 🇷🇺 Russia | 15/03/2024 |
 | Oscar Wilde | The Picture of Dorian Gray | 1890 | 🇮🇪 Ireland | 17/02/2024 |
 | Chinua Achebe | Africa’s Tarnished Name | 1997 | 🇳🇬 Nigeria | 05/02/2024 |
-| Yanis Varoufakis | Technofeudalism: What Killed Capitalism | 2023 | 🇬🇷 Greece | 10/01/2024 |
+| Yanis Varoufakis | Technofeudalism | 2023 | 🇬🇷 Greece | 10/01/2024 |
 
 ## 2023
 
@@ -36,7 +36,7 @@ date = 2024-07-20T12:28:26Z
 | Umberto Eco | How to Spot a Fascist | 2020 | 🇮🇹 Italy | 09/12/2023 |
 | John Berger | The Red Tenda of Bologna | 2007 | 🇬🇧 UK | 08/12/2023 |
 | Tennessee Williams | A Streetcar Named Desire | 1947 | 🇺🇸 USA | 06/12/2023 |
-| Samuel Earle | Tory Nation: How one party took over | 2023 | 🇬🇧 UK | 03/12/2023 |
+| Samuel Earle | Tory Nation | 2023 | 🇬🇧 UK | 03/12/2023 |
 | Susanna Clarke | Piranesi | 2020 | 🇬🇧 UK | 24/11/2023 |
 | Donna Tartt | The Secret History | 1992 | 🇺🇸 USA | 28/10/2023 |
 | Robert Louis Stevenson | Strange Case of Dr Jekyll and Mr Hyde | 1886 | 🇬🇧 UK | 11/10/2023 |
