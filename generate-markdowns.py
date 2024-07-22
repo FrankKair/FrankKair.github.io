@@ -101,11 +101,13 @@ class MusicStats(Stats):
 
 
 class CsvToMarkdownPost:
-    def __init__(self, input_file, stats=None, by_year=False):
+    def __init__(self, input_file, title=None, stats=None, by_year=False):
         output_file = input_file.split('.')[0]
         self.input_file = input_file
-        self.output = f"content/posts/{output_file}.md"
-        self.title = output_file
+        self.title = title
+        if not title:
+            self.title = output_file
+        self.output = f"content/posts/{self.title}.md"
         self.headers = []
         self.rows = []
         self.stats = stats
@@ -170,18 +172,26 @@ class CsvToMarkdownPost:
 
 if __name__ == '__main__':
     CsvToMarkdownPost(
-        'Travelling.csv',
+        input_file='travelling.csv',
+        title='Travelling',
         stats=CountryStats()
     )
 
     CsvToMarkdownPost(
-        'Books.csv',
+        input_file='books.csv',
+        title='Books',
         stats=CountryStats(),
         by_year=True
     )
 
     CsvToMarkdownPost(
-        'Music.csv',
+        input_file='music.csv',
+        title='Music',
         stats=MusicStats(),
         by_year=True
+    )
+
+    CsvToMarkdownPost(
+        input_file='books-to-read.csv',
+        title='Books to read'
     )
