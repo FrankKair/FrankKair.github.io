@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-07-22T10:54:39Z
+date = 2024-07-27T10:04:39Z
 +++
 
 | author | book | year | country |
@@ -26,6 +26,7 @@ date = 2024-07-22T10:54:39Z
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d'une jeune fille rangée | 1958 | 🇫🇷 France |
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France |
+| Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy |
 | Natalia Ginzburg | Lessico Familiare | 1963 | 🇮🇹 Italy |
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |

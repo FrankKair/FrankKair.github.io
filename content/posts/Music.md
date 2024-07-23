@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-07-22T10:54:39Z
+date = 2024-07-27T10:04:39Z
 +++
 
 
@@ -8,7 +8,7 @@ date = 2024-07-22T10:54:39Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Premiata Forneria Marconi | Per un amico | 1972 | 🇮🇹 Italy | 27/07/2024 |
+| Premiata Forneria Marconi | Per Un Amico | 1972 | 🇮🇹 Italy | 27/07/2024 |
 | Beto Guedes | Amor de Índio | 1978 | 🇧🇷 Brazil | 20/07/2024 |
 | The Tea Club | If / When | 2019 | 🇺🇸 USA | 13/07/2024 |
 | Lorde | Melodrama | 2017 | 🇳🇿 New Zealand | 06/07/2024 |
