@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-07-27T10:04:39Z
+date = 2024-07-30T09:55:37Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-07-27T10:04:39Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Cui Jian (崔健) | Balls Under The Red Flag (红旗下的蛋) | 1994 | 🇨🇳 China | 03/08/2024 |
 | Premiata Forneria Marconi | Per Un Amico | 1972 | 🇮🇹 Italy | 27/07/2024 |
 | Beto Guedes | Amor de Índio | 1978 | 🇧🇷 Brazil | 20/07/2024 |
 | The Tea Club | If / When | 2019 | 🇺🇸 USA | 13/07/2024 |
@@ -186,7 +187,7 @@ date = 2024-07-27T10:04:39Z
 
 ## Stats
 
-Total: 160
+Total: 161
 
 | Country | Count |
 |---------|-------|
@@ -203,6 +204,7 @@ Total: 160
 | 🇰🇷 South Korea | 2 |
 | 🇳🇴 Norway | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇨🇳 China | 1 |
 | 🇨🇱 Chile | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇯🇵 Japan | 1 |
@@ -225,7 +227,7 @@ Total: 160
 |--------|-------|
 | 2010s | 52 |
 | 2020s | 38 |
-| 1990s | 21 |
+| 1990s | 22 |
 | 1970s | 18 |
 | 2000s | 15 |
 | 1980s | 13 |
