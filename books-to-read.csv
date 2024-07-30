@@ -1,4 +1,25 @@
 author,book,year,country
+Gabriel Garcia Marquez,En Agosto Nos Vemos,2024,🇨🇴 Colombia
+Marcel Proust,La Fin de la jalousie,1896,🇫🇷 France
+Albert Camus,L’étranger,1942,🇫🇷 France
+Albert Camus,La Chute,1956,🇫🇷 France
+Simone de Beauvoir,Mémoires d’une jeune fille rangée,1958,🇫🇷 France
+Annie Ernaux,Une femme,1988,🇫🇷 France
+James Joyce,A Portrait of the Artist as a Young Man,1916,🇮🇪 Ireland
+Natalia Ginzburg,È stato così,1947,🇮🇹 Italy
+Natalia Ginzburg,Lessico Familiare,1963,🇮🇹 Italy
+Elena Ferrante,La figlia oscura,2006,🇮🇹 Italy
+Domenico Starnone,Lacci,2014,🇮🇹 Italy
+Elena Ferrante,Storia della bambina perduta,2014,🇮🇹 Italy
+Tarjei Vesaas,The Ice Palace,1963,🇳🇴 Norway
+Charlotte Brontë,Jane Eyre,1847,🇬🇧 UK
+George Orwell,Down and Out in Paris and London,1933,🇬🇧 UK
+George Orwell,Animal Farm,1945,🇬🇧 UK
+George Orwell,Cigarettes and Books,1946,🇬🇧 UK
+George Orwell,1984,1949,🇬🇧 UK
+Jean Rhys,Wide Sargasso Sea,1966,🇬🇧 UK
+Kazuo Ishiguro,Never Let Me Go,2005,🇬🇧 UK
+Simon Armitage,The Owl and the Nightingale,2021,🇬🇧 UK
 Vladimir Nabokov,Lolita,1955,🇺🇸 USA
 Sylvia Plath,Ariel,1965,🇺🇸 USA
 Toni Morrison,Beloved,1987,🇺🇸 USA
@@ -8,27 +29,6 @@ Emily Dickinson,The Envelope Poems,2016,🇺🇸 USA
 Gabrielle Zevin,Tomorrow Tomorrow Tomorrow,2022,🇺🇸 USA
 Barbara Kingsolver,Demon Copperhead,2022,🇺🇸 USA
 Coco Mellors,Blue Sisters,2024,🇺🇸 USA
-Charlotte Brontë,Jane Eyre,1847,🇬🇧 UK
-George Orwell,Down and Out in Paris and London,1933,🇬🇧 UK
-George Orwell,Animal Farm,1945,🇬🇧 UK
-George Orwell,Cigarettes and Books,1946,🇬🇧 UK
-George Orwell,1984,1949,🇬🇧 UK
-Jean Rhys,Wide Sargasso Sea,1966,🇬🇧 UK
-Kazuo Ishiguro,Never Let Me Go,2005,🇬🇧 UK
-Simon Armitage,The Owl and the Nightingale,2021,🇬🇧 UK
-Marcel Proust,La Fin de la jalousie,1896,🇫🇷 France
-Albert Camus,L’étranger,1942,🇫🇷 France
-Albert Camus,La Chute,1956,🇫🇷 France
-Simone de Beauvoir,Mémoires d'une jeune fille rangée,1958,🇫🇷 France
-Annie Ernaux,Une femme,1988,🇫🇷 France
-Natalia Ginzburg,È stato così,1947,🇮🇹 Italy
-Natalia Ginzburg,Lessico Familiare,1963,🇮🇹 Italy
-Elena Ferrante,La figlia oscura,2006,🇮🇹 Italy
-Domenico Starnone,Lacci,2014,🇮🇹 Italy
-Elena Ferrante,Storia della bambina perduta,2014,🇮🇹 Italy
-James Joyce,A Portrait of the Artist as a Young Man,1916,🇮🇪 Ireland
-Tarjei Vesaas,The Ice Palace,1963,🇳🇴 Norway
-Gabriel Garcia Marquez,En Agosto Nos Vemos,2024,🇨🇴 Colombia
 Chinua Achebe,Things Fall Apart,1958,🇳🇬 Nigeria
 --
 Jessica Zhan Mei Yu,But the Girl,2024,🇨🇳 China
