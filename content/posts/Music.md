@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-08-05T09:49:08Z
+date = 2024-08-10T20:16:04Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-05T09:49:08Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Culpeper's Orchard | Culpeper's Orchard | 1970 | 🇩🇰 Denmark | 17/08/2024 |
 | Maksim | The Piano Player | 2003 | 🇭🇷 Croatia | 10/08/2024 |
 | Cui Jian (崔健) | Balls Under The Red Flag (红旗下的蛋) | 1994 | 🇨🇳 China | 03/08/2024 |
 | Premiata Forneria Marconi | Per Un Amico | 1972 | 🇮🇹 Italy | 27/07/2024 |
@@ -188,7 +189,7 @@ date = 2024-08-05T09:49:08Z
 
 ## Stats
 
-Total: 162
+Total: 163
 
 | Country | Count |
 |---------|-------|
@@ -205,6 +206,7 @@ Total: 162
 | 🇰🇷 South Korea | 2 |
 | 🇳🇴 Norway | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
 | 🇨🇳 China | 1 |
 | 🇨🇱 Chile | 1 |
@@ -230,7 +232,7 @@ Total: 162
 | 2010s | 52 |
 | 2020s | 38 |
 | 1990s | 22 |
-| 1970s | 18 |
+| 1970s | 19 |
 | 2000s | 16 |
 | 1980s | 13 |
 | 1960s | 1 |
