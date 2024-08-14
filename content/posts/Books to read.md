@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-08-10T20:16:04Z
+date = 2024-08-14T18:35:10Z
 +++
 
 | author | book | year | country |
@@ -32,7 +32,6 @@ date = 2024-08-10T20:16:04Z
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA |
-| Gabrielle Zevin | Tomorrow Tomorrow Tomorrow | 2022 | 🇺🇸 USA |
 | Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA |
 | Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |

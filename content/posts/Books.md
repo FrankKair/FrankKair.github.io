@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-08-10T20:16:04Z
+date = 2024-08-14T18:35:10Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-10T20:16:04Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Gabrielle Zevin | Tomorrow and Tomorrow and Tomorrow | 2022 | 🇺🇸 USA | 14/08/2024 |
 | F. Scott Fitzgerald | The Diamond As Big As The Ritz | 1922 | 🇺🇸 USA | 15/07/2024 |
 | Hanya Yanagihara | A Little Life | 2016 | 🇺🇸 USA | 01/07/2024 |
 | Amal El Mohtar / Max Gladstone | This Is How You Lose the Time War | 2019 | 🇨🇦 Canada / 🇺🇸 USA | 13/06/2024 |
@@ -133,11 +134,11 @@ date = 2024-08-10T20:16:04Z
 
 ## Stats
 
-Total: 92
+Total: 93
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 35 |
+| 🇺🇸 USA | 36 |
 | 🇬🇧 UK | 22 |
 | 🇯🇵 Japan | 11 |
 | 🇷🇺 Russia | 4 |
