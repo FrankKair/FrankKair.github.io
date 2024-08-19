@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-08-14T18:35:10Z
+date = 2024-08-19T17:37:27Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-14T18:35:10Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| toe | the book about my idle plot on a vague anxiety | 2012 | 🇯🇵 Japan | 24/08/2024 |
 | Culpeper's Orchard | Culpeper's Orchard | 1970 | 🇩🇰 Denmark | 17/08/2024 |
 | Maksim | The Piano Player | 2003 | 🇭🇷 Croatia | 10/08/2024 |
 | Cui Jian (崔健) | Balls Under The Red Flag (红旗下的蛋) | 1994 | 🇨🇳 China | 03/08/2024 |
@@ -189,7 +190,7 @@ date = 2024-08-14T18:35:10Z
 
 ## Stats
 
-Total: 163
+Total: 164
 
 | Country | Count |
 |---------|-------|
@@ -200,6 +201,7 @@ Total: 163
 | 🇮🇹 Italy | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇨🇦 Canada | 3 |
+| 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇫🇷 France | 2 |
@@ -211,7 +213,6 @@ Total: 163
 | 🇨🇳 China | 1 |
 | 🇨🇱 Chile | 1 |
 | 🇩🇪 Germany | 1 |
-| 🇯🇵 Japan | 1 |
 | 🇿🇼 Zimbabwe | 1 |
 | 🇵🇹 Portugal | 1 |
 | 🇵🇱 Poland | 1 |
@@ -229,7 +230,7 @@ Total: 163
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 52 |
+| 2010s | 53 |
 | 2020s | 38 |
 | 1990s | 22 |
 | 1970s | 19 |
