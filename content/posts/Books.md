@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-08-19T17:37:27Z
+date = 2024-08-26T14:37:56Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-19T17:37:27Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA | 26/08/2024 |
 | Gabrielle Zevin | Tomorrow and Tomorrow and Tomorrow | 2022 | 🇺🇸 USA | 14/08/2024 |
 | F. Scott Fitzgerald | The Diamond As Big As The Ritz | 1922 | 🇺🇸 USA | 15/07/2024 |
 | Hanya Yanagihara | A Little Life | 2016 | 🇺🇸 USA | 01/07/2024 |
@@ -134,11 +135,11 @@ date = 2024-08-19T17:37:27Z
 
 ## Stats
 
-Total: 93
+Total: 94
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 36 |
+| 🇺🇸 USA | 37 |
 | 🇬🇧 UK | 22 |
 | 🇯🇵 Japan | 11 |
 | 🇷🇺 Russia | 4 |

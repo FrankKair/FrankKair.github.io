@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-08-19T17:37:27Z
+date = 2024-08-26T14:37:56Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-19T17:37:27Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Luar na Lubre | Ara Solis | 1993 | 🇪🇸 Spain | 31/08/2024 |
 | toe | the book about my idle plot on a vague anxiety | 2012 | 🇯🇵 Japan | 24/08/2024 |
 | Culpeper's Orchard | Culpeper's Orchard | 1970 | 🇩🇰 Denmark | 17/08/2024 |
 | Maksim | The Piano Player | 2003 | 🇭🇷 Croatia | 10/08/2024 |
@@ -190,7 +191,7 @@ date = 2024-08-19T17:37:27Z
 
 ## Stats
 
-Total: 164
+Total: 165
 
 | Country | Count |
 |---------|-------|
@@ -201,6 +202,7 @@ Total: 164
 | 🇮🇹 Italy | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇨🇦 Canada | 3 |
+| 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
@@ -223,7 +225,6 @@ Total: 164
 | 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇪🇸 Spain | 1 |
 | 🇵🇰 Pakistan | 1 |
 | 🇬🇷 Greece | 1 |
 | 🇦🇲 Armenia | 1 |
@@ -232,7 +233,7 @@ Total: 164
 |--------|-------|
 | 2010s | 53 |
 | 2020s | 38 |
-| 1990s | 22 |
+| 1990s | 23 |
 | 1970s | 19 |
 | 2000s | 16 |
 | 1980s | 13 |
