@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-08-26T14:37:56Z
+date = 2024-08-27T23:06:59Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-26T14:37:56Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Gorguts | Obscura | 1998 | 🇨🇦 Canada | 07/09/2024 |
 | Luar na Lubre | Ara Solis | 1993 | 🇪🇸 Spain | 31/08/2024 |
 | toe | the book about my idle plot on a vague anxiety | 2012 | 🇯🇵 Japan | 24/08/2024 |
 | Culpeper's Orchard | Culpeper's Orchard | 1970 | 🇩🇰 Denmark | 17/08/2024 |
@@ -191,7 +192,7 @@ date = 2024-08-26T14:37:56Z
 
 ## Stats
 
-Total: 165
+Total: 166
 
 | Country | Count |
 |---------|-------|
@@ -199,9 +200,9 @@ Total: 165
 | 🇧🇷 Brazil | 37 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
+| 🇨🇦 Canada | 4 |
 | 🇮🇹 Italy | 3 |
 | 🇳🇿 New Zealand | 3 |
-| 🇨🇦 Canada | 3 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
@@ -233,7 +234,7 @@ Total: 165
 |--------|-------|
 | 2010s | 53 |
 | 2020s | 38 |
-| 1990s | 23 |
+| 1990s | 24 |
 | 1970s | 19 |
 | 2000s | 16 |
 | 1980s | 13 |
