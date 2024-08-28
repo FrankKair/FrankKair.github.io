@@ -1,11 +1,13 @@
 +++
 title = 'Books to read'
-date = 2024-08-27T23:06:59Z
+date = 2024-08-28T14:59:53Z
 +++
 
 | author | book | year | country |
 | --- | --- | --- | --- |
+| Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Gabriel Garcia Marquez | En Agosto Nos Vemos | 2024 | 🇨🇴 Colombia |
+| Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Albert Camus | L’étranger | 1942 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
@@ -37,7 +39,6 @@ date = 2024-08-27T23:06:59Z
 | -- |
 | Jessica Zhan Mei Yu | But the Girl | 2024 | 🇨🇳 China |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
-| Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Johann Wolfgang von Goethe | The Sorrows of Young Werther | 1774 | 🇩🇪 Germany |
