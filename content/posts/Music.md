@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-08-28T14:59:53Z
+date = 2024-09-08T16:57:57Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-08-28T14:59:53Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Piah Mater | Under the Shadow of a Foreign Sun | 2024 | 🇧🇷 Brazil | 14/09/2024 |
 | Gorguts | Obscura | 1998 | 🇨🇦 Canada | 07/09/2024 |
 | Luar na Lubre | Ara Solis | 1993 | 🇪🇸 Spain | 31/08/2024 |
 | toe | the book about my idle plot on a vague anxiety | 2012 | 🇯🇵 Japan | 24/08/2024 |
@@ -192,12 +193,12 @@ date = 2024-08-28T14:59:53Z
 
 ## Stats
 
-Total: 166
+Total: 167
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
-| 🇧🇷 Brazil | 37 |
+| 🇧🇷 Brazil | 38 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
 | 🇨🇦 Canada | 4 |
@@ -233,7 +234,7 @@ Total: 166
 | Decade | Count |
 |--------|-------|
 | 2010s | 53 |
-| 2020s | 38 |
+| 2020s | 39 |
 | 1990s | 24 |
 | 1970s | 19 |
 | 2000s | 16 |
