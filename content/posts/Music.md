@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-09-08T16:57:57Z
+date = 2024-09-17T18:55:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-09-08T16:57:57Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Picchio Dal Pozzo | Picchio Dal Pozzo | 1976 | 🇮🇹 Italy | 21/09/2024 |
 | Piah Mater | Under the Shadow of a Foreign Sun | 2024 | 🇧🇷 Brazil | 14/09/2024 |
 | Gorguts | Obscura | 1998 | 🇨🇦 Canada | 07/09/2024 |
 | Luar na Lubre | Ara Solis | 1993 | 🇪🇸 Spain | 31/08/2024 |
@@ -193,7 +194,7 @@ date = 2024-09-08T16:57:57Z
 
 ## Stats
 
-Total: 167
+Total: 168
 
 | Country | Count |
 |---------|-------|
@@ -201,8 +202,8 @@ Total: 167
 | 🇧🇷 Brazil | 38 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
+| 🇮🇹 Italy | 4 |
 | 🇨🇦 Canada | 4 |
-| 🇮🇹 Italy | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
@@ -236,7 +237,7 @@ Total: 167
 | 2010s | 53 |
 | 2020s | 39 |
 | 1990s | 24 |
-| 1970s | 19 |
+| 1970s | 20 |
 | 2000s | 16 |
 | 1980s | 13 |
 | 1960s | 1 |
