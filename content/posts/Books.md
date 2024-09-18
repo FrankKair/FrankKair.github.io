@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-09-17T18:55:40Z
+date = 2024-09-24T14:07:26Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-09-17T18:55:40Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/08/2024 |
 | Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA | 26/08/2024 |
 | Gabrielle Zevin | Tomorrow and Tomorrow and Tomorrow | 2022 | 🇺🇸 USA | 14/08/2024 |
 | F. Scott Fitzgerald | The Diamond As Big As The Ritz | 1922 | 🇺🇸 USA | 15/07/2024 |
@@ -135,11 +136,11 @@ date = 2024-09-17T18:55:40Z
 
 ## Stats
 
-Total: 94
+Total: 95
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 37 |
+| 🇺🇸 USA | 38 |
 | 🇬🇧 UK | 22 |
 | 🇯🇵 Japan | 11 |
 | 🇷🇺 Russia | 4 |

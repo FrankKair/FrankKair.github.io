@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-09-17T18:55:40Z
+date = 2024-09-24T14:07:26Z
 +++
 
 | author | book | year | country |
@@ -34,7 +34,6 @@ date = 2024-09-17T18:55:40Z
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA |
-| Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | -- |
 | Jessica Zhan Mei Yu | But the Girl | 2024 | 🇨🇳 China |

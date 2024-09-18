@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-09-17T18:55:40Z
+date = 2024-09-24T14:07:26Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-09-17T18:55:40Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Pedro Luis E A Parede | Astronauta Tupy | 1997 | 🇧🇷 Brazil | 28/09/2024 |
 | Picchio Dal Pozzo | Picchio Dal Pozzo | 1976 | 🇮🇹 Italy | 21/09/2024 |
 | Piah Mater | Under the Shadow of a Foreign Sun | 2024 | 🇧🇷 Brazil | 14/09/2024 |
 | Gorguts | Obscura | 1998 | 🇨🇦 Canada | 07/09/2024 |
@@ -194,12 +195,12 @@ date = 2024-09-17T18:55:40Z
 
 ## Stats
 
-Total: 168
+Total: 169
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
-| 🇧🇷 Brazil | 38 |
+| 🇧🇷 Brazil | 39 |
 | 🇬🇧 UK | 26 |
 | 🇸🇪 Sweden | 11 |
 | 🇮🇹 Italy | 4 |
@@ -236,7 +237,7 @@ Total: 168
 |--------|-------|
 | 2010s | 53 |
 | 2020s | 39 |
-| 1990s | 24 |
+| 1990s | 25 |
 | 1970s | 20 |
 | 2000s | 16 |
 | 1980s | 13 |
