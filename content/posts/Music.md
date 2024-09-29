@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-09-24T14:07:26Z
+date = 2024-09-29T12:19:31Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-09-24T14:07:26Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| MEER | Wheels Within Wheels | 2024 | 🇳🇴 Norway | 05/10/2024 |
 | Pedro Luis E A Parede | Astronauta Tupy | 1997 | 🇧🇷 Brazil | 28/09/2024 |
 | Picchio Dal Pozzo | Picchio Dal Pozzo | 1976 | 🇮🇹 Italy | 21/09/2024 |
 | Piah Mater | Under the Shadow of a Foreign Sun | 2024 | 🇧🇷 Brazil | 14/09/2024 |
@@ -195,7 +196,7 @@ date = 2024-09-24T14:07:26Z
 
 ## Stats
 
-Total: 169
+Total: 170
 
 | Country | Count |
 |---------|-------|
@@ -205,6 +206,7 @@ Total: 169
 | 🇸🇪 Sweden | 11 |
 | 🇮🇹 Italy | 4 |
 | 🇨🇦 Canada | 4 |
+| 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
@@ -212,7 +214,6 @@ Total: 169
 | 🇦🇺 Australia | 2 |
 | 🇫🇷 France | 2 |
 | 🇰🇷 South Korea | 2 |
-| 🇳🇴 Norway | 2 |
 | 🇦🇷 Argentina | 2 |
 | 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
@@ -236,7 +237,7 @@ Total: 169
 | Decade | Count |
 |--------|-------|
 | 2010s | 53 |
-| 2020s | 39 |
+| 2020s | 40 |
 | 1990s | 25 |
 | 1970s | 20 |
 | 2000s | 16 |
