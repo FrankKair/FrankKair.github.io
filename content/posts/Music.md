@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-09-29T12:19:31Z
+date = 2024-10-03T15:12:12Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-09-29T12:19:31Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Daft Punk | Discovery | 2001 | 🇫🇷 France | 12/10/2024 |
 | MEER | Wheels Within Wheels | 2024 | 🇳🇴 Norway | 05/10/2024 |
 | Pedro Luis E A Parede | Astronauta Tupy | 1997 | 🇧🇷 Brazil | 28/09/2024 |
 | Picchio Dal Pozzo | Picchio Dal Pozzo | 1976 | 🇮🇹 Italy | 21/09/2024 |
@@ -196,7 +197,7 @@ date = 2024-09-29T12:19:31Z
 
 ## Stats
 
-Total: 170
+Total: 171
 
 | Country | Count |
 |---------|-------|
@@ -206,13 +207,13 @@ Total: 170
 | 🇸🇪 Sweden | 11 |
 | 🇮🇹 Italy | 4 |
 | 🇨🇦 Canada | 4 |
+| 🇫🇷 France | 3 |
 | 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
-| 🇫🇷 France | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇦🇷 Argentina | 2 |
 | 🇩🇰 Denmark | 1 |
@@ -240,7 +241,7 @@ Total: 170
 | 2020s | 40 |
 | 1990s | 25 |
 | 1970s | 20 |
-| 2000s | 16 |
+| 2000s | 17 |
 | 1980s | 13 |
 | 1960s | 1 |
 | 1910s | 1 |
