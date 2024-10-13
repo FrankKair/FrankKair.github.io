@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-10-03T15:12:12Z
+date = 2024-10-13T02:01:03Z
 +++
 
 
@@ -8,7 +8,7 @@ date = 2024-10-03T15:12:12Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/08/2024 |
+| Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/09/2024 |
 | Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA | 26/08/2024 |
 | Gabrielle Zevin | Tomorrow and Tomorrow and Tomorrow | 2022 | 🇺🇸 USA | 14/08/2024 |
 | F. Scott Fitzgerald | The Diamond As Big As The Ritz | 1922 | 🇺🇸 USA | 15/07/2024 |
