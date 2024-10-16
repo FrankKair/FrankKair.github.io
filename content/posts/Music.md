@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-10-13T02:01:03Z
+date = 2024-10-16T22:21:25Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-10-13T02:01:03Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Los Jaivas | Alturas de Macchu Picchu | 1981 | 🇨🇱 Chile | 19/10/2024 |
 | Daft Punk | Discovery | 2001 | 🇫🇷 France | 12/10/2024 |
 | MEER | Wheels Within Wheels | 2024 | 🇳🇴 Norway | 05/10/2024 |
 | Pedro Luis E A Parede | Astronauta Tupy | 1997 | 🇧🇷 Brazil | 28/09/2024 |
@@ -71,6 +72,7 @@ date = 2024-10-13T02:01:03Z
 | Entidathe | Reflexo | 2021 | 🇧🇷 Brazil | 24/06/2023 |
 | Beyoncé | Lemonade | 2016 | 🇺🇸 USA | 17/06/2023 |
 | The xx | XX | 2009 | 🇬🇧 UK | 10/06/2023 |
+| The Alan Parsons Project | Tales of Mystery and Imagination | 1976 | 🇬🇧 UK | 03/06/2023 |
 | Igor Stravinsky | The Rite of Spring | 1913 | 🇷🇺 Russia | 27/05/2023 |
 | Massive Attack | Mezzanine | 1998 | 🇬🇧 UK | 20/05/2023 |
 | Disaster Cities | Erasing Karma | 2023 | 🇧🇷 Brazil | 13/05/2023 |
@@ -197,19 +199,20 @@ date = 2024-10-13T02:01:03Z
 
 ## Stats
 
-Total: 171
+Total: 173
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
 | 🇧🇷 Brazil | 39 |
-| 🇬🇧 UK | 26 |
+| 🇬🇧 UK | 27 |
 | 🇸🇪 Sweden | 11 |
 | 🇮🇹 Italy | 4 |
 | 🇨🇦 Canada | 4 |
 | 🇫🇷 France | 3 |
 | 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
+| 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
@@ -219,7 +222,6 @@ Total: 171
 | 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
 | 🇨🇳 China | 1 |
-| 🇨🇱 Chile | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇿🇼 Zimbabwe | 1 |
 | 🇵🇹 Portugal | 1 |
@@ -240,9 +242,9 @@ Total: 171
 | 2010s | 53 |
 | 2020s | 40 |
 | 1990s | 25 |
-| 1970s | 20 |
+| 1970s | 21 |
 | 2000s | 17 |
-| 1980s | 13 |
+| 1980s | 14 |
 | 1960s | 1 |
 | 1910s | 1 |
 | 1950s | 1 |
