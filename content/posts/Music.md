@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-10-16T22:21:25Z
+date = 2024-10-20T11:45:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-10-16T22:21:25Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Fresno | Infinito | 2012 | 🇧🇷 Brazil | 26/10/2024 |
 | Los Jaivas | Alturas de Macchu Picchu | 1981 | 🇨🇱 Chile | 19/10/2024 |
 | Daft Punk | Discovery | 2001 | 🇫🇷 France | 12/10/2024 |
 | MEER | Wheels Within Wheels | 2024 | 🇳🇴 Norway | 05/10/2024 |
@@ -199,12 +200,12 @@ date = 2024-10-16T22:21:25Z
 
 ## Stats
 
-Total: 173
+Total: 174
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
-| 🇧🇷 Brazil | 39 |
+| 🇧🇷 Brazil | 40 |
 | 🇬🇧 UK | 27 |
 | 🇸🇪 Sweden | 11 |
 | 🇮🇹 Italy | 4 |
@@ -239,7 +240,7 @@ Total: 173
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 53 |
+| 2010s | 54 |
 | 2020s | 40 |
 | 1990s | 25 |
 | 1970s | 21 |
