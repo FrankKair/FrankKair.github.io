@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-10-20T11:45:40Z
+date = 2024-10-25T23:59:59Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-10-20T11:45:40Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Harmonium | Si On Avait Besoin D'une Cinquieme Saison | 1975 | 🇨🇦 Canada | 02/11/2024 |
 | Fresno | Infinito | 2012 | 🇧🇷 Brazil | 26/10/2024 |
 | Los Jaivas | Alturas de Macchu Picchu | 1981 | 🇨🇱 Chile | 19/10/2024 |
 | Daft Punk | Discovery | 2001 | 🇫🇷 France | 12/10/2024 |
@@ -200,7 +201,7 @@ date = 2024-10-20T11:45:40Z
 
 ## Stats
 
-Total: 174
+Total: 175
 
 | Country | Count |
 |---------|-------|
@@ -208,8 +209,8 @@ Total: 174
 | 🇧🇷 Brazil | 40 |
 | 🇬🇧 UK | 27 |
 | 🇸🇪 Sweden | 11 |
+| 🇨🇦 Canada | 5 |
 | 🇮🇹 Italy | 4 |
-| 🇨🇦 Canada | 4 |
 | 🇫🇷 France | 3 |
 | 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
@@ -243,7 +244,7 @@ Total: 174
 | 2010s | 54 |
 | 2020s | 40 |
 | 1990s | 25 |
-| 1970s | 21 |
+| 1970s | 22 |
 | 2000s | 17 |
 | 1980s | 14 |
 | 1960s | 1 |
