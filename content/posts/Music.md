@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-10-25T23:59:59Z
+date = 2024-11-05T08:41:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-10-25T23:59:59Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Necrophagist | Epitath | 2004 | 🇩🇪 Germany | 09/11/2024 |
 | Harmonium | Si On Avait Besoin D'une Cinquieme Saison | 1975 | 🇨🇦 Canada | 02/11/2024 |
 | Fresno | Infinito | 2012 | 🇧🇷 Brazil | 26/10/2024 |
 | Los Jaivas | Alturas de Macchu Picchu | 1981 | 🇨🇱 Chile | 19/10/2024 |
@@ -201,7 +202,7 @@ date = 2024-10-25T23:59:59Z
 
 ## Stats
 
-Total: 175
+Total: 176
 
 | Country | Count |
 |---------|-------|
@@ -214,6 +215,7 @@ Total: 175
 | 🇫🇷 France | 3 |
 | 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
+| 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇯🇵 Japan | 2 |
@@ -224,7 +226,6 @@ Total: 175
 | 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
 | 🇨🇳 China | 1 |
-| 🇩🇪 Germany | 1 |
 | 🇿🇼 Zimbabwe | 1 |
 | 🇵🇹 Portugal | 1 |
 | 🇵🇱 Poland | 1 |
@@ -245,7 +246,7 @@ Total: 175
 | 2020s | 40 |
 | 1990s | 25 |
 | 1970s | 22 |
-| 2000s | 17 |
+| 2000s | 18 |
 | 1980s | 14 |
 | 1960s | 1 |
 | 1910s | 1 |

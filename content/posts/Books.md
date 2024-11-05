@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-10-25T23:59:59Z
+date = 2024-11-05T08:41:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-10-25T23:59:59Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| R. F. Kuang | Yellowface | 2023 | 🇺🇸 USA | 04/11/2024 |
 | Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/09/2024 |
 | Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA | 26/08/2024 |
 | Gabrielle Zevin | Tomorrow and Tomorrow and Tomorrow | 2022 | 🇺🇸 USA | 14/08/2024 |
@@ -136,11 +137,11 @@ date = 2024-10-25T23:59:59Z
 
 ## Stats
 
-Total: 95
+Total: 96
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 38 |
+| 🇺🇸 USA | 39 |
 | 🇬🇧 UK | 22 |
 | 🇯🇵 Japan | 11 |
 | 🇷🇺 Russia | 4 |
