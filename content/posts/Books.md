@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-11-11T12:44:08Z
+date = 2024-11-11T21:11:11Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-11-11T12:44:08Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Sally Rooney | Intermezzo | 2024 | 🇮🇪 Ireland | 11/11/2024 |
 | R. F. Kuang | Yellowface | 2023 | 🇺🇸 USA | 04/11/2024 |
 | Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/09/2024 |
 | Barbara Kingsolver | Demon Copperhead | 2022 | 🇺🇸 USA | 26/08/2024 |
@@ -137,15 +138,15 @@ date = 2024-11-11T12:44:08Z
 
 ## Stats
 
-Total: 96
+Total: 97
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 39 |
 | 🇬🇧 UK | 22 |
 | 🇯🇵 Japan | 11 |
+| 🇮🇪 Ireland | 5 |
 | 🇷🇺 Russia | 4 |
-| 🇮🇪 Ireland | 4 |
 | 🇫🇮 Finland | 3 |
 | 🇫🇷 France | 2 |
 | 🇳🇬 Nigeria | 2 |
