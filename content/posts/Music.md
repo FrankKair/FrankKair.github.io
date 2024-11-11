@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-11-05T08:41:40Z
+date = 2024-11-11T12:44:08Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-11-05T08:41:40Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Gnome | King | 2022 | 🇧🇪 Belgium | 16/11/2024 |
 | Necrophagist | Epitath | 2004 | 🇩🇪 Germany | 09/11/2024 |
 | Harmonium | Si On Avait Besoin D'une Cinquieme Saison | 1975 | 🇨🇦 Canada | 02/11/2024 |
 | Fresno | Infinito | 2012 | 🇧🇷 Brazil | 26/10/2024 |
@@ -202,7 +203,7 @@ date = 2024-11-05T08:41:40Z
 
 ## Stats
 
-Total: 176
+Total: 177
 
 | Country | Count |
 |---------|-------|
@@ -223,6 +224,7 @@ Total: 176
 | 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇧🇪 Belgium | 1 |
 | 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
 | 🇨🇳 China | 1 |
@@ -243,7 +245,7 @@ Total: 176
 | Decade | Count |
 |--------|-------|
 | 2010s | 54 |
-| 2020s | 40 |
+| 2020s | 41 |
 | 1990s | 25 |
 | 1970s | 22 |
 | 2000s | 18 |
