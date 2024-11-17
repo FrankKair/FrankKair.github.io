@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-11-11T21:11:11Z
+date = 2024-11-18T07:37:13Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-11-11T21:11:11Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Ragnarök | Ragnarök | 1976 | 🇸🇪 Sweden | 23/11/2024 |
 | Gnome | King | 2022 | 🇧🇪 Belgium | 16/11/2024 |
 | Necrophagist | Epitath | 2004 | 🇩🇪 Germany | 09/11/2024 |
 | Harmonium | Si On Avait Besoin D'une Cinquieme Saison | 1975 | 🇨🇦 Canada | 02/11/2024 |
@@ -203,14 +204,14 @@ date = 2024-11-11T21:11:11Z
 
 ## Stats
 
-Total: 177
+Total: 178
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
 | 🇧🇷 Brazil | 40 |
 | 🇬🇧 UK | 27 |
-| 🇸🇪 Sweden | 11 |
+| 🇸🇪 Sweden | 12 |
 | 🇨🇦 Canada | 5 |
 | 🇮🇹 Italy | 4 |
 | 🇫🇷 France | 3 |
@@ -247,7 +248,7 @@ Total: 177
 | 2010s | 54 |
 | 2020s | 41 |
 | 1990s | 25 |
-| 1970s | 22 |
+| 1970s | 23 |
 | 2000s | 18 |
 | 1980s | 14 |
 | 1960s | 1 |
