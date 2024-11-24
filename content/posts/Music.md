@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-11-18T07:37:13Z
+date = 2024-11-24T14:11:25Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-11-18T07:37:13Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Opeth | The Last Will And Testament | 2024 | 🇸🇪 Sweden | 30/11/2024 |
 | Ragnarök | Ragnarök | 1976 | 🇸🇪 Sweden | 23/11/2024 |
 | Gnome | King | 2022 | 🇧🇪 Belgium | 16/11/2024 |
 | Necrophagist | Epitath | 2004 | 🇩🇪 Germany | 09/11/2024 |
@@ -204,14 +205,14 @@ date = 2024-11-18T07:37:13Z
 
 ## Stats
 
-Total: 178
+Total: 179
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
 | 🇧🇷 Brazil | 40 |
 | 🇬🇧 UK | 27 |
-| 🇸🇪 Sweden | 12 |
+| 🇸🇪 Sweden | 13 |
 | 🇨🇦 Canada | 5 |
 | 🇮🇹 Italy | 4 |
 | 🇫🇷 France | 3 |
@@ -246,7 +247,7 @@ Total: 178
 | Decade | Count |
 |--------|-------|
 | 2010s | 54 |
-| 2020s | 41 |
+| 2020s | 42 |
 | 1990s | 25 |
 | 1970s | 23 |
 | 2000s | 18 |
