@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-11-24T14:11:25Z
+date = 2024-11-29T09:00:36Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-11-24T14:11:25Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Virgil | The Eclogues | 40 | 🏛  Rome | 28/11/2024 |
 | Sally Rooney | Intermezzo | 2024 | 🇮🇪 Ireland | 11/11/2024 |
 | R. F. Kuang | Yellowface | 2023 | 🇺🇸 USA | 04/11/2024 |
 | Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/09/2024 |
@@ -138,7 +139,7 @@ date = 2024-11-24T14:11:25Z
 
 ## Stats
 
-Total: 97
+Total: 98
 
 | Country | Count |
 |---------|-------|
@@ -150,6 +151,7 @@ Total: 97
 | 🇫🇮 Finland | 3 |
 | 🇫🇷 France | 2 |
 | 🇳🇬 Nigeria | 2 |
+| 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
