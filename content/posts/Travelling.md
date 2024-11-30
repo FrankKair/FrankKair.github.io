@@ -1,14 +1,15 @@
 +++
 title = 'Travelling'
-date = 2024-11-29T09:00:36Z
+date = 2024-11-30T12:26:34Z
 +++
 
 | destination | country | start | end |
 | --- | --- | --- | --- |
+| Florianópolis | 🇧🇷 Brazil | 24/12/2024 | 19/01/2025 |
 | Lecce / Otranto | 🇮🇹 Italy | 09/07/2024 | 17/07/2024 |
 | Porto | 🇵🇹 Portugal | 14/06/2024 | 18/06/2024 |
 | Berlin | 🇩🇪 Germany | 09/05/2024 | 13/05/2024 |
-| Florianópolis | 🇧🇷 Brazil | 25/12/2023 | 30/01/2024 |
+| Florianópolis | 🇧🇷 Brazil | 24/12/2023 | 30/01/2024 |
 | Bologna / Florence | 🇮🇹 Italy | 04/12/2023 | 10/12/2023 |
 | Polignano A Mare / Bari | 🇮🇹 Italy | 14/08/2023 | 19/08/2023 |
 | Lisbon | 🇵🇹 Portugal | 04/07/2023 | 08/07/2023 |
@@ -31,13 +32,13 @@ date = 2024-11-29T09:00:36Z
 
 ## Stats
 
-Total: 23
+Total: 24
 
 | Country | Count |
 |---------|-------|
 | 🇮🇹 Italy | 6 |
 | 🇵🇹 Portugal | 4 |
-| 🇧🇷 Brazil | 2 |
+| 🇧🇷 Brazil | 3 |
 | 🇸🇪 Sweden | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇫🇷 France | 2 |
