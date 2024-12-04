@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2024-11-30T12:26:34Z
+date = 2024-12-04T08:53:41Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2024-11-30T12:26:34Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Edvard Grieg | Peer Gynt | 1875 | 🇳🇴 Norway | 14/12/2024 |
+| Mammoth Weed Wizard Bastard | Yn Ol I Annwn | 2019 | 🇬🇧 UK | 07/12/2024 |
 | Opeth | The Last Will And Testament | 2024 | 🇸🇪 Sweden | 30/11/2024 |
 | Ragnarök | Ragnarök | 1976 | 🇸🇪 Sweden | 23/11/2024 |
 | Gnome | King | 2022 | 🇧🇪 Belgium | 16/11/2024 |
@@ -205,18 +207,18 @@ date = 2024-11-30T12:26:34Z
 
 ## Stats
 
-Total: 179
+Total: 181
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
 | 🇧🇷 Brazil | 40 |
-| 🇬🇧 UK | 27 |
+| 🇬🇧 UK | 28 |
 | 🇸🇪 Sweden | 13 |
 | 🇨🇦 Canada | 5 |
+| 🇳🇴 Norway | 4 |
 | 🇮🇹 Italy | 4 |
 | 🇫🇷 France | 3 |
-| 🇳🇴 Norway | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
@@ -246,12 +248,13 @@ Total: 179
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 54 |
+| 2010s | 55 |
 | 2020s | 42 |
 | 1990s | 25 |
 | 1970s | 23 |
 | 2000s | 18 |
 | 1980s | 14 |
+| 1870s | 1 |
 | 1960s | 1 |
 | 1910s | 1 |
 | 1950s | 1 |
