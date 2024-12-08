@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-04T08:53:41Z
+date = 2024-12-08T08:48:46Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-12-04T08:53:41Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK | 08/12/2024 |
 | Virgil | The Eclogues | 40 | 🏛  Rome | 28/11/2024 |
 | Sally Rooney | Intermezzo | 2024 | 🇮🇪 Ireland | 11/11/2024 |
 | R. F. Kuang | Yellowface | 2023 | 🇺🇸 USA | 04/11/2024 |
@@ -139,12 +140,12 @@ date = 2024-12-04T08:53:41Z
 
 ## Stats
 
-Total: 98
+Total: 99
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 39 |
-| 🇬🇧 UK | 22 |
+| 🇬🇧 UK | 23 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 5 |
 | 🇷🇺 Russia | 4 |

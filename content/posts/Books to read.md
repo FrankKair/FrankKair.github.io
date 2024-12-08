@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-12-04T08:53:41Z
+date = 2024-12-08T08:48:46Z
 +++
 
 | author | book | year | country |
@@ -48,7 +48,6 @@ date = 2024-12-04T08:53:41Z
 | Dante Alighieri | The Divine Comedy | 1320 | 🇮🇹 Italy |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK |
 | Anne Brontë | Agnes Grey | 1847 | 🇬🇧 UK |
-| Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK |
 | Virginia Woolf | Mrs. Dalloway | 1925 | 🇬🇧 UK |
 | Virginia Woolf | To the Lighthouse | 1927 | 🇬🇧 UK |
 | Virginia Woolf | Orlando | 1927 | 🇬🇧 UK |
