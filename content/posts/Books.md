@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-08T08:48:46Z
+date = 2024-12-09T07:38:10Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-12-08T08:48:46Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway | 09/12/2024 |
 | Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK | 08/12/2024 |
 | Virgil | The Eclogues | 40 | 🏛  Rome | 28/11/2024 |
 | Sally Rooney | Intermezzo | 2024 | 🇮🇪 Ireland | 11/11/2024 |
@@ -140,7 +141,7 @@ date = 2024-12-08T08:48:46Z
 
 ## Stats
 
-Total: 99
+Total: 100
 
 | Country | Count |
 |---------|-------|
@@ -150,6 +151,7 @@ Total: 99
 | 🇮🇪 Ireland | 5 |
 | 🇷🇺 Russia | 4 |
 | 🇫🇮 Finland | 3 |
+| 🇳🇴 Norway | 2 |
 | 🇫🇷 France | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🏛  Rome | 1 |
@@ -163,4 +165,3 @@ Total: 99
 | 🇧🇷 Brazil | 1 |
 | 🇰🇷 South Korea | 1 |
 | 🇮🇱 Israel | 1 |
-| 🇳🇴 Norway | 1 |

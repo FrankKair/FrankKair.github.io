@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-12-08T08:48:46Z
+date = 2024-12-09T07:38:10Z
 +++
 
 | author | book | year | country |
@@ -19,7 +19,6 @@ date = 2024-12-08T08:48:46Z
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
 | Elena Ferrante | Storia della bambina perduta | 2014 | 🇮🇹 Italy |
-| Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway |
 | Charlotte Brontë | Jane Eyre | 1847 | 🇬🇧 UK |
 | George Orwell | Down and Out in Paris and London | 1933 | 🇬🇧 UK |
 | George Orwell | Animal Farm | 1945 | 🇬🇧 UK |
