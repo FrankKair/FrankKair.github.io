@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-09T07:38:10Z
+date = 2024-12-16T08:16:10Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-12-09T07:38:10Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Samuel Beckett | Waiting For Godot | 1952 | 🇮🇪 Ireland | 16/12/2024 |
 | Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway | 09/12/2024 |
 | Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK | 08/12/2024 |
 | Virgil | The Eclogues | 40 | 🏛  Rome | 28/11/2024 |
@@ -141,14 +142,14 @@ date = 2024-12-09T07:38:10Z
 
 ## Stats
 
-Total: 100
+Total: 101
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 39 |
 | 🇬🇧 UK | 23 |
 | 🇯🇵 Japan | 11 |
-| 🇮🇪 Ireland | 5 |
+| 🇮🇪 Ireland | 6 |
 | 🇷🇺 Russia | 4 |
 | 🇫🇮 Finland | 3 |
 | 🇳🇴 Norway | 2 |
