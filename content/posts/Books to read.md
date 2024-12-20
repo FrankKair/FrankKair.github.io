@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2024-12-16T08:16:10Z
+date = 2024-12-20T08:31:37Z
 +++
 
 | author | book | year | country |
@@ -9,7 +9,6 @@ date = 2024-12-16T08:16:10Z
 | Gabriel Garcia Marquez | En Agosto Nos Vemos | 2024 | 🇨🇴 Colombia |
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
-| Albert Camus | L’étranger | 1942 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France |

@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-16T08:16:10Z
+date = 2024-12-20T08:31:37Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-12-16T08:16:10Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Albert Camus | L’étranger | 1942 | 🇫🇷 France | 19/12/2024 |
 | Samuel Beckett | Waiting For Godot | 1952 | 🇮🇪 Ireland | 16/12/2024 |
 | Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway | 09/12/2024 |
 | Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK | 08/12/2024 |
@@ -142,7 +143,7 @@ date = 2024-12-16T08:16:10Z
 
 ## Stats
 
-Total: 101
+Total: 102
 
 | Country | Count |
 |---------|-------|
@@ -151,9 +152,9 @@ Total: 101
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
 | 🇷🇺 Russia | 4 |
+| 🇫🇷 France | 3 |
 | 🇫🇮 Finland | 3 |
 | 🇳🇴 Norway | 2 |
-| 🇫🇷 France | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
