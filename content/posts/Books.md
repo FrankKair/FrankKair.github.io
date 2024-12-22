@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-20T08:31:37Z
+date = 2024-12-23T08:35:42Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2024-12-20T08:31:37Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Ingvild H. Rishøi | Brightly Shining | 2021 | 🇳🇴 Norway | 22/12/2024 |
+| Susanna Clarke | The Wood at Midwinter | 2024 | 🇬🇧 UK | 21/12/2024 |
 | Albert Camus | L’étranger | 1942 | 🇫🇷 France | 19/12/2024 |
 | Samuel Beckett | Waiting For Godot | 1952 | 🇮🇪 Ireland | 16/12/2024 |
 | Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway | 09/12/2024 |
@@ -143,18 +145,18 @@ date = 2024-12-20T08:31:37Z
 
 ## Stats
 
-Total: 102
+Total: 104
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 39 |
-| 🇬🇧 UK | 23 |
+| 🇬🇧 UK | 24 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
 | 🇷🇺 Russia | 4 |
+| 🇳🇴 Norway | 3 |
 | 🇫🇷 France | 3 |
 | 🇫🇮 Finland | 3 |
-| 🇳🇴 Norway | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
