@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2024-12-23T08:35:42Z
+date = 2024-12-24T10:42:39Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2024-12-23T08:35:42Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Samantha Harvey | Orbital | 2024 | 🇬🇧 UK | 24/12/2024 |
 | Ingvild H. Rishøi | Brightly Shining | 2021 | 🇳🇴 Norway | 22/12/2024 |
 | Susanna Clarke | The Wood at Midwinter | 2024 | 🇬🇧 UK | 21/12/2024 |
 | Albert Camus | L’étranger | 1942 | 🇫🇷 France | 19/12/2024 |
@@ -145,12 +146,12 @@ date = 2024-12-23T08:35:42Z
 
 ## Stats
 
-Total: 104
+Total: 105
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 39 |
-| 🇬🇧 UK | 24 |
+| 🇬🇧 UK | 25 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
 | 🇷🇺 Russia | 4 |
