@@ -1,8 +1,14 @@
 +++
 title = 'Books'
-date = 2024-12-24T10:42:39Z
+date = 2025-01-22T12:49:06Z
 +++
 
+
+## 2025
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
 
 ## 2024
 
@@ -146,7 +152,7 @@ date = 2024-12-24T10:42:39Z
 
 ## Stats
 
-Total: 105
+Total: 106
 
 | Country | Count |
 |---------|-------|
@@ -158,6 +164,7 @@ Total: 105
 | 🇳🇴 Norway | 3 |
 | 🇫🇷 France | 3 |
 | 🇫🇮 Finland | 3 |
+| 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
@@ -167,6 +174,5 @@ Total: 105
 | 🇩🇪 Germany | 1 |
 | 🇧🇭 Bahrain | 1 |
 | 🇲🇽 Mexico | 1 |
-| 🇧🇷 Brazil | 1 |
 | 🇰🇷 South Korea | 1 |
 | 🇮🇱 Israel | 1 |
