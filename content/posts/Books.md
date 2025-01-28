@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-01-22T12:49:06Z
+date = 2025-01-28T09:35:20Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-01-22T12:49:06Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
 | Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
 
 ## 2024
@@ -152,11 +153,11 @@ date = 2025-01-22T12:49:06Z
 
 ## Stats
 
-Total: 106
+Total: 107
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 39 |
+| 🇺🇸 USA | 40 |
 | 🇬🇧 UK | 25 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
