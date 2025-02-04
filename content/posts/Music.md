@@ -1,8 +1,14 @@
 +++
 title = 'Music'
-date = 2025-01-28T09:35:20Z
+date = 2025-02-04T10:34:43Z
 +++
 
+
+## 2025
+
+| artist | album | year | country | review |
+| --- | --- | --- | --- | --- |
+| Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 08/02/2025 |
 
 ## 2024
 
@@ -207,7 +213,7 @@ date = 2025-01-28T09:35:20Z
 
 ## Stats
 
-Total: 181
+Total: 182
 
 | Country | Count |
 |---------|-------|
@@ -215,9 +221,9 @@ Total: 181
 | 🇧🇷 Brazil | 40 |
 | 🇬🇧 UK | 28 |
 | 🇸🇪 Sweden | 13 |
+| 🇮🇹 Italy | 5 |
 | 🇨🇦 Canada | 5 |
 | 🇳🇴 Norway | 4 |
-| 🇮🇹 Italy | 4 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇩🇪 Germany | 2 |
@@ -251,7 +257,7 @@ Total: 181
 | 2010s | 55 |
 | 2020s | 42 |
 | 1990s | 25 |
-| 1970s | 23 |
+| 1970s | 24 |
 | 2000s | 18 |
 | 1980s | 14 |
 | 1870s | 1 |

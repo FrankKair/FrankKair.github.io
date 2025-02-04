@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-01-28T09:35:20Z
+date = 2025-02-04T10:34:43Z
 +++
 
 | author | book | year | country |
@@ -14,10 +14,10 @@ date = 2025-01-28T09:35:20Z
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France |
 | James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland |
 | Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy |
-| Natalia Ginzburg | Lessico Familiare | 1963 | 🇮🇹 Italy |
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
-| Elena Ferrante | Storia della bambina perduta | 2014 | 🇮🇹 Italy |
+| Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |
+| Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Charlotte Brontë | Jane Eyre | 1847 | 🇬🇧 UK |
 | George Orwell | Down and Out in Paris and London | 1933 | 🇬🇧 UK |
 | George Orwell | Animal Farm | 1945 | 🇬🇧 UK |
@@ -34,8 +34,8 @@ date = 2025-01-28T09:35:20Z
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | -- |
-| Jessica Zhan Mei Yu | But the Girl | 2024 | 🇨🇳 China |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
+| Tove Jansson | Rent Spel | 1989 | 🇫🇮 Finland |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Johann Wolfgang von Goethe | The Sorrows of Young Werther | 1774 | 🇩🇪 Germany |
@@ -44,6 +44,8 @@ date = 2025-01-28T09:35:20Z
 | Franz Kafka | The Trial | 1925 | 🇩🇪 Germany |
 | Herman Hesse | Siddhartha | 1922 | 🇩🇪 Germany |
 | Dante Alighieri | The Divine Comedy | 1320 | 🇮🇹 Italy |
+| Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
+| Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK |
 | Anne Brontë | Agnes Grey | 1847 | 🇬🇧 UK |
 | Virginia Woolf | Mrs. Dalloway | 1925 | 🇬🇧 UK |

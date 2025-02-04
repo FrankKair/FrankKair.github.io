@@ -1,10 +1,11 @@
 +++
 title = 'Travelling'
-date = 2025-01-28T09:35:20Z
+date = 2025-02-04T10:34:43Z
 +++
 
 | destination | country | start | end |
 | --- | --- | --- | --- |
+| Barcelona | 🇪🇸 Spain | 03/06/2025 | 08/06/2025 |
 | Florianópolis | 🇧🇷 Brazil | 24/12/2024 | 19/01/2025 |
 | Lecce / Otranto | 🇮🇹 Italy | 09/07/2024 | 17/07/2024 |
 | Porto | 🇵🇹 Portugal | 14/06/2024 | 18/06/2024 |
@@ -32,15 +33,15 @@ date = 2025-01-28T09:35:20Z
 
 ## Stats
 
-Total: 24
+Total: 25
 
 | Country | Count |
 |---------|-------|
 | 🇮🇹 Italy | 6 |
 | 🇵🇹 Portugal | 4 |
+| 🇪🇸 Spain | 3 |
 | 🇧🇷 Brazil | 3 |
 | 🇸🇪 Sweden | 2 |
-| 🇪🇸 Spain | 2 |
 | 🇫🇷 France | 2 |
 | 🇩🇪 Germany | 1 |
 | 🇲🇦 Morocco | 1 |
