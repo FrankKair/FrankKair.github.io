@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-02-04T10:34:43Z
+date = 2025-02-11T13:35:26Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-02-04T10:34:43Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Wendy Cope | The Orange and Other Poems | 2023 | 🇬🇧 UK | 11/02/2025 |
 | Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
 | Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
 
@@ -153,12 +154,12 @@ date = 2025-02-04T10:34:43Z
 
 ## Stats
 
-Total: 107
+Total: 108
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 40 |
-| 🇬🇧 UK | 25 |
+| 🇬🇧 UK | 26 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
 | 🇷🇺 Russia | 4 |
