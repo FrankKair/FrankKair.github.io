@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-02-11T13:35:26Z
+date = 2025-02-15T16:31:17Z
 +++
 
 | author | book | year | country |
@@ -31,7 +31,6 @@ date = 2025-02-11T13:35:26Z
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA |
-| Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | -- |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |

@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-02-11T13:35:26Z
+date = 2025-02-15T16:31:17Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-02-11T13:35:26Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA | 14/02/2025 |
 | Wendy Cope | The Orange and Other Poems | 2023 | 🇬🇧 UK | 11/02/2025 |
 | Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
 | Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
@@ -154,11 +155,11 @@ date = 2025-02-11T13:35:26Z
 
 ## Stats
 
-Total: 108
+Total: 109
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 40 |
+| 🇺🇸 USA | 41 |
 | 🇬🇧 UK | 26 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
