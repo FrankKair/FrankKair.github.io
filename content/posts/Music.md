@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-02-15T16:31:17Z
+date = 2025-02-18T17:49:02Z
 +++
 
 
@@ -8,7 +8,8 @@ date = 2025-02-15T16:31:17Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 08/02/2025 |
+| Bill Fisher | How To Think Like a Billionaire | 2024 | 🇬🇧 UK | 22/02/2025 |
+| Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 15/02/2025 |
 
 ## 2024
 
@@ -213,13 +214,13 @@ date = 2025-02-15T16:31:17Z
 
 ## Stats
 
-Total: 182
+Total: 183
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
 | 🇧🇷 Brazil | 40 |
-| 🇬🇧 UK | 28 |
+| 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
 | 🇮🇹 Italy | 5 |
 | 🇨🇦 Canada | 5 |
@@ -255,7 +256,7 @@ Total: 182
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 42 |
+| 2020s | 43 |
 | 1990s | 25 |
 | 1970s | 24 |
 | 2000s | 18 |

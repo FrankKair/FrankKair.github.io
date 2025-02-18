@@ -1,6 +1,6 @@
 +++
 title = 'Travelling'
-date = 2025-02-15T16:31:17Z
+date = 2025-02-18T17:49:02Z
 +++
 
 | destination | country | start | end |

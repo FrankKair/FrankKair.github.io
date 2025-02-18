@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-02-15T16:31:17Z
+date = 2025-02-18T17:49:02Z
 +++
 
 | author | book | year | country |
@@ -34,6 +34,7 @@ date = 2025-02-15T16:31:17Z
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | -- |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
+| Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
 | Tove Jansson | Rent Spel | 1989 | 🇫🇮 Finland |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
