@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-02-18T17:49:02Z
+date = 2025-02-21T21:08:51Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-02-18T17:49:02Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Leo Tolstoy | Anna Karenina | 1878 | 🇷🇺 Russia | 21/02/2025 |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA | 14/02/2025 |
 | Wendy Cope | The Orange and Other Poems | 2023 | 🇬🇧 UK | 11/02/2025 |
 | Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
@@ -155,7 +156,7 @@ date = 2025-02-18T17:49:02Z
 
 ## Stats
 
-Total: 109
+Total: 110
 
 | Country | Count |
 |---------|-------|
@@ -163,7 +164,7 @@ Total: 109
 | 🇬🇧 UK | 26 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 6 |
-| 🇷🇺 Russia | 4 |
+| 🇷🇺 Russia | 5 |
 | 🇳🇴 Norway | 3 |
 | 🇫🇷 France | 3 |
 | 🇫🇮 Finland | 3 |
