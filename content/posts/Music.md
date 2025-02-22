@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-02-21T21:08:51Z
+date = 2025-02-22T17:51:37Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-02-21T21:08:51Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Tuatha de Danann | Trova Di Danú | 2025 | 🇧🇷 Brazil | 29/02/2025 |
 | Bill Fisher | How To Think Like a Billionaire | 2024 | 🇬🇧 UK | 22/02/2025 |
 | Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 15/02/2025 |
 
@@ -214,12 +215,12 @@ date = 2025-02-21T21:08:51Z
 
 ## Stats
 
-Total: 183
+Total: 184
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
-| 🇧🇷 Brazil | 40 |
+| 🇧🇷 Brazil | 41 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
 | 🇮🇹 Italy | 5 |
@@ -256,7 +257,7 @@ Total: 183
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 43 |
+| 2020s | 44 |
 | 1990s | 25 |
 | 1970s | 24 |
 | 2000s | 18 |
