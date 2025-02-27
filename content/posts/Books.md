@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-02-22T17:51:37Z
+date = 2025-02-27T15:14:20Z
 +++
 
 
@@ -8,8 +8,10 @@ date = 2025-02-22T17:51:37Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Virginia Woolf | A Room of One's Own and Three Guineas | 1938 | 🇬🇧 UK | 27/02/2025 |
 | Leo Tolstoy | Anna Karenina | 1878 | 🇷🇺 Russia | 21/02/2025 |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA | 14/02/2025 |
+| Sally Rooney | Mr Salary | 2024 | 🇮🇪 Ireland | 12/02/2025 |
 | Wendy Cope | The Orange and Other Poems | 2023 | 🇬🇧 UK | 11/02/2025 |
 | Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
 | Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
@@ -156,14 +158,14 @@ date = 2025-02-22T17:51:37Z
 
 ## Stats
 
-Total: 110
+Total: 112
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 41 |
-| 🇬🇧 UK | 26 |
+| 🇬🇧 UK | 27 |
 | 🇯🇵 Japan | 11 |
-| 🇮🇪 Ireland | 6 |
+| 🇮🇪 Ireland | 7 |
 | 🇷🇺 Russia | 5 |
 | 🇳🇴 Norway | 3 |
 | 🇫🇷 France | 3 |
