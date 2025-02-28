@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-02-27T15:14:20Z
+date = 2025-02-28T07:48:27Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-02-27T15:14:20Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Louise Glück | Averno | 2006 | 🇺🇸 USA | 28/02/2025 |
 | Virginia Woolf | A Room of One's Own and Three Guineas | 1938 | 🇬🇧 UK | 27/02/2025 |
 | Leo Tolstoy | Anna Karenina | 1878 | 🇷🇺 Russia | 21/02/2025 |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA | 14/02/2025 |
@@ -158,11 +159,11 @@ date = 2025-02-27T15:14:20Z
 
 ## Stats
 
-Total: 112
+Total: 113
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 41 |
+| 🇺🇸 USA | 42 |
 | 🇬🇧 UK | 27 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |

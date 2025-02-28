@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-02-27T15:14:20Z
+date = 2025-02-28T07:48:27Z
 +++
 
 | author | book | year | country |
@@ -59,5 +59,4 @@ date = 2025-02-27T15:14:20Z
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
 | Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
-| Louise Glück | Averno | 2006 | 🇺🇸 USA |
 | Elizabeth Strout | Olive Kitteridge | 2008 | 🇺🇸 USA |
