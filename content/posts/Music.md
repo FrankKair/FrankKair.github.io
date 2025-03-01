@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-02-28T07:48:27Z
+date = 2025-03-01T08:42:54Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-02-28T07:48:27Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Fontaines D.C. | Romance | 2024 | 🇮🇪 Ireland | 08/03/2025 |
+| Thin Lizzy | Jailbreak | 1976 | 🇮🇪 Ireland | 03/03/2025 |
 | Tuatha de Danann | Trova Di Danú | 2025 | 🇧🇷 Brazil | 29/02/2025 |
 | Bill Fisher | How To Think Like a Billionaire | 2024 | 🇬🇧 UK | 22/02/2025 |
 | Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 15/02/2025 |
@@ -215,7 +217,7 @@ date = 2025-02-28T07:48:27Z
 
 ## Stats
 
-Total: 184
+Total: 186
 
 | Country | Count |
 |---------|-------|
@@ -226,6 +228,7 @@ Total: 184
 | 🇮🇹 Italy | 5 |
 | 🇨🇦 Canada | 5 |
 | 🇳🇴 Norway | 4 |
+| 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇩🇪 Germany | 2 |
@@ -249,7 +252,6 @@ Total: 184
 | 🇫🇮 Finland | 1 |
 | 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
-| 🇮🇪 Ireland | 1 |
 | 🇵🇰 Pakistan | 1 |
 | 🇬🇷 Greece | 1 |
 | 🇦🇲 Armenia | 1 |
@@ -257,9 +259,9 @@ Total: 184
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 44 |
+| 2020s | 45 |
+| 1970s | 25 |
 | 1990s | 25 |
-| 1970s | 24 |
 | 2000s | 18 |
 | 1980s | 14 |
 | 1870s | 1 |
