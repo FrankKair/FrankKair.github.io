@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-03-01T08:42:54Z
+date = 2025-03-10T12:01:57Z
 +++
 
 
@@ -8,9 +8,10 @@ date = 2025-03-01T08:42:54Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Babidi | Depois Que a Água Baixou | 2025 | 🇧🇷 Brazil | 15/03/2025 |
 | Fontaines D.C. | Romance | 2024 | 🇮🇪 Ireland | 08/03/2025 |
 | Thin Lizzy | Jailbreak | 1976 | 🇮🇪 Ireland | 03/03/2025 |
-| Tuatha de Danann | Trova Di Danú | 2025 | 🇧🇷 Brazil | 29/02/2025 |
+| Tuatha de Danann | Trova Di Danú | 2004 | 🇧🇷 Brazil | 29/02/2025 |
 | Bill Fisher | How To Think Like a Billionaire | 2024 | 🇬🇧 UK | 22/02/2025 |
 | Quella Vecchia Locanda | Quella Vecchia Locanda | 1972 | 🇮🇹 Italy | 15/02/2025 |
 
@@ -217,12 +218,12 @@ date = 2025-03-01T08:42:54Z
 
 ## Stats
 
-Total: 186
+Total: 187
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 48 |
-| 🇧🇷 Brazil | 41 |
+| 🇧🇷 Brazil | 42 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
 | 🇮🇹 Italy | 5 |
@@ -262,7 +263,7 @@ Total: 186
 | 2020s | 45 |
 | 1970s | 25 |
 | 1990s | 25 |
-| 2000s | 18 |
+| 2000s | 19 |
 | 1980s | 14 |
 | 1870s | 1 |
 | 1960s | 1 |
