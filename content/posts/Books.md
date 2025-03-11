@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-03-11T11:14:29Z
+date = 2025-03-11T11:21:42Z
 +++
 
 
@@ -101,8 +101,8 @@ date = 2025-03-11T11:14:29Z
 | Paulo Freire | Pedagogia do Oprimido | 1968 | 🇧🇷 Brazil | 15/12/2022 |
 | Bo Seo | The Art of Disagreeing Well | 2022 | 🇰🇷 South Korea | 25/11/2022 |
 | Claire Keegan | Foster | 2010 | 🇮🇪 Ireland | 17/10/2022 |
-| Haruki Murakami | Pinball 1973 | 2007 | 🇯🇵 Japan | 23/06/2023 |
-| Haruki Murakami | Hear the Wind Sing | 2007 | 🇯🇵 Japan | 27/05/2023 |
+| Haruki Murakami | Pinball 1973 | 2007 | 🇯🇵 Japan | 23/06/2022 |
+| Haruki Murakami | Hear the Wind Sing | 2007 | 🇯🇵 Japan | 27/05/2022 |
 | Margaret Walters | Feminism: A Very Short Introduction | 2006 | 🇬🇧 UK | 27/05/2022 |
 | Bill Gates | How To Avoid a Climate Disaster | 2021 | 🇺🇸 USA | 05/04/2022 |
 
