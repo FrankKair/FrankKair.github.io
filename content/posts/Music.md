@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-03-11T11:21:42Z
+date = 2025-03-11T17:31:41Z
 +++
 
 
@@ -8,6 +8,9 @@ date = 2025-03-11T11:21:42Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Björk | Homogenic | 1997 | 🇮🇸 Iceland | 29/03/2025 |
+| Sígur Ross | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
+| Witch | Introduction | 1972 | 🇿🇲 Zambia | 22/03/2025 |
 | Babidi | Depois Que a Água Baixou | 2025 | 🇧🇷 Brazil | 15/03/2025 |
 | Fontaines D.C. | Romance | 2024 | 🇮🇪 Ireland | 08/03/2025 |
 | Thin Lizzy | Jailbreak | 1976 | 🇮🇪 Ireland | 03/03/2025 |
@@ -218,7 +221,7 @@ date = 2025-03-11T11:21:42Z
 
 ## Stats
 
-Total: 187
+Total: 190
 
 | Country | Count |
 |---------|-------|
@@ -229,6 +232,7 @@ Total: 187
 | 🇮🇹 Italy | 5 |
 | 🇨🇦 Canada | 5 |
 | 🇳🇴 Norway | 4 |
+| 🇮🇸 Iceland | 3 |
 | 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
@@ -240,6 +244,7 @@ Total: 187
 | 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇦🇷 Argentina | 2 |
+| 🇿🇲 Zambia | 1 |
 | 🇧🇪 Belgium | 1 |
 | 🇩🇰 Denmark | 1 |
 | 🇭🇷 Croatia | 1 |
@@ -249,7 +254,6 @@ Total: 187
 | 🇵🇱 Poland | 1 |
 | 🇷🇺 Russia | 1 |
 | 🇲🇱 Mali | 1 |
-| 🇮🇸 Iceland | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
@@ -261,8 +265,8 @@ Total: 187
 |--------|-------|
 | 2010s | 55 |
 | 2020s | 45 |
-| 1970s | 25 |
-| 1990s | 25 |
+| 1990s | 27 |
+| 1970s | 26 |
 | 2000s | 19 |
 | 1980s | 14 |
 | 1870s | 1 |
