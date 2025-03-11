@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-10T12:01:57Z
+date = 2025-03-11T11:14:29Z
 +++
 
 | author | book | year | country |
@@ -25,7 +25,6 @@ date = 2025-03-10T12:01:57Z
 | George Orwell | 1984 | 1949 | 🇬🇧 UK |
 | Jean Rhys | Wide Sargasso Sea | 1966 | 🇬🇧 UK |
 | Kazuo Ishiguro | Never Let Me Go | 2005 | 🇬🇧 UK |
-| Simon Armitage | The Owl and the Nightingale | 2021 | 🇬🇧 UK |
 | Vladimir Nabokov | Lolita | 1955 | 🇺🇸 USA |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA |
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |

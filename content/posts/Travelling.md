@@ -1,11 +1,12 @@
 +++
 title = 'Travelling'
-date = 2025-03-10T12:01:57Z
+date = 2025-03-11T11:14:29Z
 +++
 
 | destination | country | start | end |
 | --- | --- | --- | --- |
 | Barcelona | 🇪🇸 Spain | 03/06/2025 | 08/06/2025 |
+| The Hague | 🇳🇱 Netherlands | 21/03/2025 | 24/03/2025 |
 | Florianópolis | 🇧🇷 Brazil | 24/12/2024 | 19/01/2025 |
 | Lecce / Otranto | 🇮🇹 Italy | 09/07/2024 | 17/07/2024 |
 | Porto | 🇵🇹 Portugal | 14/06/2024 | 18/06/2024 |
@@ -33,7 +34,7 @@ date = 2025-03-10T12:01:57Z
 
 ## Stats
 
-Total: 25
+Total: 26
 
 | Country | Count |
 |---------|-------|
@@ -43,6 +44,7 @@ Total: 25
 | 🇧🇷 Brazil | 3 |
 | 🇸🇪 Sweden | 2 |
 | 🇫🇷 France | 2 |
+| 🇳🇱 Netherlands | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇲🇦 Morocco | 1 |
 | 🇬🇷 Greece | 1 |
