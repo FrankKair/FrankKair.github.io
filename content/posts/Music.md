@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-03-11T17:31:41Z
+date = 2025-03-12T12:55:17Z
 +++
 
 
@@ -9,7 +9,7 @@ date = 2025-03-11T17:31:41Z
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
 | Björk | Homogenic | 1997 | 🇮🇸 Iceland | 29/03/2025 |
-| Sígur Ross | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
+| Sigur Rós | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
 | Witch | Introduction | 1972 | 🇿🇲 Zambia | 22/03/2025 |
 | Babidi | Depois Que a Água Baixou | 2025 | 🇧🇷 Brazil | 15/03/2025 |
 | Fontaines D.C. | Romance | 2024 | 🇮🇪 Ireland | 08/03/2025 |
