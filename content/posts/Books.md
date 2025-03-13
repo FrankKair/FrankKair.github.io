@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-03-12T12:55:17Z
+date = 2025-03-13T08:49:14Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-03-12T12:55:17Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| George Orwell | Animal Farm | 1945 | 🇬🇧 UK | 13/03/2025 |
 | Simon Armitage | The Owl and the Nightingale | 2021 | 🇬🇧 UK | 11/03/2025 |
 | Louise Glück | Averno | 2006 | 🇺🇸 USA | 28/02/2025 |
 | Virginia Woolf | A Room of One's Own and Three Guineas | 1938 | 🇬🇧 UK | 27/02/2025 |
@@ -160,12 +161,12 @@ date = 2025-03-12T12:55:17Z
 
 ## Stats
 
-Total: 114
+Total: 115
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 42 |
-| 🇬🇧 UK | 28 |
+| 🇬🇧 UK | 29 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇷🇺 Russia | 5 |
