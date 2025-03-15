@@ -9,26 +9,22 @@ Seneca,De Brevitate Vitae,49,🏛️ Rome
 Marcus Aurelius,Meditations (Τὰ εἰς ἑαυτόν),170-180,🏛️ Rome
 Anonymous,Poetic Edda,1270,🇮🇸 Iceland
 Snorri Sturluson,Prose Edda,1220,🇮🇸 Iceland
-William Shakespeare,The Sonnets,1609,🇬🇧 UK
-John Keats,,,🇬🇧 UK
-William Wordsworth,,,🇬🇧 UK
-Samuel Taylor Coleridge,,,🇬🇧 UK
-Emily Dickinson,,,🇺🇸 USA
-Walt Whitman,Leaves of Grass,1855,🇺🇸 USA
-W.B. Yeats,,,🇮🇪 Ireland
-T.S. Elliot,The Waste Land,1922,🇺🇸 USA
-Ted Hughes,Lupercal,1960,🇬🇧 UK
-Ted Hughes,Birthday Letters,1998,🇬🇧 UK
-Sylvia Plath,Ariel,1965,🇺🇸 USA
-Seamus Heaney,,,🇮🇪 Ireland
-James Joyce,A Portrait of the Artist as a Young Man,1916,🇮🇪 Ireland
 Julio Cortázar,Final del juego,1956,🇦🇷 Argentina
-Chinua Achebe,Things Fall Apart,1958,🇳🇬 Nigeria
-Olga Tokarczuk,Drive Your Plow Over the Bones of the Dead,2009,🇵🇱 Poland,
-J.M. Coetzee,The Childhood of Jesus,2013,🇿🇦 South Africa
-Orhan Pamuk,The Red-Haired Woman,2016,🇹🇷 Turkey,
 Gabriel Garcia Marquez,En Agosto Nos Vemos,2024,🇨🇴 Colombia
+Olga Tokarczuk,Drive Your Plow Over the Bones of the Dead,2009,🇵🇱 Poland,
+Orhan Pamuk,The Red-Haired Woman,2016,🇹🇷 Turkey,
+Chinua Achebe,Things Fall Apart,1958,🇳🇬 Nigeria
+J.M. Coetzee,The Childhood of Jesus,2013,🇿🇦 South Africa
+W.B. Yeats,,,🇮🇪 Ireland
+James Joyce,A Portrait of the Artist as a Young Man,1916,🇮🇪 Ireland
+James Joyce,Ulysses,1922,🇮🇪 Ireland  
+Seamus Heaney,,,🇮🇪 Ireland
 Geoffrey Chaucer,The Canterbury Tales,1387,🇬🇧 UK
+Edmund Spenser,The Faerie Queene,1590,🇬🇧 UK
+William Shakespeare,A Midsummer Night’s Dream,1595,🇬🇧 UK
+William Shakespeare,Hamlet,1600,🇬🇧 UK
+William Shakespeare,Macbeth,1606,🇬🇧 UK
+William Shakespeare,The Sonnets,1609,🇬🇧 UK
 John Milton,Paradise Lost,1667,🇬🇧 UK
 Jane Austen,Sense and Sensibility,1811,🇬🇧 UK
 Jane Austen,Pride and Prejudice,1813,🇬🇧 UK
@@ -36,6 +32,13 @@ Jane Austen,Mansfield Park,1814,🇬🇧 UK
 Jane Austen,Emma,1816,🇬🇧 UK
 Anne Brontë,Agnes Grey,1847,🇬🇧 UK
 Charlotte Brontë,Jane Eyre,1847,🇬🇧 UK
+William Blake,,,🇬🇧 UK
+William Wordsworth,,,🇬🇧 UK
+Samuel Taylor Coleridge,,,🇬🇧 UK
+John Clare,,,🇬🇧 UK
+Lord Byron,,,🇬🇧 UK
+Percy Bysshe Shelley,,,🇬🇧 UK
+John Keats,,,🇬🇧 UK
 George Eliot,Middlemarch,1872,🇬🇧 UK
 Virginia Woolf,Mrs. Dalloway,1925,🇬🇧 UK
 Virginia Woolf,To the Lighthouse,1927,🇬🇧 UK
@@ -46,15 +49,27 @@ George Orwell,Cigarettes and Books,1946,🇬🇧 UK
 George Orwell,1984,1949,🇬🇧 UK
 J.R.R. Tolkien,The Hobbit,1937,🇬🇧 UK
 Evelyn Waugh,The Loved One,1948,🇬🇧 UK
+Ted Hughes,Lupercal,1960,🇬🇧 UK
+Ted Hughes,Birthday Letters,1998,🇬🇧 UK
 Zadie Smith,White Teeth,2000,🇬🇧 UK
 Zadie Smith,On Beauty,2005,🇬🇧 UK
 Ian McEwan,Atonement,2001,🇬🇧 UK
 Kazuo Ishiguro,Never Let Me Go,2005,🇬🇧 UK
+Simon Armitage,Sir Gawain and the Green Knight,2007,🇬🇧 UK
+Simon Armitage,Beowulf,2020,🇬🇧 UK
+Emily Dickinson,,,🇺🇸 USA
+Nathaniel Hawthorne,The Scarlet Letter,1850,🇺🇸 USA
+Walt Whitman,Leaves of Grass,1855,🇺🇸 USA
+Henry James,Washington Square,1880,🇺🇸 USA
 F. Scott Fitzgerald,This Side of Paradise,1920,🇺🇸 USA
 F. Scott Fitzgerald,The Great Gatsby,1925,🇺🇸 USA
+Robert Frost,,,🇺🇸 USA
+Ezra Pound,,,🇺🇸 USA
+T.S. Elliot,The Waste Land,1922,🇺🇸 USA
 John Steinbeck,The Grapes of Wrath,1939,🇺🇸 USA
 John Steinbeck,Cannery Row,1945,🇺🇸 USA
 John Steinbeck,East of Eden,1952,🇺🇸 USA
+Sylvia Plath,Ariel,1965,🇺🇸 USA
 Alice Walker,The Color Purple,1982,🇺🇸 USA
 Toni Morrison,Beloved,1987,🇺🇸 USA
 André Aciman,Call Me By Your Name,2007,🇺🇸 USA
