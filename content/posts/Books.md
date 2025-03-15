@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-03-14T20:03:09Z
+date = 2025-03-15T13:21:18Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-03-14T20:03:09Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA | 15/03/2025 |
 | George Orwell | Animal Farm | 1945 | 🇬🇧 UK | 13/03/2025 |
 | Simon Armitage | The Owl and the Nightingale | 2021 | 🇬🇧 UK | 11/03/2025 |
 | Louise Glück | Averno | 2006 | 🇺🇸 USA | 28/02/2025 |
@@ -161,11 +162,11 @@ date = 2025-03-14T20:03:09Z
 
 ## Stats
 
-Total: 115
+Total: 116
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 42 |
+| 🇺🇸 USA | 43 |
 | 🇬🇧 UK | 29 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |

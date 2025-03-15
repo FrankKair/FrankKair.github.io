@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-14T20:03:09Z
+date = 2025-03-15T13:21:18Z
 +++
 
 | author | book | year | country |
@@ -61,7 +61,6 @@ date = 2025-03-14T20:03:09Z
 | John Steinbeck | The Grapes of Wrath | 1939 | 🇺🇸 USA |
 | John Steinbeck | Cannery Row | 1945 | 🇺🇸 USA |
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
-| Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
