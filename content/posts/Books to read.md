@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-18T13:28:17Z
+date = 2025-03-20T08:18:56Z
 +++
 
 | author | book | year | country |
@@ -14,8 +14,6 @@ date = 2025-03-18T13:28:17Z
 | Ovid | Metamorphoses | 8 | 🏛️ Rome |
 | Seneca | De Brevitate Vitae | 49 | 🏛️ Rome |
 | Marcus Aurelius | Meditations (Τὰ εἰς ἑαυτόν) | 170-180 | 🏛️ Rome |
-| Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
-| Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Gabriel Garcia Marquez | En Agosto Nos Vemos | 2024 | 🇨🇴 Colombia |
 | Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |
@@ -44,6 +42,8 @@ date = 2025-03-18T13:28:17Z
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
 | Boris Pasternak | Doctor Zhivago (Доктор Живаго) | 1957 | 🇷🇺 Russia |
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
+| Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
+| Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
