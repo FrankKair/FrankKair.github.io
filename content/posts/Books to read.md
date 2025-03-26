@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-26T07:23:49Z
+date = 2025-03-26T07:59:14Z
 +++
 
 | author | book | year | country |
@@ -34,6 +34,9 @@ date = 2025-03-26T07:23:49Z
 | Dante Alighieri | La Vita Nuova | 1294 | 🇮🇹 Italy |
 | Dante Alighieri | Divina Commedia | 1320 | 🇮🇹 Italy |
 | Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy |
+| Italo Calvino | Marcovaldo ovvero le stagioni in città | 1963 | 🇮🇹 Italy |
+| Italo Calvino | Se una notte d'inverno un viaggiatore | 1979 | 🇮🇹 Italy |
+| Italo Calvino | Perché leggere i classici | 1991 | 🇮🇹 Italy |
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
 | Alexander Pushkin | Eugene Onegin (Евгений Онегин) | 1833 | 🇷🇺 Russia |
