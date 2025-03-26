@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-03-20T08:18:56Z
+date = 2025-03-26T07:23:49Z
 +++
 
 
@@ -8,7 +8,7 @@ date = 2025-03-20T08:18:56Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustic | 2025 | 🇳🇬 Nigeria | 29/03/2025 |
+| Sigur Rós | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
 | Amanaz | Africa | 1975 | 🇿🇲 Zambia | 22/03/2025 |
 | Babidi | Depois Que a Água Baixou | 2025 | 🇧🇷 Brazil | 15/03/2025 |
 | Fontaines D.C. | Romance | 2024 | 🇮🇪 Ireland | 08/03/2025 |
@@ -234,7 +234,7 @@ Total: 189
 | 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
-| 🇳🇬 Nigeria | 2 |
+| 🇮🇸 Iceland | 2 |
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
@@ -253,8 +253,8 @@ Total: 189
 | 🇵🇱 Poland | 1 |
 | 🇷🇺 Russia | 1 |
 | 🇲🇱 Mali | 1 |
-| 🇮🇸 Iceland | 1 |
 | 🇫🇮 Finland | 1 |
+| 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
 | 🇵🇰 Pakistan | 1 |
 | 🇬🇷 Greece | 1 |
@@ -263,9 +263,9 @@ Total: 189
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 46 |
+| 2020s | 45 |
+| 1990s | 26 |
 | 1970s | 26 |
-| 1990s | 25 |
 | 2000s | 19 |
 | 1980s | 14 |
 | 1870s | 1 |
