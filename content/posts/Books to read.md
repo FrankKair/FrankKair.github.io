@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-26T07:59:14Z
+date = 2025-03-27T10:21:17Z
 +++
 
 | author | book | year | country |
@@ -47,6 +47,7 @@ date = 2025-03-26T07:59:14Z
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
 | Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
+| Knut Hamsun | Sult | 1890 | 🇳🇴 Norway |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
