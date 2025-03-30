@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-03-27T10:21:17Z
+date = 2025-03-30T14:24:35Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-03-27T10:21:17Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Agents of Oblivion | Agents of Oblivion | 2000 | 🇺🇸 USA | 05/04/2025 |
 | Sigur Rós | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
 | Amanaz | Africa | 1975 | 🇿🇲 Zambia | 22/03/2025 |
 | Babidi | Depois Que a Água Baixou | 2025 | 🇧🇷 Brazil | 15/03/2025 |
@@ -220,11 +221,11 @@ date = 2025-03-27T10:21:17Z
 
 ## Stats
 
-Total: 189
+Total: 190
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 48 |
+| 🇺🇸 USA | 49 |
 | 🇧🇷 Brazil | 42 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
@@ -266,7 +267,7 @@ Total: 189
 | 2020s | 45 |
 | 1990s | 26 |
 | 1970s | 26 |
-| 2000s | 19 |
+| 2000s | 20 |
 | 1980s | 14 |
 | 1870s | 1 |
 | 1960s | 1 |

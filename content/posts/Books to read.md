@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-03-27T10:21:17Z
+date = 2025-03-30T14:24:35Z
 +++
 
 | author | book | year | country |
@@ -79,6 +79,7 @@ date = 2025-03-27T10:21:17Z
 | Jane Austen | Emma | 1816 | 🇬🇧 UK |
 | Anne Brontë | Agnes Grey | 1847 | 🇬🇧 UK |
 | Charlotte Brontë | Jane Eyre | 1847 | 🇬🇧 UK |
+| Charles Dickens | A Tale of Two Cities | 1859 | 🇬🇧 UK |
 | William Blake |  |  | 🇬🇧 UK |
 | William Wordsworth |  |  | 🇬🇧 UK |
 | Samuel Taylor Coleridge |  |  | 🇬🇧 UK |
