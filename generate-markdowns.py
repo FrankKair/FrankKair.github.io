@@ -171,11 +171,11 @@ class CsvToMarkdownPost:
 
 
 if __name__ == '__main__':
-    CsvToMarkdownPost(
-        input_file='travelling.csv',
-        title='Travelling',
-        stats=CountryStats()
-    )
+    # CsvToMarkdownPost(
+    #     input_file='travelling.csv',
+    #     title='Travelling',
+    #     stats=CountryStats()
+    # )
 
     CsvToMarkdownPost(
         input_file='books.csv',
