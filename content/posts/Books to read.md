@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-04-03T17:12:24Z
+date = 2025-04-04T10:41:03Z
 +++
 
 | author | book | year | country |
@@ -25,7 +25,6 @@ date = 2025-04-03T17:12:24Z
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
-| Annie Ernaux | Une femme | 1988 | 🇫🇷 France |
 | Johann Wolfgang von Goethe | Die Leiden des jungen Werthers | 1774 | 🇩🇪 Germany |
 | Thomas Mann | Der Tod in Venedig | 1912 | 🇩🇪 Germany |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |

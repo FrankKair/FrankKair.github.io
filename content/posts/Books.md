@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-04-03T17:12:23Z
+date = 2025-04-04T10:41:03Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-04-03T17:12:23Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Annie Ernaux | Une femme | 1988 | 🇫🇷 France | 04/04/2025 |
 | Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA | 15/03/2025 |
 | George Orwell | Animal Farm | 1945 | 🇬🇧 UK | 13/03/2025 |
 | Simon Armitage | The Owl and the Nightingale | 2021 | 🇬🇧 UK | 11/03/2025 |
@@ -162,7 +163,7 @@ date = 2025-04-03T17:12:23Z
 
 ## Stats
 
-Total: 116
+Total: 117
 
 | Country | Count |
 |---------|-------|
@@ -171,8 +172,8 @@ Total: 116
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇷🇺 Russia | 5 |
+| 🇫🇷 France | 4 |
 | 🇳🇴 Norway | 3 |
-| 🇫🇷 France | 3 |
 | 🇫🇮 Finland | 3 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
