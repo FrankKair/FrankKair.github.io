@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-04-04T10:41:03Z
+date = 2025-04-05T06:14:27Z
 +++
 
 | author | book | year | country |
@@ -51,7 +51,6 @@ date = 2025-04-04T10:41:03Z
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
-| Tove Jansson | Småtrollen och den stora översvämningen | 1945 | 🇫🇮 Finland |
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans bravader | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1968 | 🇫🇮 Finland |

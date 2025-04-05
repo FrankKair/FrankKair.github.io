@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-04-04T10:41:03Z
+date = 2025-04-05T06:14:27Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-04-04T10:41:03Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Tove Jansson | Småtrollen och den stora översvämningen | 1945 | 🇫🇮 Finland | 05/04/2025 |
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France | 04/04/2025 |
 | Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA | 15/03/2025 |
 | George Orwell | Animal Farm | 1945 | 🇬🇧 UK | 13/03/2025 |
@@ -163,7 +164,7 @@ date = 2025-04-04T10:41:03Z
 
 ## Stats
 
-Total: 117
+Total: 118
 
 | Country | Count |
 |---------|-------|
@@ -172,9 +173,9 @@ Total: 117
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇷🇺 Russia | 5 |
+| 🇫🇮 Finland | 4 |
 | 🇫🇷 France | 4 |
 | 🇳🇴 Norway | 3 |
-| 🇫🇮 Finland | 3 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🏛  Rome | 1 |
