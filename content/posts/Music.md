@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-05T06:14:27Z
+date = 2025-04-06T08:24:34Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-04-05T06:14:27Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Godspeed You! Black Emperor | Lift Your Skinny Fists Like Antennas To Heaven | 2000 | 🇨🇦 Canada | 12/04/2025 |
 | Agents of Oblivion | Agents of Oblivion | 2000 | 🇺🇸 USA | 05/04/2025 |
 | Sigur Rós | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
 | Amanaz | Africa | 1975 | 🇿🇲 Zambia | 22/03/2025 |
@@ -221,7 +222,7 @@ date = 2025-04-05T06:14:27Z
 
 ## Stats
 
-Total: 190
+Total: 191
 
 | Country | Count |
 |---------|-------|
@@ -229,8 +230,8 @@ Total: 190
 | 🇧🇷 Brazil | 42 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
+| 🇨🇦 Canada | 6 |
 | 🇮🇹 Italy | 5 |
-| 🇨🇦 Canada | 5 |
 | 🇳🇴 Norway | 4 |
 | 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
@@ -267,7 +268,7 @@ Total: 190
 | 2020s | 45 |
 | 1990s | 26 |
 | 1970s | 26 |
-| 2000s | 20 |
+| 2000s | 21 |
 | 1980s | 14 |
 | 1870s | 1 |
 | 1960s | 1 |
