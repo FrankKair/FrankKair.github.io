@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-20T08:23:33Z
+date = 2025-04-20T08:28:16Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-04-20T08:23:33Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Chappell Roan | The Rise and Fall of a Midwest Princess | 2023 | 🇺🇸 USA | 17/05/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 10/05/2025 |
 | Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 26/04/2025 |
 | Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
@@ -226,11 +228,11 @@ date = 2025-04-20T08:23:33Z
 
 ## Stats
 
-Total: 195
+Total: 197
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 49 |
+| 🇺🇸 USA | 50 |
 | 🇧🇷 Brazil | 44 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
@@ -240,6 +242,7 @@ Total: 195
 | 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
+| 🇳🇬 Nigeria | 2 |
 | 🇮🇸 Iceland | 2 |
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
@@ -260,7 +263,6 @@ Total: 195
 | 🇷🇺 Russia | 1 |
 | 🇲🇱 Mali | 1 |
 | 🇫🇮 Finland | 1 |
-| 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
 | 🇵🇰 Pakistan | 1 |
 | 🇬🇷 Greece | 1 |
@@ -269,7 +271,7 @@ Total: 195
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 47 |
+| 2020s | 49 |
 | 1970s | 28 |
 | 1990s | 26 |
 | 2000s | 21 |
