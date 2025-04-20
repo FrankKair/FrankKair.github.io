@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-20T08:28:16Z
+date = 2025-04-20T10:40:13Z
 +++
 
 
@@ -11,7 +11,7 @@ date = 2025-04-20T08:28:16Z
 | Chappell Roan | The Rise and Fall of a Midwest Princess | 2023 | 🇺🇸 USA | 17/05/2025 |
 | Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 10/05/2025 |
 | Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |
-| Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 26/04/2025 |
+| Sólstafir | Ótta | 2014 | 🇮🇸 Iceland | 26/04/2025 |
 | Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
 | Boogarins | Bacuri | 2024 | 🇧🇷 Brazil | 19/04/2025 |
 | Godspeed You! Black Emperor | Lift Your Skinny Fists ... | 2000 | 🇨🇦 Canada | 12/04/2025 |
@@ -233,17 +233,17 @@ Total: 197
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 50 |
-| 🇧🇷 Brazil | 44 |
+| 🇧🇷 Brazil | 43 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
 | 🇳🇴 Norway | 4 |
+| 🇮🇸 Iceland | 3 |
 | 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇳🇬 Nigeria | 2 |
-| 🇮🇸 Iceland | 2 |
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
@@ -270,8 +270,8 @@ Total: 197
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 55 |
-| 2020s | 49 |
+| 2010s | 56 |
+| 2020s | 48 |
 | 1970s | 28 |
 | 1990s | 26 |
 | 2000s | 21 |
