@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-20T08:18:35Z
+date = 2025-04-20T08:23:33Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-04-20T08:18:35Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 26/04/2025 |
 | Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
 | Boogarins | Bacuri | 2024 | 🇧🇷 Brazil | 19/04/2025 |
@@ -225,14 +226,14 @@ date = 2025-04-20T08:18:35Z
 
 ## Stats
 
-Total: 194
+Total: 195
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 49 |
 | 🇧🇷 Brazil | 44 |
 | 🇬🇧 UK | 29 |
-| 🇸🇪 Sweden | 13 |
+| 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
 | 🇳🇴 Norway | 4 |
@@ -269,7 +270,7 @@ Total: 194
 |--------|-------|
 | 2010s | 55 |
 | 2020s | 47 |
-| 1970s | 27 |
+| 1970s | 28 |
 | 1990s | 26 |
 | 2000s | 21 |
 | 1980s | 14 |
