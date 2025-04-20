@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-04-20T13:09:07Z
+date = 2025-04-20T13:18:35Z
 +++
 
 | author | book | year | country |
@@ -22,7 +22,6 @@ date = 2025-04-20T13:09:07Z
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
-| Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
 | Johann Wolfgang von Goethe | Die Leiden des jungen Werthers | 1774 | 🇩🇪 Germany |
@@ -51,7 +50,6 @@ date = 2025-04-20T13:09:07Z
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
-| Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans bravader | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1968 | 🇫🇮 Finland |
 | Tove Jansson | Farlig midsommar | 1954 | 🇫🇮 Finland |
@@ -70,7 +68,6 @@ date = 2025-04-20T13:09:07Z
 | William Shakespeare | Hamlet | 1600 | 🇬🇧 UK |
 | William Shakespeare | Macbeth | 1606 | 🇬🇧 UK |
 | William Shakespeare | The Sonnets | 1609 | 🇬🇧 UK |
-| John Milton | Paradise Lost | 1667 | 🇬🇧 UK |
 | Jane Austen | Sense and Sensibility | 1811 | 🇬🇧 UK |
 | Jane Austen | Pride and Prejudice | 1813 | 🇬🇧 UK |
 | Jane Austen | Mansfield Park | 1814 | 🇬🇧 UK |
@@ -78,7 +75,6 @@ date = 2025-04-20T13:09:07Z
 | Anne Brontë | Agnes Grey | 1847 | 🇬🇧 UK |
 | Charlotte Brontë | Jane Eyre | 1847 | 🇬🇧 UK |
 | Charles Dickens | A Tale of Two Cities | 1859 | 🇬🇧 UK |
-| William Blake |  |  | 🇬🇧 UK |
 | William Wordsworth |  |  | 🇬🇧 UK |
 | Samuel Taylor Coleridge |  |  | 🇬🇧 UK |
 | John Clare |  |  | 🇬🇧 UK |
@@ -94,7 +90,6 @@ date = 2025-04-20T13:09:07Z
 | George Orwell | Cigarettes and Books | 1946 | 🇬🇧 UK |
 | George Orwell | 1984 | 1949 | 🇬🇧 UK |
 | J.R.R. Tolkien | The Hobbit | 1937 | 🇬🇧 UK |
-| Evelyn Waugh | The Loved One | 1948 | 🇬🇧 UK |
 | Ted Hughes | Lupercal | 1960 | 🇬🇧 UK |
 | Ted Hughes | Birthday Letters | 1998 | 🇬🇧 UK |
 | Zadie Smith | White Teeth | 2000 | 🇬🇧 UK |
@@ -115,9 +110,7 @@ date = 2025-04-20T13:09:07Z
 | John Steinbeck | The Grapes of Wrath | 1939 | 🇺🇸 USA |
 | John Steinbeck | Cannery Row | 1945 | 🇺🇸 USA |
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
-| Sylvia Plath | Ariel | 1965 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | Elizabeth Strout | Olive Kitteridge | 2008 | 🇺🇸 USA |
-| Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA |

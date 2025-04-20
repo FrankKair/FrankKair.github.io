@@ -1,8 +1,20 @@
 +++
 title = 'Books'
-date = 2025-04-20T13:09:07Z
+date = 2025-04-20T13:18:35Z
 +++
 
+
+## -
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| John Milton | Paradise Lost | 1667 | 🇬🇧 UK | - |
+| Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland | - |
+| Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | - |
+| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
+| Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
+| Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
+| Evelyn Waugh | The Loved One | 1948 | 🇬🇧 UK | - |
 
 ## 2025
 
@@ -164,17 +176,17 @@ date = 2025-04-20T13:09:07Z
 
 ## Stats
 
-Total: 118
+Total: 125
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 43 |
-| 🇬🇧 UK | 29 |
+| 🇺🇸 USA | 45 |
+| 🇬🇧 UK | 32 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
+| 🇫🇮 Finland | 5 |
+| 🇫🇷 France | 5 |
 | 🇷🇺 Russia | 5 |
-| 🇫🇮 Finland | 4 |
-| 🇫🇷 France | 4 |
 | 🇳🇴 Norway | 3 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
