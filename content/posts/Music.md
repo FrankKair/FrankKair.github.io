@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-16T07:56:53Z
+date = 2025-04-20T08:09:52Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-04-16T07:56:53Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 26/04/2025 |
+| Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
 | Boogarins | Bacuri | 2024 | 🇧🇷 Brazil | 19/04/2025 |
 | Godspeed You! Black Emperor | Lift Your Skinny Fists Like Antennas To Heaven | 2000 | 🇨🇦 Canada | 12/04/2025 |
 | Agents of Oblivion | Agents of Oblivion | 2000 | 🇺🇸 USA | 05/04/2025 |
@@ -223,15 +225,15 @@ date = 2025-04-16T07:56:53Z
 
 ## Stats
 
-Total: 192
+Total: 194
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 49 |
-| 🇧🇷 Brazil | 43 |
+| 🇧🇷 Brazil | 44 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 13 |
-| 🇨🇦 Canada | 6 |
+| 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
 | 🇳🇴 Norway | 4 |
 | 🇮🇪 Ireland | 3 |
@@ -266,9 +268,9 @@ Total: 192
 | Decade | Count |
 |--------|-------|
 | 2010s | 55 |
-| 2020s | 46 |
+| 2020s | 47 |
+| 1970s | 27 |
 | 1990s | 26 |
-| 1970s | 26 |
 | 2000s | 21 |
 | 1980s | 14 |
 | 1870s | 1 |
