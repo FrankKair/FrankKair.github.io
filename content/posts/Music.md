@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-20T08:09:52Z
+date = 2025-04-20T08:18:35Z
 +++
 
 
@@ -11,7 +11,7 @@ date = 2025-04-20T08:09:52Z
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 26/04/2025 |
 | Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
 | Boogarins | Bacuri | 2024 | 🇧🇷 Brazil | 19/04/2025 |
-| Godspeed You! Black Emperor | Lift Your Skinny Fists Like Antennas To Heaven | 2000 | 🇨🇦 Canada | 12/04/2025 |
+| Godspeed You! Black Emperor | Lift Your Skinny Fists ... | 2000 | 🇨🇦 Canada | 12/04/2025 |
 | Agents of Oblivion | Agents of Oblivion | 2000 | 🇺🇸 USA | 05/04/2025 |
 | Sigur Rós | Ágætis byrjun | 1997 | 🇮🇸 Iceland | 29/03/2025 |
 | Amanaz | Africa | 1975 | 🇿🇲 Zambia | 22/03/2025 |
