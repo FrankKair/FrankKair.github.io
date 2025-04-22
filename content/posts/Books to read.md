@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-04-20T13:18:35Z
+date = 2025-04-22T15:01:05Z
 +++
 
 | author | book | year | country |
@@ -20,6 +20,7 @@ date = 2025-04-20T13:18:35Z
 | Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
+| Han Kang | We Do Not Part (작별하지 않는다) | 🇰🇷 South Korea |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
@@ -46,12 +47,12 @@ date = 2025-04-20T13:18:35Z
 | Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
 | Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
 | Knut Hamsun | Sult | 1890 | 🇳🇴 Norway |
+| Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
-| Tove Jansson | Muminpappans bravader | 1950 | 🇫🇮 Finland |
-| Tove Jansson | Muminpappans memoarer | 1968 | 🇫🇮 Finland |
+| Tove Jansson | Muminpappans memoarer | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Farlig midsommar | 1954 | 🇫🇮 Finland |
 | Tove Jansson | Trollvinter | 1957 | 🇫🇮 Finland |
 | Tove Jansson | Pappan och havet | 1965 | 🇫🇮 Finland |
@@ -86,6 +87,7 @@ date = 2025-04-20T13:18:35Z
 | Virginia Woolf | To the Lighthouse | 1927 | 🇬🇧 UK |
 | Virginia Woolf | Orlando | 1927 | 🇬🇧 UK |
 | Virginia Woolf | The Waves | 1931 | 🇬🇧 UK |
+| Evelyn Waugh | Decline and Fall | 1928 | 🇬🇧 UK |
 | George Orwell | Down and Out in Paris and London | 1933 | 🇬🇧 UK |
 | George Orwell | Cigarettes and Books | 1946 | 🇬🇧 UK |
 | George Orwell | 1984 | 1949 | 🇬🇧 UK |
@@ -101,6 +103,7 @@ date = 2025-04-20T13:18:35Z
 | Emily Dickinson |  |  | 🇺🇸 USA |
 | Nathaniel Hawthorne | The Scarlet Letter | 1850 | 🇺🇸 USA |
 | Walt Whitman | Leaves of Grass | 1855 | 🇺🇸 USA |
+| Mark Twain | The Adventures of Tom Sawyer | 1876 | 🇺🇸 USA |
 | Henry James | Washington Square | 1880 | 🇺🇸 USA |
 | F. Scott Fitzgerald | This Side of Paradise | 1920 | 🇺🇸 USA |
 | F. Scott Fitzgerald | The Great Gatsby | 1925 | 🇺🇸 USA |
