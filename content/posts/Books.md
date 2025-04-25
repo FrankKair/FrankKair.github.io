@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-04-22T15:01:05Z
+date = 2025-04-25T08:44:18Z
 +++
 
 
@@ -10,7 +10,6 @@ date = 2025-04-22T15:01:05Z
 | --- | --- | --- | --- | --- |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK | - |
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland | - |
-| Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | - |
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
@@ -20,6 +19,7 @@ date = 2025-04-22T15:01:05Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | 25/04/2025 |
 | Tove Jansson | Småtrollen och den stora översvämningen | 1945 | 🇫🇮 Finland | 05/04/2025 |
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France | 04/04/2025 |
 | Truman Capote | Breakfast at Tiffany’s | 1958 | 🇺🇸 USA | 15/03/2025 |
