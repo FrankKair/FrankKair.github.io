@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-04-25T08:44:18Z
+date = 2025-04-26T12:27:37Z
 +++
 
 
@@ -30,7 +30,6 @@ date = 2025-04-25T08:44:18Z
 | Leo Tolstoy | Anna Karenina (Анна Каренина) | 1878 | 🇷🇺 Russia | 21/02/2025 |
 | Emily Dickinson | The Envelope Poems | 2016 | 🇺🇸 USA | 14/02/2025 |
 | Sally Rooney | Mr Salary | 2024 | 🇮🇪 Ireland | 12/02/2025 |
-| Wendy Cope | The Orange and Other Poems | 2023 | 🇬🇧 UK | 11/02/2025 |
 | Washington Irving | The Legend of Sleepy Hollow | 1820 | 🇺🇸 USA | 27/01/2025 |
 | Graciliano Ramos | Vidas Secas | 1938 | 🇧🇷 Brazil | 10/01/2025 |
 
@@ -55,7 +54,6 @@ date = 2025-04-25T08:44:18Z
 | Hanya Yanagihara | A Little Life | 2016 | 🇺🇸 USA | 01/07/2024 |
 | Amal El Mohtar / Max Gladstone | This Is How You Lose the Time War | 2019 | 🇨🇦 Canada / 🇺🇸 USA | 13/06/2024 |
 | Paul Gallico | The Snow Goose | 1941 | 🇺🇸 USA | 13/06/2024 |
-| Gertrude Chandler Warner | The Boxcar Children | 1924 | 🇺🇸 USA | 29/05/2024 |
 | Annie Ernaux | La place | 1983 | 🇫🇷 France | 28/05/2024 |
 | Sylvia Plath | The Bell Jar | 1963 | 🇺🇸 USA | 24/05/2024 |
 | Ray Bradbury | Fahrenheit 451 | 1953 | 🇺🇸 USA | 19/05/2024 |
@@ -176,12 +174,12 @@ date = 2025-04-25T08:44:18Z
 
 ## Stats
 
-Total: 125
+Total: 123
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 45 |
-| 🇬🇧 UK | 32 |
+| 🇺🇸 USA | 44 |
+| 🇬🇧 UK | 31 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇫🇮 Finland | 5 |

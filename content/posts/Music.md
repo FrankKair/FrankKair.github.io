@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-25T08:44:18Z
+date = 2025-04-26T12:27:37Z
 +++
 
 
@@ -9,6 +9,7 @@ date = 2025-04-25T08:44:18Z
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
 | Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 10/05/2025 |
+| Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 03/05/2025 |
 | Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |
 | Sólstafir | Ótta | 2014 | 🇮🇸 Iceland | 26/04/2025 |
 | Joni Mitchel | Blue | 1971 | 🇨🇦 Canada | 26/04/2025 |
@@ -227,12 +228,12 @@ date = 2025-04-25T08:44:18Z
 
 ## Stats
 
-Total: 196
+Total: 197
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 49 |
-| 🇧🇷 Brazil | 43 |
+| 🇧🇷 Brazil | 44 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
@@ -270,7 +271,7 @@ Total: 196
 | Decade | Count |
 |--------|-------|
 | 2010s | 56 |
-| 2020s | 47 |
+| 2020s | 48 |
 | 1970s | 28 |
 | 1990s | 26 |
 | 2000s | 21 |
