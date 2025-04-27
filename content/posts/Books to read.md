@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-04-26T12:27:37Z
+date = 2025-04-27T10:20:16Z
 +++
 
 | author | book | year | country |
@@ -20,7 +20,7 @@ date = 2025-04-26T12:27:37Z
 | Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
-| Han Kang | We Do Not Part (작별하지 않는다) | 🇰🇷 South Korea |
+| Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
@@ -75,6 +75,7 @@ date = 2025-04-26T12:27:37Z
 | Jane Austen | Emma | 1816 | 🇬🇧 UK |
 | Anne Brontë | Agnes Grey | 1847 | 🇬🇧 UK |
 | Charlotte Brontë | Jane Eyre | 1847 | 🇬🇧 UK |
+| Elizabeth Gaskell | North and South | 1847 | 🇬🇧 UK |
 | Charles Dickens | A Tale of Two Cities | 1859 | 🇬🇧 UK |
 | William Wordsworth |  |  | 🇬🇧 UK |
 | Samuel Taylor Coleridge |  |  | 🇬🇧 UK |
@@ -83,6 +84,7 @@ date = 2025-04-26T12:27:37Z
 | Percy Bysshe Shelley |  |  | 🇬🇧 UK |
 | John Keats |  |  | 🇬🇧 UK |
 | George Eliot | Middlemarch | 1872 | 🇬🇧 UK |
+| Thomas Hardy | Jude the Obscure | 1895 | 🇬🇧 UK |
 | Virginia Woolf | Mrs. Dalloway | 1925 | 🇬🇧 UK |
 | Virginia Woolf | To the Lighthouse | 1927 | 🇬🇧 UK |
 | Virginia Woolf | Orlando | 1927 | 🇬🇧 UK |
