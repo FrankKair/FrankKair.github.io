@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-04-27T10:20:16Z
+date = 2025-05-03T12:25:26Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-04-27T10:20:16Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 10/05/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 17/05/2025 |
+| El Efecto | Memórias do Fogo | 2018 | 🇧🇷 Brazil | 03/05/2025 |
+| U2 | The Joshua Tree | 1987 | 🇮🇪 Ireland | 10/05/2025 |
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 03/05/2025 |
 | Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |
 | Sólstafir | Ótta | 2014 | 🇮🇸 Iceland | 26/04/2025 |
@@ -228,19 +230,19 @@ date = 2025-04-27T10:20:16Z
 
 ## Stats
 
-Total: 197
+Total: 199
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 49 |
-| 🇧🇷 Brazil | 44 |
+| 🇧🇷 Brazil | 45 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
+| 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇮🇸 Iceland | 3 |
-| 🇮🇪 Ireland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇳🇬 Nigeria | 2 |
@@ -270,12 +272,12 @@ Total: 197
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 56 |
+| 2010s | 57 |
 | 2020s | 48 |
 | 1970s | 28 |
 | 1990s | 26 |
 | 2000s | 21 |
-| 1980s | 14 |
+| 1980s | 15 |
 | 1870s | 1 |
 | 1960s | 1 |
 | 1910s | 1 |
