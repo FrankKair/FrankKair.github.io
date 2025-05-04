@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-03T12:25:26Z
+date = 2025-05-04T20:00:07Z
 +++
 
 
@@ -13,12 +13,12 @@ date = 2025-05-03T12:25:26Z
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
-| Evelyn Waugh | The Loved One | 1948 | 🇬🇧 UK | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Gabriel Garcia Marquez | En agosto nos vemos | 2024 | 🇨🇴 Colombia | 04/05/2025 |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | 25/04/2025 |
 | Tove Jansson | Småtrollen och den stora översvämningen | 1945 | 🇫🇮 Finland | 05/04/2025 |
 | Annie Ernaux | Une femme | 1988 | 🇫🇷 France | 04/04/2025 |
@@ -179,7 +179,7 @@ Total: 123
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 31 |
+| 🇬🇧 UK | 30 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇫🇮 Finland | 5 |
@@ -188,6 +188,7 @@ Total: 123
 | 🇳🇴 Norway | 3 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
+| 🇨🇴 Colombia | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
