@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-05-04T20:00:07Z
+date = 2025-05-08T06:42:01Z
 +++
 
 
@@ -9,7 +9,7 @@ date = 2025-05-04T20:00:07Z
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
 | Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 17/05/2025 |
-| El Efecto | Memórias do Fogo | 2018 | 🇧🇷 Brazil | 03/05/2025 |
+| El Efecto | Memórias do Fogo | 2018 | 🇧🇷 Brazil | 10/05/2025 |
 | U2 | The Joshua Tree | 1987 | 🇮🇪 Ireland | 10/05/2025 |
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 03/05/2025 |
 | Kaipa | Inget nytt under solen | 1976 | 🇸🇪 Sweden | 03/05/2025 |

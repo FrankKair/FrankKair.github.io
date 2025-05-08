@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-04T20:00:07Z
+date = 2025-05-08T06:42:01Z
 +++
 
 
@@ -8,7 +8,6 @@ date = 2025-05-04T20:00:07Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| John Milton | Paradise Lost | 1667 | 🇬🇧 UK | - |
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland | - |
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
@@ -18,6 +17,7 @@ date = 2025-05-04T20:00:07Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| John Milton | Paradise Lost | 1667 | 🇬🇧 UK | 08/05/2025 |
 | Gabriel Garcia Marquez | En agosto nos vemos | 2024 | 🇨🇴 Colombia | 04/05/2025 |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | 25/04/2025 |
 | Tove Jansson | Småtrollen och den stora översvämningen | 1945 | 🇫🇮 Finland | 05/04/2025 |
