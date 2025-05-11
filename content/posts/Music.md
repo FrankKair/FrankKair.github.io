@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-05-08T06:42:01Z
+date = 2025-05-11T10:32:09Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-05-08T06:42:01Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 17/05/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 24/05/2025 |
+| João Gilberto | Amoroso | 1977 | 🇧🇷 Brazil | 17/05/2025 |
+| Masayoshi Takanaka | BRASILIAN SKIES | 1978 | 🇯🇵 Japan | 17/05/2025 |
 | El Efecto | Memórias do Fogo | 2018 | 🇧🇷 Brazil | 10/05/2025 |
 | U2 | The Joshua Tree | 1987 | 🇮🇪 Ireland | 10/05/2025 |
 | Terno Rei | Nenhuma Estrela | 2025 | 🇧🇷 Brazil | 03/05/2025 |
@@ -230,18 +232,19 @@ date = 2025-05-08T06:42:01Z
 
 ## Stats
 
-Total: 199
+Total: 201
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 49 |
-| 🇧🇷 Brazil | 45 |
+| 🇧🇷 Brazil | 46 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
+| 🇯🇵 Japan | 3 |
 | 🇮🇸 Iceland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
@@ -249,7 +252,6 @@ Total: 199
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
-| 🇯🇵 Japan | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
@@ -274,7 +276,7 @@ Total: 199
 |--------|-------|
 | 2010s | 57 |
 | 2020s | 48 |
-| 1970s | 28 |
+| 1970s | 30 |
 | 1990s | 26 |
 | 2000s | 21 |
 | 1980s | 15 |
