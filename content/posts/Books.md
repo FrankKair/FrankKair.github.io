@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-11T10:32:09Z
+date = 2025-05-12T07:47:18Z
 +++
 
 
@@ -12,6 +12,8 @@ date = 2025-05-11T10:32:09Z
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
+| Solvej Balle | Om udregning af rumfang | 2020 | 🇩🇰 Denmark | - |
+| Vincenzo Latronico | Le perfezioni | 2024 | 🇮🇹 Italy | - |
 
 ## 2025
 
@@ -174,7 +176,7 @@ date = 2025-05-11T10:32:09Z
 
 ## Stats
 
-Total: 123
+Total: 125
 
 | Country | Count |
 |---------|-------|
@@ -186,14 +188,15 @@ Total: 123
 | 🇫🇷 France | 5 |
 | 🇷🇺 Russia | 5 |
 | 🇳🇴 Norway | 3 |
+| 🇮🇹 Italy | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
+| 🇩🇰 Denmark | 1 |
 | 🇨🇴 Colombia | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
-| 🇮🇹 Italy | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇧🇭 Bahrain | 1 |
 | 🇲🇽 Mexico | 1 |
