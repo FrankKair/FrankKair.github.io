@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-12T07:47:18Z
+date = 2025-05-12T19:30:46Z
 +++
 
 
@@ -14,6 +14,7 @@ date = 2025-05-12T07:47:18Z
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
 | Solvej Balle | Om udregning af rumfang | 2020 | 🇩🇰 Denmark | - |
 | Vincenzo Latronico | Le perfezioni | 2024 | 🇮🇹 Italy | - |
+| John Milton | Paradise Regained | 1671 | 🇬🇧 UK | - |
 
 ## 2025
 
@@ -176,12 +177,12 @@ date = 2025-05-12T07:47:18Z
 
 ## Stats
 
-Total: 125
+Total: 126
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 30 |
+| 🇬🇧 UK | 31 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
 | 🇫🇮 Finland | 5 |
