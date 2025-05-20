@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-05-12T19:30:46Z
+date = 2025-05-20T08:24:35Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-05-12T19:30:46Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 24/05/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 31/05/2025 |
+| George Benson | The Other Side Of Abbey Road | 1970 | 🇺🇸 USA | 24/05/2025 |
+| Múr | Múr | 2024 | 🇮🇸 Iceland | 24/05/2025 |
 | João Gilberto | Amoroso | 1977 | 🇧🇷 Brazil | 17/05/2025 |
 | Masayoshi Takanaka | BRASILIAN SKIES | 1978 | 🇯🇵 Japan | 17/05/2025 |
 | El Efecto | Memórias do Fogo | 2018 | 🇧🇷 Brazil | 10/05/2025 |
@@ -232,20 +234,20 @@ date = 2025-05-12T19:30:46Z
 
 ## Stats
 
-Total: 201
+Total: 203
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 49 |
+| 🇺🇸 USA | 50 |
 | 🇧🇷 Brazil | 46 |
 | 🇬🇧 UK | 29 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
+| 🇮🇸 Iceland | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇯🇵 Japan | 3 |
-| 🇮🇸 Iceland | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇳🇬 Nigeria | 2 |
@@ -275,8 +277,8 @@ Total: 201
 | Decade | Count |
 |--------|-------|
 | 2010s | 57 |
-| 2020s | 48 |
-| 1970s | 30 |
+| 2020s | 49 |
+| 1970s | 31 |
 | 1990s | 26 |
 | 2000s | 21 |
 | 1980s | 15 |
