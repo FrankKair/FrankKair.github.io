@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-20T08:24:35Z
+date = 2025-05-23T16:07:36Z
 +++
 
 
@@ -13,13 +13,13 @@ date = 2025-05-20T08:24:35Z
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
 | Solvej Balle | Om udregning af rumfang | 2020 | 🇩🇰 Denmark | - |
-| Vincenzo Latronico | Le perfezioni | 2024 | 🇮🇹 Italy | - |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Vincenzo Latronico | Le perfezioni | 2022 | 🇮🇹 Italy | 23/05/2025 |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK | 08/05/2025 |
 | Gabriel Garcia Marquez | En agosto nos vemos | 2024 | 🇨🇴 Colombia | 04/05/2025 |
 | Donna Tartt | The Goldfinch | 2013 | 🇺🇸 USA | 25/04/2025 |
