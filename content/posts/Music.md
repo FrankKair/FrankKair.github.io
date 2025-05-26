@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-05-23T16:07:36Z
+date = 2025-05-26T06:49:05Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-05-23T16:07:36Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 31/05/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 07/06/2025 |
+| Jorge López Ruiz | Bronca Buenos Aires | 1971 | 🇦🇷 Argentina | 31/05/2025 |
+| Wolf Alice | Blue Weekend | 2021 | 🇬🇧 UK | 31/05/2025 |
 | George Benson | The Other Side Of Abbey Road | 1970 | 🇺🇸 USA | 24/05/2025 |
 | Múr | Múr | 2024 | 🇮🇸 Iceland | 24/05/2025 |
 | João Gilberto | Amoroso | 1977 | 🇧🇷 Brazil | 17/05/2025 |
@@ -234,19 +236,20 @@ date = 2025-05-23T16:07:36Z
 
 ## Stats
 
-Total: 203
+Total: 205
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 50 |
 | 🇧🇷 Brazil | 46 |
-| 🇬🇧 UK | 29 |
+| 🇬🇧 UK | 30 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
 | 🇮🇸 Iceland | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
+| 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
@@ -257,7 +260,6 @@ Total: 203
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
-| 🇦🇷 Argentina | 2 |
 | 🇿🇲 Zambia | 1 |
 | 🇧🇪 Belgium | 1 |
 | 🇩🇰 Denmark | 1 |
@@ -277,8 +279,8 @@ Total: 203
 | Decade | Count |
 |--------|-------|
 | 2010s | 57 |
-| 2020s | 49 |
-| 1970s | 31 |
+| 2020s | 50 |
+| 1970s | 32 |
 | 1990s | 26 |
 | 2000s | 21 |
 | 1980s | 15 |
