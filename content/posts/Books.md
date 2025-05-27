@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-26T06:49:05Z
+date = 2025-05-27T11:03:24Z
 +++
 
 
@@ -19,6 +19,7 @@ date = 2025-05-26T06:49:05Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Banu Mushtaq | Heart Lamp: Selected Stories | 2025 | 🇮🇳 India | 27/05/2025 |
 | Vincenzo Latronico | Le perfezioni | 2022 | 🇮🇹 Italy | 23/05/2025 |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK | 08/05/2025 |
 | Gabriel Garcia Marquez | En agosto nos vemos | 2024 | 🇨🇴 Colombia | 04/05/2025 |
@@ -177,7 +178,7 @@ date = 2025-05-26T06:49:05Z
 
 ## Stats
 
-Total: 126
+Total: 127
 
 | Country | Count |
 |---------|-------|
@@ -193,6 +194,7 @@ Total: 126
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🇩🇰 Denmark | 1 |
+| 🇮🇳 India | 1 |
 | 🇨🇴 Colombia | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
