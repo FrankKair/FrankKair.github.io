@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-05-27T11:03:24Z
+date = 2025-05-31T20:31:50Z
 +++
 
 | author | book | year | country |
@@ -85,6 +85,7 @@ date = 2025-05-27T11:03:24Z
 | Percy Bysshe Shelley |  |  | 🇬🇧 UK |
 | John Keats |  |  | 🇬🇧 UK |
 | George Eliot | Middlemarch | 1872 | 🇬🇧 UK |
+| Rudyard Kipling | The Jungle Book | 1894 | 🇬🇧 UK |
 | Thomas Hardy | Jude the Obscure | 1895 | 🇬🇧 UK |
 | Virginia Woolf | Mrs. Dalloway | 1925 | 🇬🇧 UK |
 | Virginia Woolf | To the Lighthouse | 1927 | 🇬🇧 UK |

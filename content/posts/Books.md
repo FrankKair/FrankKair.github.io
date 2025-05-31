@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-05-27T11:03:24Z
+date = 2025-05-31T20:31:50Z
 +++
 
 
@@ -19,6 +19,7 @@ date = 2025-05-27T11:03:24Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Anne Serre | Un chapeau léopard | 2008 | 🇫🇷 France | 31/05/2025 |
 | Banu Mushtaq | Heart Lamp: Selected Stories | 2025 | 🇮🇳 India | 27/05/2025 |
 | Vincenzo Latronico | Le perfezioni | 2022 | 🇮🇹 Italy | 23/05/2025 |
 | John Milton | Paradise Lost | 1667 | 🇬🇧 UK | 08/05/2025 |
@@ -178,7 +179,7 @@ date = 2025-05-27T11:03:24Z
 
 ## Stats
 
-Total: 127
+Total: 128
 
 | Country | Count |
 |---------|-------|
@@ -186,8 +187,8 @@ Total: 127
 | 🇬🇧 UK | 31 |
 | 🇯🇵 Japan | 11 |
 | 🇮🇪 Ireland | 7 |
+| 🇫🇷 France | 6 |
 | 🇫🇮 Finland | 5 |
-| 🇫🇷 France | 5 |
 | 🇷🇺 Russia | 5 |
 | 🇳🇴 Norway | 3 |
 | 🇮🇹 Italy | 2 |
