@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-05-31T20:31:50Z
+date = 2025-06-08T18:49:26Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-05-31T20:31:50Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 07/06/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 14/06/2025 |
+| Luedji Luna | Um Mar Pra Cada Um | 2025 | 🇧🇷 Brazil | 07/06/2025 |
+| Deathspell Omega | Paracletus | 2010 | 🇫🇷 France | 07/06/2025 |
 | Jorge López Ruiz | Bronca Buenos Aires | 1971 | 🇦🇷 Argentina | 31/05/2025 |
 | Wolf Alice | Blue Weekend | 2021 | 🇬🇧 UK | 31/05/2025 |
 | George Benson | The Other Side Of Abbey Road | 1970 | 🇺🇸 USA | 24/05/2025 |
@@ -236,22 +238,22 @@ date = 2025-05-31T20:31:50Z
 
 ## Stats
 
-Total: 205
+Total: 207
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 50 |
-| 🇧🇷 Brazil | 46 |
+| 🇧🇷 Brazil | 47 |
 | 🇬🇧 UK | 30 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
+| 🇫🇷 France | 4 |
 | 🇮🇸 Iceland | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
-| 🇫🇷 France | 3 |
 | 🇳🇿 New Zealand | 3 |
 | 🇳🇬 Nigeria | 2 |
 | 🇩🇪 Germany | 2 |
@@ -278,8 +280,8 @@ Total: 205
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 57 |
-| 2020s | 50 |
+| 2010s | 58 |
+| 2020s | 51 |
 | 1970s | 32 |
 | 1990s | 26 |
 | 2000s | 21 |
