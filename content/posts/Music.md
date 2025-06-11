@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-06-08T18:49:26Z
+date = 2025-06-11T14:53:11Z
 +++
 
 
@@ -8,7 +8,8 @@ date = 2025-06-08T18:49:26Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇬 Nigeria | 14/06/2025 |
+| Chappell Roan | The Rise and Fall of a Midwest Princess | 2023 | 🇺🇸 USA | 14/06/2025 |
+| Wet Leg | Wet Leg | 2022 | 🇬🇧 UK | 14/06/2025 |
 | Luedji Luna | Um Mar Pra Cada Um | 2025 | 🇧🇷 Brazil | 07/06/2025 |
 | Deathspell Omega | Paracletus | 2010 | 🇫🇷 France | 07/06/2025 |
 | Jorge López Ruiz | Bronca Buenos Aires | 1971 | 🇦🇷 Argentina | 31/05/2025 |
@@ -238,13 +239,13 @@ date = 2025-06-08T18:49:26Z
 
 ## Stats
 
-Total: 207
+Total: 208
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 50 |
+| 🇺🇸 USA | 51 |
 | 🇧🇷 Brazil | 47 |
-| 🇬🇧 UK | 30 |
+| 🇬🇧 UK | 31 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
@@ -255,7 +256,6 @@ Total: 207
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇳🇿 New Zealand | 3 |
-| 🇳🇬 Nigeria | 2 |
 | 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
@@ -273,6 +273,7 @@ Total: 207
 | 🇷🇺 Russia | 1 |
 | 🇲🇱 Mali | 1 |
 | 🇫🇮 Finland | 1 |
+| 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
 | 🇵🇰 Pakistan | 1 |
 | 🇬🇷 Greece | 1 |
@@ -281,7 +282,7 @@ Total: 207
 | Decade | Count |
 |--------|-------|
 | 2010s | 58 |
-| 2020s | 51 |
+| 2020s | 52 |
 | 1970s | 32 |
 | 1990s | 26 |
 | 2000s | 21 |
