@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-06-11T14:53:11Z
+date = 2025-06-13T09:54:29Z
 +++
 
 
@@ -12,13 +12,13 @@ date = 2025-06-11T14:53:11Z
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
-| Solvej Balle | Om udregning af rumfang | 2020 | 🇩🇰 Denmark | - |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Solvej Balle | Om udregning af rumfang I | 2020 | 🇩🇰 Denmark | 13/06/2025 |
 | Anne Serre | Un chapeau léopard | 2008 | 🇫🇷 France | 31/05/2025 |
 | Banu Mushtaq | Heart Lamp: Selected Stories | 2025 | 🇮🇳 India | 27/05/2025 |
 | Vincenzo Latronico | Le perfezioni | 2022 | 🇮🇹 Italy | 23/05/2025 |
