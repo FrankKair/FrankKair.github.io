@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-06-13T09:54:29Z
+date = 2025-06-16T08:05:55Z
 +++
 
 
@@ -8,6 +8,9 @@ date = 2025-06-13T09:54:29Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Angra | Temple of Shadows | 2004 | 🇧🇷 Brazil | 21/06/2025 |
+| Helloween | Keeper of the Seven Keys: Part II | 1988 | 🇩🇪 Germany | 21/06/2025 |
+| Helloween | Keeper of the Seven Keys: Part I | 1987 | 🇩🇪 Germany | 21/06/2025 |
 | Chappell Roan | The Rise and Fall of a Midwest Princess | 2023 | 🇺🇸 USA | 14/06/2025 |
 | Wet Leg | Wet Leg | 2022 | 🇬🇧 UK | 14/06/2025 |
 | Luedji Luna | Um Mar Pra Cada Um | 2025 | 🇧🇷 Brazil | 07/06/2025 |
@@ -239,16 +242,17 @@ date = 2025-06-13T09:54:29Z
 
 ## Stats
 
-Total: 208
+Total: 211
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 51 |
-| 🇧🇷 Brazil | 47 |
+| 🇧🇷 Brazil | 48 |
 | 🇬🇧 UK | 31 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇹 Italy | 5 |
+| 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
 | 🇮🇸 Iceland | 4 |
 | 🇮🇪 Ireland | 4 |
@@ -256,7 +260,6 @@ Total: 208
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇳🇿 New Zealand | 3 |
-| 🇩🇪 Germany | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
@@ -285,8 +288,8 @@ Total: 208
 | 2020s | 52 |
 | 1970s | 32 |
 | 1990s | 26 |
-| 2000s | 21 |
-| 1980s | 15 |
+| 2000s | 22 |
+| 1980s | 17 |
 | 1870s | 1 |
 | 1960s | 1 |
 | 1910s | 1 |
