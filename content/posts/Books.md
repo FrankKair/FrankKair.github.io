@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-06-16T08:05:55Z
+date = 2025-06-17T16:21:59Z
 +++
 
 
@@ -13,11 +13,14 @@ date = 2025-06-16T08:05:55Z
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK | - |
+| Hiromi Kawakami | Under the Eye of the Big Bird (大きな鳥にさらわれないよう) | 2016 | 🇯🇵 Japan | - |
+| Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Han Kang | The Vegetarian (채식주의자) | 2007 | 🇰🇷 South Korea | 17/06/2025 |
 | Solvej Balle | Om udregning af rumfang I | 2020 | 🇩🇰 Denmark | 13/06/2025 |
 | Anne Serre | Un chapeau léopard | 2008 | 🇫🇷 France | 31/05/2025 |
 | Banu Mushtaq | Heart Lamp: Selected Stories | 2025 | 🇮🇳 India | 27/05/2025 |
@@ -179,18 +182,19 @@ date = 2025-06-16T08:05:55Z
 
 ## Stats
 
-Total: 128
+Total: 131
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
 | 🇬🇧 UK | 31 |
-| 🇯🇵 Japan | 11 |
+| 🇯🇵 Japan | 12 |
+| 🇫🇷 France | 7 |
 | 🇮🇪 Ireland | 7 |
-| 🇫🇷 France | 6 |
 | 🇫🇮 Finland | 5 |
 | 🇷🇺 Russia | 5 |
 | 🇳🇴 Norway | 3 |
+| 🇰🇷 South Korea | 2 |
 | 🇮🇹 Italy | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
@@ -204,5 +208,4 @@ Total: 128
 | 🇩🇪 Germany | 1 |
 | 🇧🇭 Bahrain | 1 |
 | 🇲🇽 Mexico | 1 |
-| 🇰🇷 South Korea | 1 |
 | 🇮🇱 Israel | 1 |
