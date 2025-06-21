@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-06-21T15:51:20Z
+date = 2025-06-21T16:00:20Z
 +++
 
 
@@ -8,6 +8,9 @@ date = 2025-06-21T15:51:20Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Kamelot | The Black Halo | 2005 | 🇺🇸 USA | 28/06/2025 |
+| Jean Sibelius | Lemminkäinen Suite | 1896 | 🇫🇮 Finland | 28/06/2025 |
+| Björk | Homogenic | 1997 | 🇮🇸 Iceland | 28/06/2025 |
 | Angra | Temple of Shadows | 2004 | 🇧🇷 Brazil | 21/06/2025 |
 | Helloween | Keeper of the Seven Keys: Part II | 1988 | 🇩🇪 Germany | 21/06/2025 |
 | Helloween | Keeper of the Seven Keys: Part I | 1987 | 🇩🇪 Germany | 21/06/2025 |
@@ -242,24 +245,25 @@ date = 2025-06-21T15:51:20Z
 
 ## Stats
 
-Total: 211
+Total: 214
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 51 |
+| 🇺🇸 USA | 52 |
 | 🇧🇷 Brazil | 48 |
 | 🇬🇧 UK | 31 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
+| 🇮🇸 Iceland | 5 |
 | 🇮🇹 Italy | 5 |
 | 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
-| 🇮🇸 Iceland | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇳🇿 New Zealand | 3 |
+| 🇫🇮 Finland | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
@@ -275,7 +279,6 @@ Total: 211
 | 🇵🇱 Poland | 1 |
 | 🇷🇺 Russia | 1 |
 | 🇲🇱 Mali | 1 |
-| 🇫🇮 Finland | 1 |
 | 🇳🇬 Nigeria | 1 |
 | 🇮🇱 Israel | 1 |
 | 🇵🇰 Pakistan | 1 |
@@ -287,9 +290,10 @@ Total: 211
 | 2010s | 58 |
 | 2020s | 52 |
 | 1970s | 32 |
-| 1990s | 26 |
-| 2000s | 22 |
+| 1990s | 27 |
+| 2000s | 23 |
 | 1980s | 17 |
+| 1890s | 1 |
 | 1870s | 1 |
 | 1960s | 1 |
 | 1910s | 1 |
