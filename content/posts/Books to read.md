@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-06-17T16:21:59Z
+date = 2025-06-21T15:51:20Z
 +++
 
 | author | book | year | country |
@@ -22,6 +22,7 @@ date = 2025-06-17T16:21:59Z
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
+| Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
 | Miguel de Cervantes | Don Quixote | 1605 | 🇪🇸 Spain |

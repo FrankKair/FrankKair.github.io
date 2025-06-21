@@ -195,3 +195,10 @@ if __name__ == '__main__':
         input_file='books-to-read.csv',
         title='Books to read'
     )
+
+    CsvToMarkdownPost(
+        input_file='cinema-club.csv',
+        title='Cinema Club',
+        stats=CountryStats(),
+        by_year=True,
+    )
