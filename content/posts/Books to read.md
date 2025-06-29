@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-06-21T16:00:20Z
+date = 2025-06-29T20:08:36Z
 +++
 
 | author | book | year | country |
@@ -21,6 +21,7 @@ date = 2025-06-21T16:00:20Z
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
+| Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
@@ -54,6 +55,7 @@ date = 2025-06-21T16:00:20Z
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
+| Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Farlig midsommar | 1954 | 🇫🇮 Finland |
 | Tove Jansson | Trollvinter | 1957 | 🇫🇮 Finland |
@@ -71,6 +73,8 @@ date = 2025-06-21T16:00:20Z
 | William Shakespeare | Hamlet | 1600 | 🇬🇧 UK |
 | William Shakespeare | Macbeth | 1606 | 🇬🇧 UK |
 | William Shakespeare | The Sonnets | 1609 | 🇬🇧 UK |
+| John Milton | Paradise Regained | 1671 | 🇬🇧 UK |
+| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK |
 | Jane Austen | Sense and Sensibility | 1811 | 🇬🇧 UK |
 | Jane Austen | Pride and Prejudice | 1813 | 🇬🇧 UK |
 | Jane Austen | Mansfield Park | 1814 | 🇬🇧 UK |
@@ -118,6 +122,7 @@ date = 2025-06-21T16:00:20Z
 | John Steinbeck | The Grapes of Wrath | 1939 | 🇺🇸 USA |
 | John Steinbeck | Cannery Row | 1945 | 🇺🇸 USA |
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
+| Sylvia Plath | Ariel | 1965 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |

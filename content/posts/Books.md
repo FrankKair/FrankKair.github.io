@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-06-21T16:00:20Z
+date = 2025-06-29T20:08:36Z
 +++
 
 
@@ -8,18 +8,13 @@ date = 2025-06-21T16:00:20Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland | - |
-| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | - |
-| Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France | - |
-| Sylvia Plath | Ariel | 1965 | 🇺🇸 USA | - |
-| John Milton | Paradise Regained | 1671 | 🇬🇧 UK | - |
-| Hiromi Kawakami | Under the Eye of the Big Bird (大きな鳥にさらわれないよう) | 2016 | 🇯🇵 Japan | - |
 | Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Hiromi Kawakami | Under the Eye of the Big Bird | 2016 | 🇯🇵 Japan | 29/06/2025 |
 | Han Kang | The Vegetarian (채식주의자) | 2007 | 🇰🇷 South Korea | 17/06/2025 |
 | Solvej Balle | Om udregning af rumfang I | 2020 | 🇩🇰 Denmark | 13/06/2025 |
 | Anne Serre | Un chapeau léopard | 2008 | 🇫🇷 France | 31/05/2025 |
@@ -182,17 +177,17 @@ date = 2025-06-21T16:00:20Z
 
 ## Stats
 
-Total: 131
+Total: 126
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 31 |
+| 🇺🇸 USA | 43 |
+| 🇬🇧 UK | 29 |
 | 🇯🇵 Japan | 12 |
-| 🇫🇷 France | 7 |
 | 🇮🇪 Ireland | 7 |
-| 🇫🇮 Finland | 5 |
+| 🇫🇷 France | 6 |
 | 🇷🇺 Russia | 5 |
+| 🇫🇮 Finland | 4 |
 | 🇳🇴 Norway | 3 |
 | 🇰🇷 South Korea | 2 |
 | 🇮🇹 Italy | 2 |
