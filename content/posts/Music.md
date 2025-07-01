@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-06-29T20:08:36Z
+date = 2025-07-01T13:27:40Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-06-29T20:08:36Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Jeremias Sem Cão | Volta da Brisa | 2025 | 🇧🇷 Brazil | 05/07/2025 |
+| LATEXFAUNA | Senbernar | 2022 | 🇺🇦 Ukraine | 05/07/2025 |
 | Kamelot | The Black Halo | 2005 | 🇺🇸 USA | 28/06/2025 |
 | Jean Sibelius | Lemminkäinen Suite | 1896 | 🇫🇮 Finland | 28/06/2025 |
 | Björk | Homogenic | 1997 | 🇮🇸 Iceland | 28/06/2025 |
@@ -245,12 +247,12 @@ date = 2025-06-29T20:08:36Z
 
 ## Stats
 
-Total: 214
+Total: 216
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 52 |
-| 🇧🇷 Brazil | 48 |
+| 🇧🇷 Brazil | 49 |
 | 🇬🇧 UK | 31 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
@@ -269,6 +271,7 @@ Total: 214
 | 🇨🇿 Czechia | 2 |
 | 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇺🇦 Ukraine | 1 |
 | 🇿🇲 Zambia | 1 |
 | 🇧🇪 Belgium | 1 |
 | 🇩🇰 Denmark | 1 |
@@ -288,7 +291,7 @@ Total: 214
 | Decade | Count |
 |--------|-------|
 | 2010s | 58 |
-| 2020s | 52 |
+| 2020s | 54 |
 | 1970s | 32 |
 | 1990s | 27 |
 | 2000s | 23 |

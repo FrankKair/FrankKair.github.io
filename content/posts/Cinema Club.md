@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-06-29T20:08:36Z
+date = 2025-07-01T13:27:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-06-29T20:08:36Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| The Princess Bride | 1987 | 🇺🇸 USA | 12/07/2025 |
 | Annihilation | 2018 | 🇺🇸 USA | 28/06/2025 |
 | Bycicle Thieves (Ladri di biciclette) | 1948 | 🇮🇹 Italy | 14/06/2025 |
 | On The Waterfront | 1954 | 🇺🇸 USA | 31/05/2025 |
@@ -23,11 +24,11 @@ date = 2025-06-29T20:08:36Z
 
 ## Stats
 
-Total: 12
+Total: 13
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 4 |
+| 🇺🇸 USA | 5 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇮🇹 Italy | 1 |
