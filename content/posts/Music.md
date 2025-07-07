@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-07-01T13:27:40Z
+date = 2025-07-07T14:07:53Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-07-01T13:27:40Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Heathen | Victims of Deception | 1991 | 🇺🇸 USA | 12/07/2025 |
+| The Beths | Expert In A Dying Field | 2022 | 🇳🇿 New Zealand | 12/07/2025 |
 | Jeremias Sem Cão | Volta da Brisa | 2025 | 🇧🇷 Brazil | 05/07/2025 |
 | LATEXFAUNA | Senbernar | 2022 | 🇺🇦 Ukraine | 05/07/2025 |
 | Kamelot | The Black Halo | 2005 | 🇺🇸 USA | 28/06/2025 |
@@ -247,24 +249,24 @@ date = 2025-07-01T13:27:40Z
 
 ## Stats
 
-Total: 216
+Total: 218
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 52 |
+| 🇺🇸 USA | 53 |
 | 🇧🇷 Brazil | 49 |
 | 🇬🇧 UK | 31 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇸 Iceland | 5 |
 | 🇮🇹 Italy | 5 |
+| 🇳🇿 New Zealand | 4 |
 | 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
-| 🇳🇿 New Zealand | 3 |
 | 🇫🇮 Finland | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
@@ -291,9 +293,9 @@ Total: 216
 | Decade | Count |
 |--------|-------|
 | 2010s | 58 |
-| 2020s | 54 |
+| 2020s | 55 |
 | 1970s | 32 |
-| 1990s | 27 |
+| 1990s | 28 |
 | 2000s | 23 |
 | 1980s | 17 |
 | 1890s | 1 |
