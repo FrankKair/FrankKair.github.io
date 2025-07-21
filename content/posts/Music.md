@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-07-07T14:07:53Z
+date = 2025-07-21T10:56:05Z
 +++
 
 
@@ -8,6 +8,11 @@ date = 2025-07-07T14:07:53Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Sugar | Copper Blue | 1992 | 🇺🇸 USA | 26/07/2025 |
+| King Gizzard & The Wizard Lizard | Phantom Island | 2025 | 🇦🇺 Australia | 26/07/2025 |
+| GoGo Penguin | Necessary Fictions | 2025 | 🇬🇧 UK | 19/07/2025 |
+| YUNGBLUD | Idols | 2025 | 🇬🇧 UK | 19/07/2025 |
+| Momma | Welcome to My Blue Sky | 2025 | 🇺🇸 USA | 19/07/2025 |
 | Heathen | Victims of Deception | 1991 | 🇺🇸 USA | 12/07/2025 |
 | The Beths | Expert In A Dying Field | 2022 | 🇳🇿 New Zealand | 12/07/2025 |
 | Jeremias Sem Cão | Volta da Brisa | 2025 | 🇧🇷 Brazil | 05/07/2025 |
@@ -249,13 +254,13 @@ date = 2025-07-07T14:07:53Z
 
 ## Stats
 
-Total: 218
+Total: 223
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 53 |
+| 🇺🇸 USA | 55 |
 | 🇧🇷 Brazil | 49 |
-| 🇬🇧 UK | 31 |
+| 🇬🇧 UK | 33 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇸 Iceland | 5 |
@@ -265,13 +270,13 @@ Total: 218
 | 🇫🇷 France | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
+| 🇦🇺 Australia | 3 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇫🇮 Finland | 2 |
 | 🇨🇱 Chile | 2 |
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
-| 🇦🇺 Australia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇺🇦 Ukraine | 1 |
 | 🇿🇲 Zambia | 1 |
@@ -292,10 +297,10 @@ Total: 218
 
 | Decade | Count |
 |--------|-------|
+| 2020s | 59 |
 | 2010s | 58 |
-| 2020s | 55 |
 | 1970s | 32 |
-| 1990s | 28 |
+| 1990s | 29 |
 | 2000s | 23 |
 | 1980s | 17 |
 | 1890s | 1 |

@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-07-07T14:07:53Z
+date = 2025-07-21T10:56:05Z
 +++
 
 | author | book | year | country |

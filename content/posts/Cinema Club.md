@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-07-07T14:07:53Z
+date = 2025-07-21T10:56:05Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-07-07T14:07:53Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| In The Mood For Love (花样年华) | 2000 | 🇨🇳 China | 26/07/2025 |
 | The Princess Bride | 1987 | 🇺🇸 USA | 12/07/2025 |
 | Annihilation | 2018 | 🇺🇸 USA | 28/06/2025 |
 | Bycicle Thieves (Ladri di biciclette) | 1948 | 🇮🇹 Italy | 14/06/2025 |
@@ -24,13 +25,14 @@ date = 2025-07-07T14:07:53Z
 
 ## Stats
 
-Total: 13
+Total: 14
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 5 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇨🇳 China | 1 |
 | 🇮🇹 Italy | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇸🇪 Sweden | 1 |

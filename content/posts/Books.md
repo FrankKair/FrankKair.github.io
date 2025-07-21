@@ -1,19 +1,14 @@
 +++
 title = 'Books'
-date = 2025-07-07T14:07:53Z
+date = 2025-07-21T10:56:05Z
 +++
 
-
-## -
-
-| author | book | year | country | date |
-| --- | --- | --- | --- | --- |
-| Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | - |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | 20/07/2025 |
 | Hiromi Kawakami | Under the Eye of the Big Bird | 2016 | 🇯🇵 Japan | 29/06/2025 |
 | Han Kang | The Vegetarian (채식주의자) | 2007 | 🇰🇷 South Korea | 17/06/2025 |
 | Solvej Balle | Om udregning af rumfang I | 2020 | 🇩🇰 Denmark | 13/06/2025 |
