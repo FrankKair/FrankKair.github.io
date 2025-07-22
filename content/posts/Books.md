@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-07-21T10:56:05Z
+date = 2025-07-22T13:35:09Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-07-21T10:56:05Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Kazuo Ishiguro | The Buried Giant | 2015 | 🇬🇧 UK | 22/07/2025 |
 | Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | 20/07/2025 |
 | Hiromi Kawakami | Under the Eye of the Big Bird | 2016 | 🇯🇵 Japan | 29/06/2025 |
 | Han Kang | The Vegetarian (채식주의자) | 2007 | 🇰🇷 South Korea | 17/06/2025 |
@@ -172,12 +173,12 @@ date = 2025-07-21T10:56:05Z
 
 ## Stats
 
-Total: 126
+Total: 127
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 43 |
-| 🇬🇧 UK | 29 |
+| 🇬🇧 UK | 30 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 7 |
 | 🇫🇷 France | 6 |
