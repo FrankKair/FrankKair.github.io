@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-07-22T13:35:09Z
+date = 2025-07-26T21:07:02Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-07-22T13:35:09Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome | -/-/2025 |
+| Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy | 26/07/2025 |
 | Kazuo Ishiguro | The Buried Giant | 2015 | 🇬🇧 UK | 22/07/2025 |
 | Vincent Delecroix | Naufrage | 2025 | 🇫🇷 France | 20/07/2025 |
 | Hiromi Kawakami | Under the Eye of the Big Bird | 2016 | 🇯🇵 Japan | 29/06/2025 |
@@ -173,7 +175,7 @@ date = 2025-07-22T13:35:09Z
 
 ## Stats
 
-Total: 127
+Total: 129
 
 | Country | Count |
 |---------|-------|
@@ -184,15 +186,15 @@ Total: 127
 | 🇫🇷 France | 6 |
 | 🇷🇺 Russia | 5 |
 | 🇫🇮 Finland | 4 |
+| 🇮🇹 Italy | 3 |
 | 🇳🇴 Norway | 3 |
+| 🏛  Rome | 2 |
 | 🇰🇷 South Korea | 2 |
-| 🇮🇹 Italy | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
 | 🇨🇴 Colombia | 1 |
-| 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |

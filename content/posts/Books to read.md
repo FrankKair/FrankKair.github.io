@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-07-22T13:35:09Z
+date = 2025-07-26T21:07:02Z
 +++
 
 | author | book | year | country |
@@ -12,7 +12,6 @@ date = 2025-07-22T13:35:09Z
 | Virgil | Georgics | 36-29 BC | 🏛️ Rome |
 | Virgil | Aeneid | 19 BC | 🏛️ Rome |
 | Ovid | Metamorphoses | 8 | 🏛️ Rome |
-| Seneca | De Brevitate Vitae | 49 | 🏛️ Rome |
 | Marcus Aurelius | Meditations (Τὰ εἰς ἑαυτόν) | 170-180 | 🏛️ Rome |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |
@@ -30,7 +29,6 @@ date = 2025-07-22T13:35:09Z
 | Dante Alighieri | La Vita Nuova | 1294 | 🇮🇹 Italy |
 | Dante Alighieri | Divina Commedia | 1320 | 🇮🇹 Italy |
 | Ludovico Ariosto | Orlando Furioso | 1516 | 🇮🇹 Italy |
-| Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy |
 | Italo Calvino | Marcovaldo ovvero le stagioni in città | 1963 | 🇮🇹 Italy |
 | Italo Calvino | Se una notte d'inverno un viaggiatore | 1979 | 🇮🇹 Italy |
 | Italo Calvino | Perché leggere i classici | 1991 | 🇮🇹 Italy |
