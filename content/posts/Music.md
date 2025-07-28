@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-07-26T21:07:02Z
+date = 2025-07-28T13:25:58Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-07-26T21:07:02Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Tame Impala | Currents | 2015 | 🇦🇺 Australia | 02/08/2025 |
 | Sugar | Copper Blue | 1992 | 🇺🇸 USA | 26/07/2025 |
 | King Gizzard & The Wizard Lizard | Phantom Island | 2025 | 🇦🇺 Australia | 26/07/2025 |
 | GoGo Penguin | Necessary Fictions | 2025 | 🇬🇧 UK | 19/07/2025 |
@@ -254,7 +255,7 @@ date = 2025-07-26T21:07:02Z
 
 ## Stats
 
-Total: 223
+Total: 224
 
 | Country | Count |
 |---------|-------|
@@ -265,12 +266,12 @@ Total: 223
 | 🇨🇦 Canada | 7 |
 | 🇮🇸 Iceland | 5 |
 | 🇮🇹 Italy | 5 |
+| 🇦🇺 Australia | 4 |
 | 🇳🇿 New Zealand | 4 |
 | 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
-| 🇦🇺 Australia | 3 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇫🇮 Finland | 2 |
@@ -297,8 +298,8 @@ Total: 223
 
 | Decade | Count |
 |--------|-------|
+| 2010s | 59 |
 | 2020s | 59 |
-| 2010s | 58 |
 | 1970s | 32 |
 | 1990s | 29 |
 | 2000s | 23 |
