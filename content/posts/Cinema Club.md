@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-07-28T13:25:58Z
+date = 2025-07-29T13:20:49Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-07-28T13:25:58Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| American History X | 1998 | 🇺🇸 USA | 09/08/2025 |
 | In The Mood For Love (花样年华) | 2000 | 🇨🇳 China | 26/07/2025 |
 | The Princess Bride | 1987 | 🇺🇸 USA | 12/07/2025 |
 | Annihilation | 2018 | 🇺🇸 USA | 28/06/2025 |
@@ -25,11 +26,11 @@ date = 2025-07-28T13:25:58Z
 
 ## Stats
 
-Total: 14
+Total: 15
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 5 |
+| 🇺🇸 USA | 6 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇨🇳 China | 1 |
