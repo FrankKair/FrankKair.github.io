@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-07-29T13:20:49Z
+date = 2025-07-31T15:34:18Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-07-29T13:20:49Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Ozzy Osbourne | Ozzmosis | 1995 | 🇬🇧 UK | 02/08/2025 |
 | Tame Impala | Currents | 2015 | 🇦🇺 Australia | 02/08/2025 |
 | Sugar | Copper Blue | 1992 | 🇺🇸 USA | 26/07/2025 |
 | King Gizzard & The Wizard Lizard | Phantom Island | 2025 | 🇦🇺 Australia | 26/07/2025 |
@@ -255,13 +256,13 @@ date = 2025-07-29T13:20:49Z
 
 ## Stats
 
-Total: 224
+Total: 225
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 55 |
 | 🇧🇷 Brazil | 49 |
-| 🇬🇧 UK | 33 |
+| 🇬🇧 UK | 34 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
 | 🇮🇸 Iceland | 5 |
@@ -301,7 +302,7 @@ Total: 224
 | 2010s | 59 |
 | 2020s | 59 |
 | 1970s | 32 |
-| 1990s | 29 |
+| 1990s | 30 |
 | 2000s | 23 |
 | 1980s | 17 |
 | 1890s | 1 |
