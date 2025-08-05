@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-07-31T15:34:18Z
+date = 2025-08-05T12:52:42Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-07-31T15:34:18Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Ed Motta | As Segundas Intenções Do Manual | 2000 | 🇧🇷 Brazil | 09/08/2025 |
+| Mdou Moctar | Tears of Injustice | 2025 | 🇳🇪 Niger | 09/08/2025 |
 | Ozzy Osbourne | Ozzmosis | 1995 | 🇬🇧 UK | 02/08/2025 |
 | Tame Impala | Currents | 2015 | 🇦🇺 Australia | 02/08/2025 |
 | Sugar | Copper Blue | 1992 | 🇺🇸 USA | 26/07/2025 |
@@ -256,12 +258,12 @@ date = 2025-07-31T15:34:18Z
 
 ## Stats
 
-Total: 225
+Total: 227
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 55 |
-| 🇧🇷 Brazil | 49 |
+| 🇧🇷 Brazil | 50 |
 | 🇬🇧 UK | 34 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
@@ -280,6 +282,7 @@ Total: 225
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇳🇪 Niger | 1 |
 | 🇺🇦 Ukraine | 1 |
 | 🇿🇲 Zambia | 1 |
 | 🇧🇪 Belgium | 1 |
@@ -299,11 +302,11 @@ Total: 225
 
 | Decade | Count |
 |--------|-------|
+| 2020s | 60 |
 | 2010s | 59 |
-| 2020s | 59 |
 | 1970s | 32 |
 | 1990s | 30 |
-| 2000s | 23 |
+| 2000s | 24 |
 | 1980s | 17 |
 | 1890s | 1 |
 | 1870s | 1 |
