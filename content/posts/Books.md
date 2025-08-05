@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-08-05T12:52:42Z
+date = 2025-08-05T12:53:44Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-08-05T12:52:42Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | -/-/2025 |
+| James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland | -/-/2025 |
 | Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome | -/-/2025 |
 | Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy | 26/07/2025 |
 | Kazuo Ishiguro | The Buried Giant | 2015 | 🇬🇧 UK | 22/07/2025 |
@@ -175,14 +177,14 @@ date = 2025-08-05T12:52:42Z
 
 ## Stats
 
-Total: 129
+Total: 131
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 43 |
-| 🇬🇧 UK | 30 |
+| 🇬🇧 UK | 31 |
 | 🇯🇵 Japan | 12 |
-| 🇮🇪 Ireland | 7 |
+| 🇮🇪 Ireland | 8 |
 | 🇫🇷 France | 6 |
 | 🇷🇺 Russia | 5 |
 | 🇫🇮 Finland | 4 |

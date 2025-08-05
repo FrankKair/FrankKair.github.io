@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-08-05T12:52:42Z
+date = 2025-08-05T12:53:44Z
 +++
 
 | author | book | year | country |
@@ -63,7 +63,6 @@ date = 2025-08-05T12:52:42Z
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
 | Tove Jansson | Rent Spel | 1989 | 🇫🇮 Finland |
 | W.B. Yeats |  |  | 🇮🇪 Ireland |
-| James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland |
 | James Joyce | Ulysses | 1922 | 🇮🇪 Ireland   |
 | Seamus Heaney |  |  | 🇮🇪 Ireland |
 | Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
@@ -73,7 +72,6 @@ date = 2025-08-05T12:52:42Z
 | William Shakespeare | Macbeth | 1606 | 🇬🇧 UK |
 | William Shakespeare | The Sonnets | 1609 | 🇬🇧 UK |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK |
-| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK |
 | Jane Austen | Sense and Sensibility | 1811 | 🇬🇧 UK |
 | Jane Austen | Pride and Prejudice | 1813 | 🇬🇧 UK |
 | Jane Austen | Mansfield Park | 1814 | 🇬🇧 UK |
