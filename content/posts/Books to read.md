@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-08-05T12:53:44Z
+date = 2025-08-11T14:28:34Z
 +++
 
 | author | book | year | country |
@@ -19,6 +19,7 @@ date = 2025-08-05T12:53:44Z
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
+| Voltaire | Candide | 1759 | 🇫🇷 France |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |

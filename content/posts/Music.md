@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-08-05T12:53:44Z
+date = 2025-08-11T14:28:34Z
 +++
 
 
@@ -8,7 +8,9 @@ date = 2025-08-05T12:53:44Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
-| Ed Motta | As Segundas Intenções Do Manual | 2000 | 🇧🇷 Brazil | 09/08/2025 |
+| Orishas | A Lo Cubano | 1999 | 🇨🇺 Cuba | 16/08/2025 |
+| yeule | Seratonin II | 2019 | 🇸🇬 Singapore | 16/08/2025 |
+| Ed Motta | As Segundas Intenções Do Manual Prático | 2000 | 🇧🇷 Brazil | 09/08/2025 |
 | Mdou Moctar | Tears of Injustice | 2025 | 🇳🇪 Niger | 09/08/2025 |
 | Ozzy Osbourne | Ozzmosis | 1995 | 🇬🇧 UK | 02/08/2025 |
 | Tame Impala | Currents | 2015 | 🇦🇺 Australia | 02/08/2025 |
@@ -258,7 +260,7 @@ date = 2025-08-05T12:53:44Z
 
 ## Stats
 
-Total: 227
+Total: 229
 
 | Country | Count |
 |---------|-------|
@@ -282,6 +284,8 @@ Total: 227
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇨🇺 Cuba | 1 |
+| 🇸🇬 Singapore | 1 |
 | 🇳🇪 Niger | 1 |
 | 🇺🇦 Ukraine | 1 |
 | 🇿🇲 Zambia | 1 |
@@ -302,10 +306,10 @@ Total: 227
 
 | Decade | Count |
 |--------|-------|
+| 2010s | 60 |
 | 2020s | 60 |
-| 2010s | 59 |
 | 1970s | 32 |
-| 1990s | 30 |
+| 1990s | 31 |
 | 2000s | 24 |
 | 1980s | 17 |
 | 1890s | 1 |
