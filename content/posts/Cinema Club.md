@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-08-11T14:28:34Z
+date = 2025-08-14T10:32:35Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-08-11T14:28:34Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Starship Troopers | 1997 | 🇺🇸 USA | 23/08/2025 |
 | American History X | 1998 | 🇺🇸 USA | 09/08/2025 |
 | In The Mood For Love (花样年华) | 2000 | 🇨🇳 China | 26/07/2025 |
 | The Princess Bride | 1987 | 🇺🇸 USA | 12/07/2025 |
@@ -26,11 +27,11 @@ date = 2025-08-11T14:28:34Z
 
 ## Stats
 
-Total: 15
+Total: 16
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 6 |
+| 🇺🇸 USA | 7 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇨🇳 China | 1 |
