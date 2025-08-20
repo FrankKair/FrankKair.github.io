@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-08-18T07:56:48Z
+date = 2025-08-20T08:01:39Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-08-18T07:56:48Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Disharmonic Orchestra | Not to Be Undimensional Conscious | 1992 | 🇦🇹 Austria | 23/08/2025 |
+| Solaris | Marsbéli Krónikák | 1984 | 🇭🇺 Hungary | 23/08/2025 |
 | Orishas | A Lo Cubano | 1999 | 🇨🇺 Cuba | 16/08/2025 |
 | yeule | Seratonin II | 2019 | 🇸🇬 Singapore | 16/08/2025 |
 | Ed Motta | As Segundas Intenções Do Manual Prático | 2000 | 🇧🇷 Brazil | 09/08/2025 |
@@ -260,7 +262,7 @@ date = 2025-08-18T07:56:48Z
 
 ## Stats
 
-Total: 229
+Total: 231
 
 | Country | Count |
 |---------|-------|
@@ -284,6 +286,8 @@ Total: 229
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇦🇹 Austria | 1 |
+| 🇭🇺 Hungary | 1 |
 | 🇨🇺 Cuba | 1 |
 | 🇸🇬 Singapore | 1 |
 | 🇳🇪 Niger | 1 |
@@ -308,10 +312,10 @@ Total: 229
 |--------|-------|
 | 2010s | 60 |
 | 2020s | 60 |
+| 1990s | 32 |
 | 1970s | 32 |
-| 1990s | 31 |
 | 2000s | 24 |
-| 1980s | 17 |
+| 1980s | 18 |
 | 1890s | 1 |
 | 1870s | 1 |
 | 1960s | 1 |
