@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-08-20T08:01:39Z
+date = 2025-08-21T07:44:56Z
 +++
 
 | author | book | year | country |
@@ -26,6 +26,7 @@ date = 2025-08-20T08:01:39Z
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
+| Fernando Pessoa | Livro do Desassossego | 1982 | 🇵🇹 Portugal |
 | Miguel de Cervantes | Don Quixote | 1605 | 🇪🇸 Spain |
 | Dante Alighieri | La Vita Nuova | 1294 | 🇮🇹 Italy |
 | Dante Alighieri | Divina Commedia | 1320 | 🇮🇹 Italy |
@@ -120,8 +121,11 @@ date = 2025-08-20T08:01:39Z
 | John Steinbeck | The Grapes of Wrath | 1939 | 🇺🇸 USA |
 | John Steinbeck | Cannery Row | 1945 | 🇺🇸 USA |
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
+| J. D. Salinger | The Catcher in the Rye | 1951 | 🇺🇸 USA |
+| Harper Lee | To Kill a Mockingbird | 1960 | 🇺🇸 USA |
 | Sylvia Plath | Ariel | 1965 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
+| Cormac McCarthy | The Road | 2006 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | Elizabeth Strout | Olive Kitteridge | 2008 | 🇺🇸 USA |
