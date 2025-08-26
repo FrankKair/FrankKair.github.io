@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-08-21T07:44:56Z
+date = 2025-08-26T07:24:01Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-08-21T07:44:56Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| The Piano Teacher (La Pianiste) | 2001 | 🇫🇷 France | 06/09/2025 |
 | Starship Troopers | 1997 | 🇺🇸 USA | 23/08/2025 |
 | American History X | 1998 | 🇺🇸 USA | 09/08/2025 |
 | In The Mood For Love (花样年华) | 2000 | 🇨🇳 China | 26/07/2025 |
@@ -27,13 +28,14 @@ date = 2025-08-21T07:44:56Z
 
 ## Stats
 
-Total: 16
+Total: 17
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 7 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇫🇷 France | 1 |
 | 🇨🇳 China | 1 |
 | 🇮🇹 Italy | 1 |
 | 🇩🇪 Germany | 1 |

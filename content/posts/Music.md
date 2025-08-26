@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-08-21T07:44:56Z
+date = 2025-08-26T07:24:01Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-08-21T07:44:56Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Natalia Lafourcade | De Todas las Flores | 2022 | 🇲🇽 Mexico | 30/08/2025 |
+| Молчат Дома | Этажи | 2018 | 🇧🇾 Belarus | 30/08/2025 |
 | Disharmonic Orchestra | Not to Be Undimensional Conscious | 1992 | 🇦🇹 Austria | 23/08/2025 |
 | Solaris | Marsbéli Krónikák | 1984 | 🇭🇺 Hungary | 23/08/2025 |
 | Orishas | A Lo Cubano | 1999 | 🇨🇺 Cuba | 16/08/2025 |
@@ -262,7 +264,7 @@ date = 2025-08-21T07:44:56Z
 
 ## Stats
 
-Total: 231
+Total: 233
 
 | Country | Count |
 |---------|-------|
@@ -286,6 +288,8 @@ Total: 231
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇲🇽 Mexico | 1 |
+| 🇧🇾 Belarus | 1 |
 | 🇦🇹 Austria | 1 |
 | 🇭🇺 Hungary | 1 |
 | 🇨🇺 Cuba | 1 |
@@ -310,8 +314,8 @@ Total: 231
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 60 |
-| 2020s | 60 |
+| 2020s | 61 |
+| 2010s | 61 |
 | 1990s | 32 |
 | 1970s | 32 |
 | 2000s | 24 |
