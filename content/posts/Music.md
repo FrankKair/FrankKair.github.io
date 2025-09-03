@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-08-26T07:24:01Z
+date = 2025-09-03T09:44:46Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-08-26T07:24:01Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Trilok Gurtu | The Glimpse | 1989 | 🇮🇳 India | 06/09/2025 |
+| Focus | Moving Waves | 1971 | 🇳🇱 Netherlands | 06/09/2025 |
 | Natalia Lafourcade | De Todas las Flores | 2022 | 🇲🇽 Mexico | 30/08/2025 |
 | Молчат Дома | Этажи | 2018 | 🇧🇾 Belarus | 30/08/2025 |
 | Disharmonic Orchestra | Not to Be Undimensional Conscious | 1992 | 🇦🇹 Austria | 23/08/2025 |
@@ -264,7 +266,7 @@ date = 2025-08-26T07:24:01Z
 
 ## Stats
 
-Total: 233
+Total: 235
 
 | Country | Count |
 |---------|-------|
@@ -288,6 +290,8 @@ Total: 233
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇮🇳 India | 1 |
+| 🇳🇱 Netherlands | 1 |
 | 🇲🇽 Mexico | 1 |
 | 🇧🇾 Belarus | 1 |
 | 🇦🇹 Austria | 1 |
@@ -316,10 +320,10 @@ Total: 233
 |--------|-------|
 | 2020s | 61 |
 | 2010s | 61 |
+| 1970s | 33 |
 | 1990s | 32 |
-| 1970s | 32 |
 | 2000s | 24 |
-| 1980s | 18 |
+| 1980s | 19 |
 | 1890s | 1 |
 | 1870s | 1 |
 | 1960s | 1 |
