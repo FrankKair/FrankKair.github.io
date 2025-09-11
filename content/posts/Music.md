@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-09-03T09:44:46Z
+date = 2025-09-11T13:03:23Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-09-03T09:44:46Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Elephant Gym | Underwater | 2018 | 🇹🇼 Taiwan | 13/09/2025 |
+| Bob Marley & The Wailers | Exodus | 1977 | 🇯🇲 Jamaica | 13/09/2025 |
 | Trilok Gurtu | The Glimpse | 1989 | 🇮🇳 India | 06/09/2025 |
 | Focus | Moving Waves | 1971 | 🇳🇱 Netherlands | 06/09/2025 |
 | Natalia Lafourcade | De Todas las Flores | 2022 | 🇲🇽 Mexico | 30/08/2025 |
@@ -266,7 +268,7 @@ date = 2025-09-03T09:44:46Z
 
 ## Stats
 
-Total: 235
+Total: 237
 
 | Country | Count |
 |---------|-------|
@@ -290,6 +292,8 @@ Total: 235
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇹🇼 Taiwan | 1 |
+| 🇯🇲 Jamaica | 1 |
 | 🇮🇳 India | 1 |
 | 🇳🇱 Netherlands | 1 |
 | 🇲🇽 Mexico | 1 |
@@ -318,9 +322,9 @@ Total: 235
 
 | Decade | Count |
 |--------|-------|
+| 2010s | 62 |
 | 2020s | 61 |
-| 2010s | 61 |
-| 1970s | 33 |
+| 1970s | 34 |
 | 1990s | 32 |
 | 2000s | 24 |
 | 1980s | 19 |
