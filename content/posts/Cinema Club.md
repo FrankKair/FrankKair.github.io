@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-09-11T13:03:23Z
+date = 2025-09-12T10:58:28Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-09-11T13:03:23Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Spun | 2002 | 🇺🇸 USA | 20/09/2025 |
 | The Piano Teacher (La Pianiste) | 2001 | 🇫🇷 France | 06/09/2025 |
 | Starship Troopers | 1997 | 🇺🇸 USA | 23/08/2025 |
 | American History X | 1998 | 🇺🇸 USA | 09/08/2025 |
@@ -28,11 +29,11 @@ date = 2025-09-11T13:03:23Z
 
 ## Stats
 
-Total: 17
+Total: 18
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 7 |
+| 🇺🇸 USA | 8 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇫🇷 France | 1 |
