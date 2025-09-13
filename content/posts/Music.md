@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-09-12T10:58:28Z
+date = 2025-09-13T22:59:07Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-09-12T10:58:28Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Ayyuka | Maslak Halayı | 2019 | 🇹🇷 Türkiye | 20/09/2025 |
+| Arvo Pärt | Spiegel im Spiegel | 1978 | 🇪🇪 Estonia | 20/09/2025 |
 | Elephant Gym | Underwater | 2018 | 🇹🇼 Taiwan | 13/09/2025 |
 | Bob Marley & The Wailers | Exodus | 1977 | 🇯🇲 Jamaica | 13/09/2025 |
 | Trilok Gurtu | The Glimpse | 1989 | 🇮🇳 India | 06/09/2025 |
@@ -268,7 +270,7 @@ date = 2025-09-12T10:58:28Z
 
 ## Stats
 
-Total: 237
+Total: 239
 
 | Country | Count |
 |---------|-------|
@@ -292,6 +294,8 @@ Total: 237
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇹🇷 Türkiye | 1 |
+| 🇪🇪 Estonia | 1 |
 | 🇹🇼 Taiwan | 1 |
 | 🇯🇲 Jamaica | 1 |
 | 🇮🇳 India | 1 |
@@ -322,9 +326,9 @@ Total: 237
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 62 |
+| 2010s | 63 |
 | 2020s | 61 |
-| 1970s | 34 |
+| 1970s | 35 |
 | 1990s | 32 |
 | 2000s | 24 |
 | 1980s | 19 |
