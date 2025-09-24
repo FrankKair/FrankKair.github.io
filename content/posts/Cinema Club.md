@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-09-13T22:59:07Z
+date = 2025-09-24T22:35:44Z
 +++
 
 
@@ -8,11 +8,12 @@ date = 2025-09-13T22:59:07Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Grand Prix | 1966 | 🇺🇸 USA | 04/10/2025 |
 | Spun | 2002 | 🇺🇸 USA | 20/09/2025 |
 | The Piano Teacher (La Pianiste) | 2001 | 🇫🇷 France | 06/09/2025 |
 | Starship Troopers | 1997 | 🇺🇸 USA | 23/08/2025 |
 | American History X | 1998 | 🇺🇸 USA | 09/08/2025 |
-| In The Mood For Love (花样年华) | 2000 | 🇨🇳 China | 26/07/2025 |
+| In The Mood For Love (花样年华) | 2000 | 🇭🇰 Hong Kong | 26/07/2025 |
 | The Princess Bride | 1987 | 🇺🇸 USA | 12/07/2025 |
 | Annihilation | 2018 | 🇺🇸 USA | 28/06/2025 |
 | Bycicle Thieves (Ladri di biciclette) | 1948 | 🇮🇹 Italy | 14/06/2025 |
@@ -29,15 +30,15 @@ date = 2025-09-13T22:59:07Z
 
 ## Stats
 
-Total: 18
+Total: 19
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 8 |
+| 🇺🇸 USA | 9 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇫🇷 France | 1 |
-| 🇨🇳 China | 1 |
+| 🇭🇰 Hong Kong | 1 |
 | 🇮🇹 Italy | 1 |
 | 🇩🇪 Germany | 1 |
 | 🇸🇪 Sweden | 1 |

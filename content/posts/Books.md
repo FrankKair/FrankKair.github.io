@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-09-13T22:59:07Z
+date = 2025-09-24T22:35:44Z
 +++
 
 
@@ -10,6 +10,7 @@ date = 2025-09-13T22:59:07Z
 | --- | --- | --- | --- | --- |
 | William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | -/-/2025 |
 | Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome | -/-/2025 |
+| Natasha Brown | Universality | 2025 | 🇬🇧 UK | 02/09/2025 |
 | James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland | 18/08/2025 |
 | Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy | 26/07/2025 |
 | Kazuo Ishiguro | The Buried Giant | 2015 | 🇬🇧 UK | 22/07/2025 |
@@ -177,12 +178,12 @@ date = 2025-09-13T22:59:07Z
 
 ## Stats
 
-Total: 131
+Total: 132
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 43 |
-| 🇬🇧 UK | 31 |
+| 🇬🇧 UK | 32 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 8 |
 | 🇫🇷 France | 6 |

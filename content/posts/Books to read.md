@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-09-13T22:59:07Z
+date = 2025-09-24T22:35:44Z
 +++
 
 | author | book | year | country |
@@ -18,6 +18,7 @@ date = 2025-09-13T22:59:07Z
 | Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
+| Min Jin Lee | Pachinko (파친코) | 2017 | 🇰🇷 South Korea |
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | Voltaire | Candide | 1759 | 🇫🇷 France |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
