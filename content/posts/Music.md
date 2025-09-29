@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-09-24T22:35:44Z
+date = 2025-09-29T12:01:21Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-09-24T22:35:44Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| George Telek | Telek | 1997 | 🇵🇬 Papua New Guinea | 04/10/2025 |
 | Ayyuka | Maslak Halayı | 2019 | 🇹🇷 Türkiye | 20/09/2025 |
 | Arvo Pärt | Spiegel im Spiegel | 1978 | 🇪🇪 Estonia | 20/09/2025 |
 | Elephant Gym | Underwater | 2018 | 🇹🇼 Taiwan | 13/09/2025 |
@@ -270,7 +271,7 @@ date = 2025-09-24T22:35:44Z
 
 ## Stats
 
-Total: 239
+Total: 240
 
 | Country | Count |
 |---------|-------|
@@ -294,6 +295,7 @@ Total: 239
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇵🇬 Papua New Guinea | 1 |
 | 🇹🇷 Türkiye | 1 |
 | 🇪🇪 Estonia | 1 |
 | 🇹🇼 Taiwan | 1 |
@@ -329,7 +331,7 @@ Total: 239
 | 2010s | 63 |
 | 2020s | 61 |
 | 1970s | 35 |
-| 1990s | 32 |
+| 1990s | 33 |
 | 2000s | 24 |
 | 1980s | 19 |
 | 1890s | 1 |
