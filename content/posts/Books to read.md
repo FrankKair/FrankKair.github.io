@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-09-29T12:01:21Z
+date = 2025-10-05T22:54:37Z
 +++
 
 | author | book | year | country |
@@ -103,6 +103,7 @@ date = 2025-09-29T12:01:21Z
 | J.R.R. Tolkien | The Hobbit | 1937 | 🇬🇧 UK |
 | Ted Hughes | Lupercal | 1960 | 🇬🇧 UK |
 | Ted Hughes | Birthday Letters | 1998 | 🇬🇧 UK |
+| Richard Adams | Watership Down | 1972 | 🇬🇧 UK |
 | Zadie Smith | White Teeth | 2000 | 🇬🇧 UK |
 | Zadie Smith | On Beauty | 2005 | 🇬🇧 UK |
 | Ian McEwan | Atonement | 2001 | 🇬🇧 UK |

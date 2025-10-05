@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-09-29T12:01:21Z
+date = 2025-10-05T22:54:37Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-09-29T12:01:21Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Ukandanz | Awo | 2016 | 🇪🇹 Ethiopia | 11/10/2025 |
 | George Telek | Telek | 1997 | 🇵🇬 Papua New Guinea | 04/10/2025 |
 | Ayyuka | Maslak Halayı | 2019 | 🇹🇷 Türkiye | 20/09/2025 |
 | Arvo Pärt | Spiegel im Spiegel | 1978 | 🇪🇪 Estonia | 20/09/2025 |
@@ -271,7 +272,7 @@ date = 2025-09-29T12:01:21Z
 
 ## Stats
 
-Total: 240
+Total: 241
 
 | Country | Count |
 |---------|-------|
@@ -295,6 +296,7 @@ Total: 240
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇪🇹 Ethiopia | 1 |
 | 🇵🇬 Papua New Guinea | 1 |
 | 🇹🇷 Türkiye | 1 |
 | 🇪🇪 Estonia | 1 |
@@ -328,7 +330,7 @@ Total: 240
 
 | Decade | Count |
 |--------|-------|
-| 2010s | 63 |
+| 2010s | 64 |
 | 2020s | 61 |
 | 1970s | 35 |
 | 1990s | 33 |
