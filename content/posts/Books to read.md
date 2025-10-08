@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-10-08T21:08:26Z
+date = 2025-10-08T23:21:45Z
 +++
 
 | author | book | year | country |
@@ -39,6 +39,7 @@ date = 2025-10-08T21:08:26Z
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
 | Johann Wolfgang von Goethe | Die Leiden des jungen Werthers | 1774 | 🇩🇪 Germany |
+| Reiner Maria Rilke |  |  | 🇩🇪 Germany |
 | Thomas Mann | Der Tod in Venedig | 1912 | 🇩🇪 Germany |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
 | Hermann Hesse | Siddhartha | 1922 | 🇩🇪 Germany |
