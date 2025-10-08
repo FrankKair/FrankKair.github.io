@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-10-05T22:54:37Z
+date = 2025-10-08T21:08:26Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-05T22:54:37Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| The White Ribbon (Das weiße Band) | 2009 | 🇩🇪 Germany | 18/10/2025 |
 | Grand Prix | 1966 | 🇺🇸 USA | 04/10/2025 |
 | Spun | 2002 | 🇺🇸 USA | 20/09/2025 |
 | The Piano Teacher (La Pianiste) | 2001 | 🇫🇷 France | 06/09/2025 |
@@ -30,16 +31,16 @@ date = 2025-10-05T22:54:37Z
 
 ## Stats
 
-Total: 19
+Total: 20
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 9 |
+| 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇫🇷 France | 1 |
 | 🇭🇰 Hong Kong | 1 |
 | 🇮🇹 Italy | 1 |
-| 🇩🇪 Germany | 1 |
 | 🇸🇪 Sweden | 1 |
 | 🇬🇧 UK | 1 |
