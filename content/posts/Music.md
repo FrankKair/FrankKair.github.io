@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-10-08T23:21:45Z
+date = 2025-10-14T14:39:05Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-08T23:21:45Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Majid Bekkas | Magic Spirit Quartet | 2020 | 🇲🇦 Morocco | 18/10/2025 |
 | Ukandanz | Awo | 2016 | 🇪🇹 Ethiopia | 11/10/2025 |
 | George Telek | Telek | 1997 | 🇵🇬 Papua New Guinea | 04/10/2025 |
 | Ayyuka | Maslak Halayı | 2019 | 🇹🇷 Türkiye | 20/09/2025 |
@@ -272,7 +273,7 @@ date = 2025-10-08T23:21:45Z
 
 ## Stats
 
-Total: 241
+Total: 242
 
 | Country | Count |
 |---------|-------|
@@ -296,6 +297,7 @@ Total: 241
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇲🇦 Morocco | 1 |
 | 🇪🇹 Ethiopia | 1 |
 | 🇵🇬 Papua New Guinea | 1 |
 | 🇹🇷 Türkiye | 1 |
@@ -331,7 +333,7 @@ Total: 241
 | Decade | Count |
 |--------|-------|
 | 2010s | 64 |
-| 2020s | 61 |
+| 2020s | 62 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |
