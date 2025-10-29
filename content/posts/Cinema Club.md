@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-10-14T14:39:05Z
+date = 2025-10-29T16:30:15Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-14T14:39:05Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| There Will Be Blood | 2007 | 🇺🇸 USA | 01/11/2025 |
 | The White Ribbon (Das weiße Band) | 2009 | 🇩🇪 Germany | 18/10/2025 |
 | Grand Prix | 1966 | 🇺🇸 USA | 04/10/2025 |
 | Spun | 2002 | 🇺🇸 USA | 20/09/2025 |
@@ -31,11 +32,11 @@ date = 2025-10-14T14:39:05Z
 
 ## Stats
 
-Total: 20
+Total: 21
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 9 |
+| 🇺🇸 USA | 10 |
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |

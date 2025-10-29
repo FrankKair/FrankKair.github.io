@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-10-14T14:39:05Z
+date = 2025-10-29T16:30:15Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2025-10-14T14:39:05Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Nduduzo Makhathini | In the Spirit of Ntu | 2022 | 🇿🇦 South Africa | 01/10/2025 |
+| Coroner | Dissonance Theory | 2025 | 🇨🇭 Switzerland | 25/10/2025 |
 | Majid Bekkas | Magic Spirit Quartet | 2020 | 🇲🇦 Morocco | 18/10/2025 |
 | Ukandanz | Awo | 2016 | 🇪🇹 Ethiopia | 11/10/2025 |
 | George Telek | Telek | 1997 | 🇵🇬 Papua New Guinea | 04/10/2025 |
@@ -273,7 +275,7 @@ date = 2025-10-14T14:39:05Z
 
 ## Stats
 
-Total: 242
+Total: 244
 
 | Country | Count |
 |---------|-------|
@@ -297,6 +299,8 @@ Total: 242
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇿🇦 South Africa | 1 |
+| 🇨🇭 Switzerland | 1 |
 | 🇲🇦 Morocco | 1 |
 | 🇪🇹 Ethiopia | 1 |
 | 🇵🇬 Papua New Guinea | 1 |
@@ -332,8 +336,8 @@ Total: 242
 
 | Decade | Count |
 |--------|-------|
+| 2020s | 64 |
 | 2010s | 64 |
-| 2020s | 62 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |
