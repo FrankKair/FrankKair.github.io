@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-10-29T16:30:15Z
+date = 2025-10-31T20:48:43Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-29T16:30:15Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Erdve | Vaitojimas | 2018 | 🇱🇹 Lithuania | 08/11/2025 |
 | Nduduzo Makhathini | In the Spirit of Ntu | 2022 | 🇿🇦 South Africa | 01/10/2025 |
 | Coroner | Dissonance Theory | 2025 | 🇨🇭 Switzerland | 25/10/2025 |
 | Majid Bekkas | Magic Spirit Quartet | 2020 | 🇲🇦 Morocco | 18/10/2025 |
@@ -275,7 +276,7 @@ date = 2025-10-29T16:30:15Z
 
 ## Stats
 
-Total: 244
+Total: 245
 
 | Country | Count |
 |---------|-------|
@@ -299,6 +300,7 @@ Total: 244
 | 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
+| 🇱🇹 Lithuania | 1 |
 | 🇿🇦 South Africa | 1 |
 | 🇨🇭 Switzerland | 1 |
 | 🇲🇦 Morocco | 1 |
@@ -336,8 +338,8 @@ Total: 244
 
 | Decade | Count |
 |--------|-------|
+| 2010s | 65 |
 | 2020s | 64 |
-| 2010s | 64 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |

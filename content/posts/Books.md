@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-10-29T16:30:15Z
+date = 2025-10-31T20:48:43Z
 +++
 
 
@@ -8,8 +8,8 @@ date = 2025-10-29T16:30:15Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| William Blake | Songs of Innocence and of Experience | 1794 | 🇬🇧 UK | -/-/2025 |
 | Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome | -/-/2025 |
+| Benjamin Wood | Seascraper | 2025 | 🇬🇧 UK | 31/10/2025 |
 | Natasha Brown | Universality | 2025 | 🇬🇧 UK | 02/09/2025 |
 | James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland | 18/08/2025 |
 | Natalia Ginzburg | È stato così | 1947 | 🇮🇹 Italy | 26/07/2025 |
