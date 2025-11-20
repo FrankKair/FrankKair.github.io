@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2025-10-31T20:48:43Z
+date = 2025-11-20T21:46:43Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-31T20:48:43Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Rosalía | Lux | 2025 | 🇪🇸 Spain | 15/11/2025 |
 | Erdve | Vaitojimas | 2018 | 🇱🇹 Lithuania | 08/11/2025 |
 | Nduduzo Makhathini | In the Spirit of Ntu | 2022 | 🇿🇦 South Africa | 01/10/2025 |
 | Coroner | Dissonance Theory | 2025 | 🇨🇭 Switzerland | 25/10/2025 |
@@ -276,7 +277,7 @@ date = 2025-10-31T20:48:43Z
 
 ## Stats
 
-Total: 245
+Total: 246
 
 | Country | Count |
 |---------|-------|
@@ -293,11 +294,11 @@ Total: 245
 | 🇫🇷 France | 4 |
 | 🇮🇪 Ireland | 4 |
 | 🇳🇴 Norway | 4 |
+| 🇪🇸 Spain | 3 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
 | 🇫🇮 Finland | 2 |
 | 🇨🇱 Chile | 2 |
-| 🇪🇸 Spain | 2 |
 | 🇨🇿 Czechia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇱🇹 Lithuania | 1 |
@@ -338,8 +339,8 @@ Total: 245
 
 | Decade | Count |
 |--------|-------|
+| 2020s | 65 |
 | 2010s | 65 |
-| 2020s | 64 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |

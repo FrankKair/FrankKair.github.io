@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-10-31T20:48:43Z
+date = 2025-11-20T21:46:43Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-10-31T20:48:43Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| My Left Foot | 1989 | 🇮🇪 Ireland | 15/11/2025 |
 | There Will Be Blood | 2007 | 🇺🇸 USA | 01/11/2025 |
 | The White Ribbon (Das weiße Band) | 2009 | 🇩🇪 Germany | 18/10/2025 |
 | Grand Prix | 1966 | 🇺🇸 USA | 04/10/2025 |
@@ -32,7 +33,7 @@ date = 2025-10-31T20:48:43Z
 
 ## Stats
 
-Total: 21
+Total: 22
 
 | Country | Count |
 |---------|-------|
@@ -40,6 +41,7 @@ Total: 21
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇮🇪 Ireland | 1 |
 | 🇫🇷 France | 1 |
 | 🇭🇰 Hong Kong | 1 |
 | 🇮🇹 Italy | 1 |

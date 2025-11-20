@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-10-31T20:48:43Z
+date = 2025-11-20T21:46:43Z
 +++
 
 
@@ -8,7 +8,6 @@ date = 2025-10-31T20:48:43Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome | -/-/2025 |
 | Benjamin Wood | Seascraper | 2025 | 🇬🇧 UK | 31/10/2025 |
 | Natasha Brown | Universality | 2025 | 🇬🇧 UK | 02/09/2025 |
 | James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland | 18/08/2025 |
@@ -178,7 +177,7 @@ date = 2025-10-31T20:48:43Z
 
 ## Stats
 
-Total: 132
+Total: 131
 
 | Country | Count |
 |---------|-------|
@@ -191,13 +190,13 @@ Total: 132
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |
 | 🇳🇴 Norway | 3 |
-| 🏛  Rome | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
 | 🇨🇴 Colombia | 1 |
+| 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
