@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2025-11-20T21:46:43Z
+date = 2025-11-22T21:37:56Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2025-11-20T21:46:43Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Lincoln | 2012 | 🇺🇸 USA | 29/11/2025 |
 | My Left Foot | 1989 | 🇮🇪 Ireland | 15/11/2025 |
 | There Will Be Blood | 2007 | 🇺🇸 USA | 01/11/2025 |
 | The White Ribbon (Das weiße Band) | 2009 | 🇩🇪 Germany | 18/10/2025 |
@@ -33,11 +34,11 @@ date = 2025-11-20T21:46:43Z
 
 ## Stats
 
-Total: 22
+Total: 23
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 10 |
+| 🇺🇸 USA | 11 |
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |

@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-11-20T21:46:43Z
+date = 2025-11-22T21:37:56Z
 +++
 
 | author | book | year | country |
@@ -14,6 +14,7 @@ date = 2025-11-20T21:46:43Z
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
+| Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary |
 | Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
 | Jon Fosse | Vaim | 2025 | 🇳🇴 Norway |
@@ -79,7 +80,6 @@ date = 2025-11-20T21:46:43Z
 | Nikolai Gogol | Dead Souls (Мёртвые души) | 1842 | 🇷🇺 Russia |
 | Ivan Turgenev | Fathers and Sons (Отцы и дети) | 1862 | 🇷🇺 Russia |
 | Boris Pasternak | Doctor Zhivago (Доктор Живаго) | 1957 | 🇷🇺 Russia |
-| Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
 | Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
 | Gunnar Gunnarson | Advent | 1936 | 🇮🇸 Iceland |
