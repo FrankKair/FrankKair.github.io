@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-12-09T17:42:24Z
+date = 2025-12-22T02:32:13Z
 +++
 
 | author | book | year | country |
@@ -15,9 +15,7 @@ date = 2025-12-09T17:42:24Z
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
-| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary |
 | Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
-| Jon Fosse | Vaim | 2025 | 🇳🇴 Norway |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |

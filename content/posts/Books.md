@@ -1,13 +1,23 @@
 +++
 title = 'Books'
-date = 2025-12-09T17:42:24Z
+date = 2025-12-22T02:32:13Z
 +++
 
+
+## 2026
+
+| author | book | year | country | date |
+| --- | --- | --- | --- | --- |
+| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
+| Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | -/-/2026 |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Gunnar Gunnarson | Advent (Aðventa) | 1931 | 🇮🇸 Iceland | -/12/2025 |
+| John Steinbeck | Cannery Row | 1943 | 🇺🇸 USA | 19/12/2025 |
+| Jon Fosse | Vaim | 2025 | 🇳🇴 Norway | 29/11/2025 |
 | Benjamin Wood | Seascraper | 2025 | 🇬🇧 UK | 31/10/2025 |
 | Natasha Brown | Universality | 2025 | 🇬🇧 UK | 02/09/2025 |
 | James Joyce | A Portrait of the Artist as a Young Man | 1916 | 🇮🇪 Ireland | 18/08/2025 |
@@ -177,22 +187,24 @@ date = 2025-12-09T17:42:24Z
 
 ## Stats
 
-Total: 131
+Total: 136
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 43 |
-| 🇬🇧 UK | 32 |
+| 🇺🇸 USA | 44 |
+| 🇬🇧 UK | 33 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 8 |
 | 🇫🇷 France | 6 |
 | 🇷🇺 Russia | 5 |
+| 🇳🇴 Norway | 4 |
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |
-| 🇳🇴 Norway | 3 |
 | 🇰🇷 South Korea | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
+| 🇭🇺 Hungary | 1 |
+| 🇮🇸 Iceland | 1 |
 | 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
 | 🇨🇴 Colombia | 1 |
