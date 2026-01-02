@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2025-12-22T02:32:13Z
+date = 2026-01-02T00:36:00Z
 +++
 
 
@@ -8,14 +8,17 @@ date = 2025-12-22T02:32:13Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
 | Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | -/-/2026 |
+| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
+| Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark | -/-/2026 |
+| Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany | -/-/2026 |
+| Gunnar Gunnarson | Advent (Aðventa) | 1931 | 🇮🇸 Iceland | 02/01/2026 |
+| John Milton | Paradise Regained | 1671 | 🇬🇧 UK | 01/01/2026 |
 
 ## 2025
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Gunnar Gunnarson | Advent (Aðventa) | 1931 | 🇮🇸 Iceland | -/12/2025 |
 | John Steinbeck | Cannery Row | 1943 | 🇺🇸 USA | 19/12/2025 |
 | Jon Fosse | Vaim | 2025 | 🇳🇴 Norway | 29/11/2025 |
 | Benjamin Wood | Seascraper | 2025 | 🇬🇧 UK | 31/10/2025 |
@@ -70,7 +73,7 @@ date = 2025-12-22T02:32:13Z
 | Annie Ernaux | La place | 1983 | 🇫🇷 France | 28/05/2024 |
 | Sylvia Plath | The Bell Jar | 1963 | 🇺🇸 USA | 24/05/2024 |
 | Ray Bradbury | Fahrenheit 451 | 1953 | 🇺🇸 USA | 19/05/2024 |
-| Ivan Turgenev | First Love (Первая любовь) | 1860 | 🇷🇺 Russia | 14/05/2024 |
+| Ivan Turgenev | First Love (Первая любовь) | 1881 | 🇷🇺 Russia | 14/05/2024 |
 | Vladimir Nabokov | Pnin | 1957 | 🇷🇺 Russia | 06/05/2024 |
 | Lana Del Rey | Violet Bent Backwards Over the Grass | 2020 | 🇺🇸 USA | 26/04/2024 |
 | Nita Prose | The Maid | 2022 | 🇺🇸 USA | 17/04/2024 |
@@ -187,12 +190,12 @@ date = 2025-12-22T02:32:13Z
 
 ## Stats
 
-Total: 136
+Total: 139
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 33 |
+| 🇬🇧 UK | 34 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 8 |
 | 🇫🇷 France | 6 |
@@ -200,19 +203,19 @@ Total: 136
 | 🇳🇴 Norway | 4 |
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |
+| 🇩🇰 Denmark | 2 |
+| 🇩🇪 Germany | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🇭🇺 Hungary | 1 |
 | 🇮🇸 Iceland | 1 |
-| 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
 | 🇨🇴 Colombia | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
-| 🇩🇪 Germany | 1 |
 | 🇧🇭 Bahrain | 1 |
 | 🇲🇽 Mexico | 1 |
 | 🇮🇱 Israel | 1 |

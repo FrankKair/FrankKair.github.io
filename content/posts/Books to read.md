@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2025-12-22T02:32:13Z
+date = 2026-01-02T00:36:00Z
 +++
 
 | author | book | year | country |
@@ -12,7 +12,6 @@ date = 2025-12-22T02:32:13Z
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
-| Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
@@ -22,7 +21,6 @@ date = 2025-12-22T02:32:13Z
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
 | Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Min Jin Lee | Pachinko (파친코) | 2017 | 🇰🇷 South Korea |
-| John Milton | Paradise Regained | 1671 | 🇬🇧 UK |
 | Charles Dickens | A Tale of Two Cities | 1859 | 🇬🇧 UK |
 | Thomas Hardy | Jude the Obscure | 1895 | 🇬🇧 UK |
 | George Orwell | Down and Out in Paris and London | 1933 | 🇬🇧 UK |
@@ -77,6 +75,7 @@ date = 2025-12-22T02:32:13Z
 | Alexander Pushkin | Eugene Onegin (Евгений Онегин) | 1833 | 🇷🇺 Russia |
 | Nikolai Gogol | Dead Souls (Мёртвые души) | 1842 | 🇷🇺 Russia |
 | Ivan Turgenev | Fathers and Sons (Отцы и дети) | 1862 | 🇷🇺 Russia |
+| Ivan Turgenev | First Love and Other Stories | 1881 | 🇷🇺 Russia |
 | Boris Pasternak | Doctor Zhivago (Доктор Живаго) | 1957 | 🇷🇺 Russia |
 | Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
 | Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
