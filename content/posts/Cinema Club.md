@@ -1,8 +1,14 @@
 +++
 title = 'Cinema Club'
-date = 2026-01-02T00:36:00Z
+date = 2026-01-25T01:25:01Z
 +++
 
+
+## 2026
+
+| movie | year | country | watched |
+| --- | --- | --- | --- |
+| Sentimental Value (Affeksjonsverdi) | 2025 | 🇳🇴 Norway | 01/02/2026 |
 
 ## 2025
 
@@ -34,7 +40,7 @@ date = 2026-01-02T00:36:00Z
 
 ## Stats
 
-Total: 23
+Total: 24
 
 | Country | Count |
 |---------|-------|
@@ -42,6 +48,7 @@ Total: 23
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇳🇴 Norway | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇫🇷 France | 1 |
 | 🇭🇰 Hong Kong | 1 |

@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-01-02T00:36:00Z
+date = 2026-01-25T01:25:01Z
 +++
 
 
@@ -8,10 +8,16 @@ date = 2026-01-02T00:36:00Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | -/-/2026 |
 | László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
 | Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark | -/-/2026 |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany | -/-/2026 |
+| Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France | 22/01/2026 |
+| Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | 20/01/2026 |
+| Gabriel Garcia Marquez | El coronel no tiene quien le escriba | 1961 | 🇨🇴 Colombia | 18/01/2026 |
+| Colm Tóibín | A Long Winter | 2025 | 🇮🇪 Ireland | 16/01/2026 |
+| Clarice Lispector | A Hora da Estrela | 1977 | 🇧🇷 Brazil | 13/01/2026 |
+| Machado de Assis | O Alienista | 1881 | 🇧🇷 Brazil | 10/01/2026 |
+| Astrid Lindgren | Mio Min Mio | 1954 | 🇸🇪 Sweden | 06/01/2026 |
 | Gunnar Gunnarson | Advent (Aðventa) | 1931 | 🇮🇸 Iceland | 02/01/2026 |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK | 01/01/2026 |
 
@@ -190,28 +196,29 @@ date = 2026-01-02T00:36:00Z
 
 ## Stats
 
-Total: 139
+Total: 145
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
 | 🇬🇧 UK | 34 |
 | 🇯🇵 Japan | 12 |
-| 🇮🇪 Ireland | 8 |
-| 🇫🇷 France | 6 |
+| 🇮🇪 Ireland | 9 |
+| 🇫🇷 France | 7 |
 | 🇷🇺 Russia | 5 |
+| 🇧🇷 Brazil | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |
 | 🇩🇰 Denmark | 2 |
 | 🇩🇪 Germany | 2 |
+| 🇨🇴 Colombia | 2 |
 | 🇰🇷 South Korea | 2 |
-| 🇧🇷 Brazil | 2 |
 | 🇳🇬 Nigeria | 2 |
 | 🇭🇺 Hungary | 1 |
+| 🇸🇪 Sweden | 1 |
 | 🇮🇸 Iceland | 1 |
 | 🇮🇳 India | 1 |
-| 🇨🇴 Colombia | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
