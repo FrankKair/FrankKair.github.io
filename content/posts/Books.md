@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-01-25T01:25:01Z
+date = 2026-01-29T11:07:41Z
 +++
 
 
@@ -8,9 +8,10 @@ date = 2026-01-25T01:25:01Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
 | Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark | -/-/2026 |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany | -/-/2026 |
+| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
+| Marguerite Duras | L'Amant | 1984 | 🇫🇷 France | 28/01/2026 |
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France | 22/01/2026 |
 | Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | 20/01/2026 |
 | Gabriel Garcia Marquez | El coronel no tiene quien le escriba | 1961 | 🇨🇴 Colombia | 18/01/2026 |
@@ -196,7 +197,7 @@ date = 2026-01-25T01:25:01Z
 
 ## Stats
 
-Total: 145
+Total: 146
 
 | Country | Count |
 |---------|-------|
@@ -204,7 +205,7 @@ Total: 145
 | 🇬🇧 UK | 34 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 9 |
-| 🇫🇷 France | 7 |
+| 🇫🇷 France | 8 |
 | 🇷🇺 Russia | 5 |
 | 🇧🇷 Brazil | 4 |
 | 🇳🇴 Norway | 4 |

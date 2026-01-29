@@ -1,8 +1,15 @@
 +++
 title = 'Music'
-date = 2026-01-25T01:25:01Z
+date = 2026-01-29T11:07:41Z
 +++
 
+
+## 2026
+
+| artist | album | year | country | review |
+| --- | --- | --- | --- | --- |
+| No 4 | Henda i været | 2016 | 🇳🇴 Norway | 31/01/2026 |
+| João Gomes | Dominguinho | 2025 | 🇧🇷 Brazil | 24/01/2026 |
 
 ## 2025
 
@@ -277,15 +284,16 @@ date = 2026-01-25T01:25:01Z
 
 ## Stats
 
-Total: 246
+Total: 248
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 55 |
-| 🇧🇷 Brazil | 50 |
+| 🇧🇷 Brazil | 51 |
 | 🇬🇧 UK | 34 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
+| 🇳🇴 Norway | 5 |
 | 🇮🇸 Iceland | 5 |
 | 🇮🇹 Italy | 5 |
 | 🇦🇺 Australia | 4 |
@@ -293,7 +301,6 @@ Total: 246
 | 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
 | 🇮🇪 Ireland | 4 |
-| 🇳🇴 Norway | 4 |
 | 🇪🇸 Spain | 3 |
 | 🇦🇷 Argentina | 3 |
 | 🇯🇵 Japan | 3 |
@@ -339,8 +346,8 @@ Total: 246
 
 | Decade | Count |
 |--------|-------|
-| 2020s | 65 |
-| 2010s | 65 |
+| 2010s | 66 |
+| 2020s | 66 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |
