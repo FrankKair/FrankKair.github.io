@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2026-01-29T11:07:41Z
+date = 2026-02-04T22:57:40Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-01-29T11:07:41Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| Arrigo Barnabé | Clara Crocodilo | 1983 | 🇧🇷 Brazil | 07/02/2026 |
 | No 4 | Henda i været | 2016 | 🇳🇴 Norway | 31/01/2026 |
 | João Gomes | Dominguinho | 2025 | 🇧🇷 Brazil | 24/01/2026 |
 
@@ -284,12 +285,12 @@ date = 2026-01-29T11:07:41Z
 
 ## Stats
 
-Total: 248
+Total: 249
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 55 |
-| 🇧🇷 Brazil | 51 |
+| 🇧🇷 Brazil | 52 |
 | 🇬🇧 UK | 34 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
@@ -351,7 +352,7 @@ Total: 248
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |
-| 1980s | 19 |
+| 1980s | 20 |
 | 1890s | 1 |
 | 1870s | 1 |
 | 1960s | 1 |

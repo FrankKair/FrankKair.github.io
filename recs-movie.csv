@@ -1,43 +1,60 @@
-movie,year,country,watched
-The Quiet Girl (An Cailín Ciúin),2022,🇮🇪 Ireland,-
-Lawrence of Arabia,1962,🇬🇧 UK,-
-Barry Lyndon,1975,🇬🇧 UK,-
-Breathless (À bout de souffle),1960,🇫🇷 France,-
-Au hasard Balthazar,1966,🇫🇷 France,-
-Mouchette,1967,🇫🇷 France,-
-La Dolce Vita,1960,🇮🇹 Italy,-
-8½,1963,🇮🇹 Italy,-
-The Last Emperor (L'ultimo imperatore),1987,🇮🇹 Italy,-
-Downfall (Der Untergang),2004,🇩🇪 Germany,-
-The Phantom Carriage (Körkarlen),1921,🇸🇪 Sweden,-
-Summer with Monika (Sommaren med Monika),1953,🇸🇪 Sweden,-
-Through a Glass Darkly (Såsom i en spegel),1961,🇸🇪 Sweden,-
-Winter Light (Nattvardsgästerna),1963,🇸🇪 Sweden,-
-The Silence (Tystnaden),1963,🇸🇪 Sweden,-
-Persona,1966,🇸🇪 Sweden,-
-A Swedish Love Story (En kärlekshistoria),1970,🇸🇪 Sweden,-
-Cries and Whispers (Viskningar och rop),1972,🇸🇪 Sweden,-
-Autumn Sonata (Höstsonaten),1978,🇸🇪 Sweden,-
-Fanny and Alexander (Fanny och Alexander),1982,🇸🇪 Sweden,-
-Let the Right One In (Låt den rätte komma in),2008,🇸🇪 Sweden,-
-The Juniper Tree (Einitréð),1986,🇮🇸 Iceland,-
-Almanac of Fall (Őszi almanach),1984,🇭🇺 Hungary,-
-Sátántangó,1994,🇭🇺 Hungary,-
-Werckmeister Harmonies (Werckmeister harmóniák),2000,🇭🇺 Hungary,-
-Solaris (Солярис),1972,🇷🇺 Russia,-
-Mirror (Зеркало),1975,🇷🇺 Russia,-
-Come and See (Ідзі і глядзі),1985,🇧🇾 Belarus,-
-Rashomon (羅生門 ),1950,🇯🇵 Japan,-
-Seven Samurai (七人の侍),1958,🇯🇵 Japan,-
-Dersu Uzala (デルス・ウザーラ),1975,🇯🇵 Japan,-
-Kagemusha (影武者),1980,🇯🇵 Japan,-
-Good Morning (お早よう),1959,🇯🇵 Japan,-
-Singin' in the Rain,1952,🇺🇸 USA,-
-Roman Holiday,1953,🇺🇸 USA,-
-Rear Window,1954,🇺🇸 USA,-
-Breakfast at Tiffany's,1961,🇺🇸 USA,-
-The Sound of Music,1965,🇺🇸 USA,-
-The Graduate,1967,🇺🇸 USA,-
-Easy Rider,1969,🇺🇸 USA,-
-Taxi Driver,1976,🇺🇸 USA,-
-Paris Texas,1984,🇺🇸 USA,-
+movie,year,country
+Lawrence of Arabia,1962,🇬🇧 UK
+Kes,1969,🇬🇧 UK
+Barry Lyndon,1975,🇬🇧 UK
+The Quiet Girl (An Cailín Ciúin),2022,🇮🇪 Ireland
+The 400 Blows (Les quatre cents coups),1959,🇫🇷 France
+Breathless (À bout de souffle),1960,🇫🇷 France
+Au hasard Balthazar,1966,🇫🇷 France
+Mouchette,1967,🇫🇷 France
+La Haine,1995,🇫🇷 France
+L’Avventura,1960,🇮🇹 Italy
+La Dolce Vita,1960,🇮🇹 Italy
+8½,1963,🇮🇹 Italy
+The Last Emperor (L'ultimo imperatore),1987,🇮🇹 Italy
+The Spirit of the Beehive (El espíritu de la colmena),1973,🇪🇸 Spain
+Metropolis,1927,🇩🇪 Germany
+The Phantom Carriage (Körkarlen),1921,🇸🇪 Sweden
+Häxan,1922,🇸🇪 Sweden
+Through a Glass Darkly (Såsom i en spegel),1961,🇸🇪 Sweden
+Winter Light (Nattvardsgästerna),1963,🇸🇪 Sweden
+The Silence (Tystnaden),1963,🇸🇪 Sweden
+Persona,1966,🇸🇪 Sweden
+A Swedish Love Story (En kärlekshistoria),1970,🇸🇪 Sweden
+Cries and Whispers (Viskningar och rop),1972,🇸🇪 Sweden
+Autumn Sonata (Höstsonaten),1978,🇸🇪 Sweden
+Fanny and Alexander (Fanny och Alexander),1982,🇸🇪 Sweden
+Let the Right One In (Låt den rätte komma in),2008,🇸🇪 Sweden
+The Passion of Joan of Arc (La Passion de Jeanne d’Arc),1928,🇩🇰 Denmark
+Ordet,1955,🇩🇰 Denmark
+The Juniper Tree (Einitréð),1986,🇮🇸 Iceland
+Almanac of Fall (Őszi almanach),1984,🇭🇺 Hungary
+Sátántangó,1994,🇭🇺 Hungary
+Werckmeister Harmonies (Werckmeister harmóniák),2000,🇭🇺 Hungary
+The Cranes Are Flying (Летят журавли),1957,🇷🇺 Russia
+Solaris (Солярис),1972,🇷🇺 Russia
+Mirror (Зеркало),1975,🇷🇺 Russia
+Come and See (Ідзі і глядзі),1985,🇧🇾 Belarus
+Rashomon (羅生門 ),1950,🇯🇵 Japan
+Seven Samurai (七人の侍),1958,🇯🇵 Japan
+Dersu Uzala (デルス・ウザーラ),1975,🇯🇵 Japan
+Kagemusha (影武者),1980,🇯🇵 Japan
+Tokyo Story (東京物語),1953,🇯🇵 Japan
+Good Morning (お早よう),1959,🇯🇵 Japan
+A Brighter Summer Day (牯嶺街少年殺人事件),1991,🇹🇼 Taiwan
+Pather Panchali (পথের পাঁচালি),1955,🇮🇳 India
+Los Olvidados,1950,🇲🇽 Mexico
+Singin' in the Rain,1952,🇺🇸 USA
+Roman Holiday,1953,🇺🇸 USA
+Rear Window,1954,🇺🇸 USA
+The Night of the Hunter,1955,🇺🇸 USA
+The Searchers,1956,🇺🇸 USA
+Breakfast at Tiffany's,1961,🇺🇸 USA
+The Sound of Music,1965,🇺🇸 USA
+The Graduate,1967,🇺🇸 USA
+2001: A Space Odyssey,1968,🇺🇸 USA
+Easy Rider,1969,🇺🇸 USA
+Badlands,1973,🇺🇸 USA
+Taxi Driver,1976,🇺🇸 USA
+Paris Texas,1984,🇺🇸 USA
+Do the Right Thing,1989,🇺🇸 USA

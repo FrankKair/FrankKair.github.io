@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-01-29T11:07:41Z
+date = 2026-02-04T22:57:40Z
 +++
 
 
@@ -8,9 +8,7 @@ date = 2026-01-29T11:07:41Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark | -/-/2026 |
-| Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany | -/-/2026 |
-| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | -/-/2026 |
+| Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden | 04/02/2026 |
 | Marguerite Duras | L'Amant | 1984 | 🇫🇷 France | 28/01/2026 |
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France | 22/01/2026 |
 | Maggie O'Farrell | Hamnet | 2020 | 🇬🇧 UK | 20/01/2026 |
@@ -19,7 +17,7 @@ date = 2026-01-29T11:07:41Z
 | Clarice Lispector | A Hora da Estrela | 1977 | 🇧🇷 Brazil | 13/01/2026 |
 | Machado de Assis | O Alienista | 1881 | 🇧🇷 Brazil | 10/01/2026 |
 | Astrid Lindgren | Mio Min Mio | 1954 | 🇸🇪 Sweden | 06/01/2026 |
-| Gunnar Gunnarson | Advent (Aðventa) | 1931 | 🇮🇸 Iceland | 02/01/2026 |
+| Gunnar Gunnarson | Advent (Aðventa) | 1936 | 🇮🇸 Iceland | 02/01/2026 |
 | John Milton | Paradise Regained | 1671 | 🇬🇧 UK | 01/01/2026 |
 
 ## 2025
@@ -197,7 +195,7 @@ date = 2026-01-29T11:07:41Z
 
 ## Stats
 
-Total: 146
+Total: 144
 
 | Country | Count |
 |---------|-------|
@@ -211,19 +209,18 @@ Total: 146
 | 🇳🇴 Norway | 4 |
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |
-| 🇩🇰 Denmark | 2 |
-| 🇩🇪 Germany | 2 |
+| 🇸🇪 Sweden | 2 |
 | 🇨🇴 Colombia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇳🇬 Nigeria | 2 |
-| 🇭🇺 Hungary | 1 |
-| 🇸🇪 Sweden | 1 |
 | 🇮🇸 Iceland | 1 |
+| 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
 | 🏛  Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
+| 🇩🇪 Germany | 1 |
 | 🇧🇭 Bahrain | 1 |
 | 🇲🇽 Mexico | 1 |
 | 🇮🇱 Israel | 1 |

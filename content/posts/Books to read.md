@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-01-29T11:07:41Z
+date = 2026-02-04T22:57:40Z
 +++
 
 | author | book | year | country |
@@ -9,12 +9,15 @@ date = 2026-01-29T11:07:41Z
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
+| Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
+| Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark |
+| Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
+| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary |
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
-| Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
 | Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |
@@ -78,6 +81,7 @@ date = 2026-01-29T11:07:41Z
 | Hermann Hesse | Siddhartha | 1922 | 🇩🇪 Germany |
 | Hermann Hesse | Steppenwolf | 1927 | 🇩🇪 Germany |
 | Stefan Zweig | Schachnovelle | 1942 | 🇦🇹 Austria |
+| Stanisław Lem | Solaris | 1961 | 🇵🇱 Poland |
 | Alexander Pushkin | Eugene Onegin (Евгений Онегин) | 1833 | 🇷🇺 Russia |
 | Nikolai Gogol | Dead Souls (Мёртвые души) | 1842 | 🇷🇺 Russia |
 | Ivan Turgenev | Fathers and Sons (Отцы и дети) | 1862 | 🇷🇺 Russia |
@@ -85,14 +89,13 @@ date = 2026-01-29T11:07:41Z
 | Boris Pasternak | Doctor Zhivago (Доктор Живаго) | 1957 | 🇷🇺 Russia |
 | Snorri Sturluson | Prose Edda | 1220 | 🇮🇸 Iceland |
 | Anonymous | Poetic Edda | 1270 | 🇮🇸 Iceland |
-| Gunnar Gunnarson | Advent | 1936 | 🇮🇸 Iceland |
 | Knut Hamsun | Sult | 1890 | 🇳🇴 Norway |
+| Henrik Ibsen |  |  | 🇳🇴 Norway |
 | Tove Ditlevsen | Childhood Youth Dependency | 1967 | 🇩🇰 Denmark |
 | August Strindberg | Röda Rummet | 1879 | 🇸🇪 Sweden |
 | Victoria Benedictsson | Pengar | 1885 | 🇸🇪 Sweden |
 | Hjalmar Söderberg | Doctor Glas | 1905 | 🇸🇪 Sweden |
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
-| Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden |
 | Pär Lagerkvist | Barabbas | 1950 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
@@ -151,8 +154,9 @@ date = 2026-01-29T11:07:41Z
 | Ezra Pound |  |  | 🇺🇸 USA |
 | T.S. Elliot | The Waste Land | 1922 | 🇺🇸 USA |
 | John Steinbeck | The Grapes of Wrath | 1939 | 🇺🇸 USA |
-| John Steinbeck | Cannery Row | 1945 | 🇺🇸 USA |
 | John Steinbeck | East of Eden | 1952 | 🇺🇸 USA |
+| Ernest Hemingway | The Sun Also Rises | 1926 | 🇺🇸 USA |
+| Ernest Hemingway | The Old Man and the Sea | 1952 | 🇺🇸 USA |
 | J. D. Salinger | The Catcher in the Rye | 1951 | 🇺🇸 USA |
 | Harper Lee | To Kill a Mockingbird | 1960 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
