@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-02-07T09:48:53Z
+date = 2026-02-11T23:00:23Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-02-07T09:48:53Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Still Life | Noël Coward | 1936 | 🇬🇧 UK | 09/02/2026 |
 | Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden | 04/02/2026 |
 | Marguerite Duras | L'Amant | 1984 | 🇫🇷 France | 28/01/2026 |
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France | 22/01/2026 |
@@ -195,12 +196,12 @@ date = 2026-02-07T09:48:53Z
 
 ## Stats
 
-Total: 144
+Total: 145
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 34 |
+| 🇬🇧 UK | 35 |
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 9 |
 | 🇫🇷 France | 8 |

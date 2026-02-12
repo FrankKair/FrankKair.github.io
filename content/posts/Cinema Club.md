@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2026-02-07T09:48:53Z
+date = 2026-02-11T23:00:24Z
 +++
 
 
