@@ -1,6 +1,6 @@
 +++
 title = 'Music'
-date = 2026-02-11T23:00:23Z
+date = 2026-02-22T22:02:44Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2026-02-11T23:00:23Z
 
 | artist | album | year | country | review |
 | --- | --- | --- | --- | --- |
+| The Moody Blues | Days of Future Passed | 1967 | 🇬🇧 UK | 28/02/2026 |
+| Karnivool | In Verses | 2026 | 🇦🇺 Australia | 21/02/2026 |
 | Arrigo Barnabé | Clara Crocodilo | 1983 | 🇧🇷 Brazil | 07/02/2026 |
 | No 4 | Henda i været | 2016 | 🇳🇴 Norway | 31/01/2026 |
 | João Gomes | Dominguinho | 2025 | 🇧🇷 Brazil | 24/01/2026 |
@@ -285,19 +287,19 @@ date = 2026-02-11T23:00:23Z
 
 ## Stats
 
-Total: 249
+Total: 251
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 55 |
 | 🇧🇷 Brazil | 52 |
-| 🇬🇧 UK | 34 |
+| 🇬🇧 UK | 35 |
 | 🇸🇪 Sweden | 14 |
 | 🇨🇦 Canada | 7 |
+| 🇦🇺 Australia | 5 |
 | 🇳🇴 Norway | 5 |
 | 🇮🇸 Iceland | 5 |
 | 🇮🇹 Italy | 5 |
-| 🇦🇺 Australia | 4 |
 | 🇳🇿 New Zealand | 4 |
 | 🇩🇪 Germany | 4 |
 | 🇫🇷 France | 4 |
@@ -347,14 +349,14 @@ Total: 249
 
 | Decade | Count |
 |--------|-------|
+| 2020s | 67 |
 | 2010s | 66 |
-| 2020s | 66 |
 | 1970s | 35 |
 | 1990s | 33 |
 | 2000s | 24 |
 | 1980s | 20 |
+| 1960s | 2 |
 | 1890s | 1 |
 | 1870s | 1 |
-| 1960s | 1 |
 | 1910s | 1 |
 | 1950s | 1 |

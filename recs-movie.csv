@@ -1,5 +1,4 @@
 movie,year,country
-Brief Encounter,1945,🇬🇧 UK
 The Bridge on the River Kwai,1957,🇬🇧 UK
 Lawrence of Arabia,1962,🇬🇧 UK
 Doctor Zhivago,1965,🇬🇧 UK
@@ -11,6 +10,9 @@ Au hasard Balthazar,1966,🇫🇷 France
 Mouchette,1967,🇫🇷 France
 La Haine,1995,🇫🇷 France
 L’Avventura,1960,🇮🇹 Italy
+La Notte,1961,🇮🇹 Italy
+L'Eclisse,1962,🇮🇹 Italy
+Blowup,1966,🇮🇹 Italy
 La Dolce Vita,1960,🇮🇹 Italy
 8½,1963,🇮🇹 Italy
 The Last Emperor (L'ultimo imperatore),1987,🇮🇹 Italy
@@ -21,10 +23,8 @@ Häxan,1922,🇸🇪 Sweden
 Through a Glass Darkly (Såsom i en spegel),1961,🇸🇪 Sweden
 Winter Light (Nattvardsgästerna),1963,🇸🇪 Sweden
 The Silence (Tystnaden),1963,🇸🇪 Sweden
-Persona,1966,🇸🇪 Sweden
 A Swedish Love Story (En kärlekshistoria),1970,🇸🇪 Sweden
 Cries and Whispers (Viskningar och rop),1972,🇸🇪 Sweden
-Autumn Sonata (Höstsonaten),1978,🇸🇪 Sweden
 Fanny and Alexander (Fanny och Alexander),1982,🇸🇪 Sweden
 Let the Right One In (Låt den rätte komma in),2008,🇸🇪 Sweden
 The Passion of Joan of Arc (La Passion de Jeanne d’Arc),1928,🇩🇰 Denmark
@@ -37,6 +37,7 @@ Werckmeister Harmonies (Werckmeister harmóniák),2000,🇭🇺 Hungary
 The Cranes Are Flying (Летят журавли),1957,🇷🇺 Russia
 Solaris (Солярис),1972,🇷🇺 Russia
 Mirror (Зеркало),1975,🇷🇺 Russia
+Stalker (Сталкер),1979,🇷🇺 Russia
 Come and See (Ідзі і глядзі),1985,🇧🇾 Belarus
 Rashomon (羅生門 ),1950,🇯🇵 Japan
 Seven Samurai (七人の侍),1958,🇯🇵 Japan

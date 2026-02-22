@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-02-11T23:00:23Z
+date = 2026-02-22T22:02:44Z
 +++
 
 
@@ -8,7 +8,7 @@ date = 2026-02-11T23:00:23Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
-| Still Life | Noël Coward | 1936 | 🇬🇧 UK | 09/02/2026 |
+| Noël Coward | Still Life | 1936 | 🇬🇧 UK | 09/02/2026 |
 | Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden | 04/02/2026 |
 | Marguerite Duras | L'Amant | 1984 | 🇫🇷 France | 28/01/2026 |
 | Françoise Sagan | Bonjour tristesse | 1954 | 🇫🇷 France | 22/01/2026 |

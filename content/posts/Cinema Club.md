@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2026-02-11T23:00:24Z
+date = 2026-02-22T22:02:44Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-02-11T23:00:24Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Bufo & Spallanzani | 2001 | 🇧🇷 Brazil | 22/02/2026 |
 | Sentimental Value (Affeksjonsverdi) | 2025 | 🇳🇴 Norway | 01/02/2026 |
 
 ## 2025
@@ -40,7 +41,7 @@ date = 2026-02-11T23:00:24Z
 
 ## Stats
 
-Total: 24
+Total: 25
 
 | Country | Count |
 |---------|-------|
@@ -48,6 +49,7 @@ Total: 24
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇧🇷 Brazil | 1 |
 | 🇳🇴 Norway | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇫🇷 France | 1 |
