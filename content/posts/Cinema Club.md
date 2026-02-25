@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2026-02-22T22:02:44Z
+date = 2026-02-25T17:03:51Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-02-22T22:02:44Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Stalker (Сталкер) | 1979 | 🇷🇺 Russia | 08/02/2026 |
 | Bufo & Spallanzani | 2001 | 🇧🇷 Brazil | 22/02/2026 |
 | Sentimental Value (Affeksjonsverdi) | 2025 | 🇳🇴 Norway | 01/02/2026 |
 
@@ -41,7 +42,7 @@ date = 2026-02-22T22:02:44Z
 
 ## Stats
 
-Total: 25
+Total: 26
 
 | Country | Count |
 |---------|-------|
@@ -49,6 +50,7 @@ Total: 25
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇷🇺 Russia | 1 |
 | 🇧🇷 Brazil | 1 |
 | 🇳🇴 Norway | 1 |
 | 🇮🇪 Ireland | 1 |

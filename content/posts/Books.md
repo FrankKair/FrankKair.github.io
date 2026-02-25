@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-02-22T22:02:44Z
+date = 2026-02-25T17:03:51Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-02-22T22:02:44Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Castro Alves | O Navio Negreiro | 1870 | 🇧🇷 Brazil | 25/02/2026 |
 | Noël Coward | Still Life | 1936 | 🇬🇧 UK | 09/02/2026 |
 | Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden | 04/02/2026 |
 | Marguerite Duras | L'Amant | 1984 | 🇫🇷 France | 28/01/2026 |
@@ -196,7 +197,7 @@ date = 2026-02-22T22:02:44Z
 
 ## Stats
 
-Total: 145
+Total: 146
 
 | Country | Count |
 |---------|-------|
@@ -205,8 +206,8 @@ Total: 145
 | 🇯🇵 Japan | 12 |
 | 🇮🇪 Ireland | 9 |
 | 🇫🇷 France | 8 |
+| 🇧🇷 Brazil | 5 |
 | 🇷🇺 Russia | 5 |
-| 🇧🇷 Brazil | 4 |
 | 🇳🇴 Norway | 4 |
 | 🇫🇮 Finland | 4 |
 | 🇮🇹 Italy | 3 |

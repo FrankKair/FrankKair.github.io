@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-02-22T22:02:44Z
+date = 2026-02-25T17:03:51Z
 +++
 
 | author | book | year | country |
@@ -48,12 +48,12 @@ date = 2026-02-22T22:02:44Z
 | Marcus Aurelius | Meditations (Τὰ εἰς ἑαυτόν) | 170-180 | 🏛️ Rome |
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | José de Alencar | Iracema | 1865 | 🇧🇷 Brazil |
-| Castro Alves | O Navio Negreiro | 1870 | 🇧🇷 Brazil |
 | Aluísio Azevedo | O Cortiço | 1890 | 🇧🇷 Brazil |
 | Machado de Assis | Memórias Póstumas de Brás Cubas | 1881 | 🇧🇷 Brazil |
 | Machado de Assis | Quincas Borba | 1891 | 🇧🇷 Brazil |
 | Machado de Assis | Dom Casmurro | 1899 | 🇧🇷 Brazil |
 | Jorge Amado | Capitães da Areia | 1937 | 🇧🇷 Brazil |
+| Luís Vaz de Camões | Os Lusíadas | 1572 | 🇵🇹 Portugal |
 | Fernando Pessoa | Livro do Desassossego | 1982 | 🇵🇹 Portugal |
 | Miguel de Cervantes | Don Quixote | 1605 | 🇪🇸 Spain |
 | Voltaire | Candide | 1759 | 🇫🇷 France |
