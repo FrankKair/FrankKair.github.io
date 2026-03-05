@@ -1,21 +1,23 @@
 +++
 title = 'Books to read'
-date = 2026-02-25T17:03:51Z
+date = 2026-03-04T23:31:13Z
 +++
 
 | author | book | year | country |
 | --- | --- | --- | --- |
-| Lucius Annaeus Seneca | De Brevitate Vitae | 49 | 🏛  Rome |
+| Lucius Annaeus Seneca | De Brevitate Vitae | 49 | Rome |
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
+| Italo Calvino | Perché leggere i classici | 1991 | 🇮🇹 Italy |
+| Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
+| Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
 | Franz Kafka | Die Verwandlung | 1915 | 🇩🇪 Germany |
 | Solvej Balle | Ifølge loven | 1993 | 🇩🇰 Denmark |
 | Jenny Hval | Paradise Rot (Perlebryggeriet) | 2009 | 🇳🇴 Norway |
 | Tove Jansson | Trollkarlens hatt | 1948 | 🇫🇮 Finland |
 | Tove Jansson | Muminpappans memoarer | 1950 | 🇫🇮 Finland |
 | Tove Jansson | Sommarboken | 1972 | 🇫🇮 Finland |
-| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary |
 | Vladimir Nabokov | Lolita | 1955 | 🇷🇺 Russia |
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
@@ -38,14 +40,15 @@ date = 2026-02-25T17:03:51Z
 | Cormac McCarthy | The Road | 2006 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
 | ------------ |
-| Homer | Iliad (Ἰλιάς) | 8th century BC | 🏛️ Greece |
-| Homer | Odyssey (Ὀδύσσεια) | 8th century BC | 🏛️ Greece |
-| Theocritus | Idylls (Εἰδύλλια) | 3rd century BC | 🏛️ Greece |
-| Caesar | De Bello Gallico | 58-49 BC | 🏛️ Rome |
-| Virgil | Georgics | 36-29 BC | 🏛️ Rome |
-| Virgil | Aeneid | 19 BC | 🏛️ Rome |
-| Ovid | Metamorphoses | 8 | 🏛️ Rome |
-| Marcus Aurelius | Meditations (Τὰ εἰς ἑαυτόν) | 170-180 | 🏛️ Rome |
+| Homer | Iliad (Ἰλιάς) | 8th century BC | Ancient Greece |
+| Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece |
+| Homer | Homeric Hymns (Ὁμηρικοὶ ὕμνοι) | 8th century BC | Ancient Greece |
+| Theocritus | Idylls (Εἰδύλλια) | 3rd century BC | Ancient Greece |
+| Caesar | De Bello Gallico | 58-49 BC | Rome |
+| Virgil | Georgics | 36-29 BC | Rome |
+| Virgil | Aeneid | 19 BC | Rome |
+| Ovid | Metamorphoses | 8 | Rome |
+| Marcus Aurelius | Meditations (Τὰ εἰς ἑαυτόν) | 170-180 | Rome |
 | Han Kang | We Do Not Part (작별하지 않는다) | 2024 | 🇰🇷 South Korea |
 | José de Alencar | Iracema | 1865 | 🇧🇷 Brazil |
 | Aluísio Azevedo | O Cortiço | 1890 | 🇧🇷 Brazil |
@@ -56,11 +59,14 @@ date = 2026-02-25T17:03:51Z
 | Luís Vaz de Camões | Os Lusíadas | 1572 | 🇵🇹 Portugal |
 | Fernando Pessoa | Livro do Desassossego | 1982 | 🇵🇹 Portugal |
 | Miguel de Cervantes | Don Quixote | 1605 | 🇪🇸 Spain |
+| Mercè Rodoreda | La plaça del Diamant | 1962 | 🇪🇸 Spain |
+| Molière | Tartuffe | 1664 | 🇫🇷 France |
 | Voltaire | Candide | 1759 | 🇫🇷 France |
 | Honoré de Balzac |  |  | 🇫🇷 France |
 | Victor Hugo |  |  | 🇫🇷 France |
 | Émile Zola |  |  | 🇫🇷 France |
 | Gustave Flaubert | Madame Bovary | 1857 | 🇫🇷 France |
+| Frédéric Mistral | Mirèio | 1859 | 🇫🇷 France |
 | Marcel Proust |  |  | 🇫🇷 France |
 | Albert Camus | La Chute | 1956 | 🇫🇷 France |
 | Dante Alighieri | La Vita Nuova | 1294 | 🇮🇹 Italy |
@@ -69,9 +75,6 @@ date = 2026-02-25T17:03:51Z
 | Ludovico Ariosto | Orlando Furioso | 1516 | 🇮🇹 Italy |
 | Italo Calvino | Marcovaldo ovvero le stagioni in città | 1963 | 🇮🇹 Italy |
 | Italo Calvino | Se una notte d'inverno un viaggiatore | 1979 | 🇮🇹 Italy |
-| Italo Calvino | Perché leggere i classici | 1991 | 🇮🇹 Italy |
-| Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
-| Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
 | Anonymous | Nibelungenlied | 1200 | 🇩🇪 Germany |
 | Johann Wolfgang von Goethe | Die Leiden des jungen Werthers | 1774 | 🇩🇪 Germany |
 | Reiner Maria Rilke |  |  | 🇩🇪 Germany |
@@ -81,7 +84,6 @@ date = 2026-02-25T17:03:51Z
 | Hermann Hesse | Siddhartha | 1922 | 🇩🇪 Germany |
 | Hermann Hesse | Steppenwolf | 1927 | 🇩🇪 Germany |
 | Stefan Zweig | Schachnovelle | 1942 | 🇦🇹 Austria |
-| Stanisław Lem | Solaris | 1961 | 🇵🇱 Poland |
 | Alexander Pushkin | Eugene Onegin (Евгений Онегин) | 1833 | 🇷🇺 Russia |
 | Nikolai Gogol | Dead Souls (Мёртвые души) | 1842 | 🇷🇺 Russia |
 | Ivan Turgenev | Fathers and Sons (Отцы и дети) | 1862 | 🇷🇺 Russia |
@@ -96,7 +98,6 @@ date = 2026-02-25T17:03:51Z
 | Victoria Benedictsson | Pengar | 1885 | 🇸🇪 Sweden |
 | Hjalmar Söderberg | Doctor Glas | 1905 | 🇸🇪 Sweden |
 | Selma Lagerlöf | Nils Holgerssons underbara resa genom Sverige | 1906 | 🇸🇪 Sweden |
-| Pär Lagerkvist | Barabbas | 1950 | 🇸🇪 Sweden |
 | Tomas Tranströmer | The Half-Finished Heaven | 1962 | 🇸🇪 Sweden |
 | Elias Lönnrot | The Kalevala | 1835 | 🇫🇮 Finland |
 | Tove Jansson | Farlig midsommar | 1954 | 🇫🇮 Finland |

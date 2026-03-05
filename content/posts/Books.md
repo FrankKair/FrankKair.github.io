@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-02-25T17:03:51Z
+date = 2026-03-04T23:31:13Z
 +++
 
 
@@ -8,6 +8,8 @@ date = 2026-02-25T17:03:51Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Stanisław Lem | Solaris | 1961 | 🇵🇱 Poland | 05/03/2026 |
+| László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | 28/02/2026 |
 | Castro Alves | O Navio Negreiro | 1870 | 🇧🇷 Brazil | 25/02/2026 |
 | Noël Coward | Still Life | 1936 | 🇬🇧 UK | 09/02/2026 |
 | Selma Lagerlöf | Körkarlen | 1912 | 🇸🇪 Sweden | 04/02/2026 |
@@ -67,7 +69,7 @@ date = 2026-02-25T17:03:51Z
 | Samuel Beckett | Waiting For Godot | 1952 | 🇮🇪 Ireland | 16/12/2024 |
 | Tarjei Vesaas | The Ice Palace | 1963 | 🇳🇴 Norway | 09/12/2024 |
 | Emily Brontë | Wuthering Heights | 1847 | 🇬🇧 UK | 08/12/2024 |
-| Virgil | The Eclogues | 42-39 BC | 🏛  Rome | 28/11/2024 |
+| Virgil | The Eclogues | 42-39 BC | Rome | 28/11/2024 |
 | Sally Rooney | Intermezzo | 2024 | 🇮🇪 Ireland | 11/11/2024 |
 | R. F. Kuang | Yellowface | 2023 | 🇺🇸 USA | 04/11/2024 |
 | Coco Mellors | Blue Sisters | 2024 | 🇺🇸 USA | 19/09/2024 |
@@ -197,7 +199,7 @@ date = 2026-02-25T17:03:51Z
 
 ## Stats
 
-Total: 146
+Total: 148
 
 | Country | Count |
 |---------|-------|
@@ -215,10 +217,12 @@ Total: 146
 | 🇨🇴 Colombia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇳🇬 Nigeria | 2 |
+| 🇵🇱 Poland | 1 |
+| 🇭🇺 Hungary | 1 |
 | 🇮🇸 Iceland | 1 |
 | 🇩🇰 Denmark | 1 |
 | 🇮🇳 India | 1 |
-| 🏛  Rome | 1 |
+| Rome | 1 |
 | 🇨🇦 Canada | 1 |
 | 🇪🇸 Spain | 1 |
 | 🇬🇷 Greece | 1 |
