@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2026-03-04T23:31:13Z
+date = 2026-03-11T22:44:13Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-03-04T23:31:13Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Brief Encounter | 1945 | 🇬🇧 UK | 22/03/2026 |
 | Stalker (Сталкер) | 1979 | 🇷🇺 Russia | 08/02/2026 |
 | Bufo & Spallanzani | 2001 | 🇧🇷 Brazil | 22/02/2026 |
 | Sentimental Value (Affeksjonsverdi) | 2025 | 🇳🇴 Norway | 01/02/2026 |
@@ -42,11 +43,12 @@ date = 2026-03-04T23:31:13Z
 
 ## Stats
 
-Total: 26
+Total: 27
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 11 |
+| 🇬🇧 UK | 2 |
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
@@ -58,4 +60,3 @@ Total: 26
 | 🇭🇰 Hong Kong | 1 |
 | 🇮🇹 Italy | 1 |
 | 🇸🇪 Sweden | 1 |
-| 🇬🇧 UK | 1 |

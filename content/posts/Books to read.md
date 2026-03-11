@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-03-04T23:31:13Z
+date = 2026-03-11T22:44:13Z
 +++
 
 | author | book | year | country |
@@ -113,6 +113,7 @@ date = 2026-03-04T23:31:13Z
 | Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
 | Edmund Spenser | The Faerie Queene | 1590 | 🇬🇧 UK |
 | William Shakespeare | A Midsummer Night’s Dream | 1595 | 🇬🇧 UK |
+| William Shakespeare | Romeo and Juliet | 1597 | 🇬🇧 UK |
 | William Shakespeare | Hamlet | 1600 | 🇬🇧 UK |
 | William Shakespeare | Macbeth | 1606 | 🇬🇧 UK |
 | William Shakespeare | The Sonnets | 1609 | 🇬🇧 UK |
