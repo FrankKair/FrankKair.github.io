@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-03-11T22:44:13Z
+date = 2026-04-23T19:10:27Z
 +++
 
 | author | book | year | country |
@@ -39,6 +39,11 @@ date = 2026-03-11T22:44:13Z
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | Cormac McCarthy | The Road | 2006 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
+| ------------ |
+| Rene Karabash | She Who Remains (Остайница) | 2018 | 🇧🇬 Bulgaria |
+| Shahrnush Parsipur | Women Without Men (زنان بدون مردان) | 1989 | 🇮🇷 Iran |
+| Olga Ravn | The Wax Child (Voksbarnet) | 2023 | 🇩🇰 Denmark |
+| Marie NDiaye | La Sorcière | 1996 | 🇫🇷 France |
 | ------------ |
 | Homer | Iliad (Ἰλιάς) | 8th century BC | Ancient Greece |
 | Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece |
@@ -109,7 +114,6 @@ date = 2026-03-11T22:44:13Z
 | James Joyce | Ulysses | 1922 | 🇮🇪 Ireland   |
 | Seamus Heaney | North | 1975 | 🇮🇪 Ireland |
 | Claire Keegan | Antarctica | 1999 | 🇮🇪 Ireland |
-| Claire Keegan | Walk the Blue Fields | 2007 | 🇮🇪 Ireland |
 | Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
 | Edmund Spenser | The Faerie Queene | 1590 | 🇬🇧 UK |
 | William Shakespeare | A Midsummer Night’s Dream | 1595 | 🇬🇧 UK |
@@ -145,6 +149,7 @@ date = 2026-03-11T22:44:13Z
 | Simon Armitage | Sir Gawain and the Green Knight | 2007 | 🇬🇧 UK |
 | Zadie Smith | The Wife of Willesden | 2021 | 🇬🇧 UK |
 | Emily Dickinson |  |  | 🇺🇸 USA |
+| Henry Wadsworth Longfellow | Evangeline | 1847 | 🇺🇸 USA |
 | Nathaniel Hawthorne | The Scarlet Letter | 1850 | 🇺🇸 USA |
 | Walt Whitman | Leaves of Grass | 1855 | 🇺🇸 USA |
 | Mark Twain | The Adventures of Tom Sawyer | 1876 | 🇺🇸 USA |

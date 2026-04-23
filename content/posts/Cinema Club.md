@@ -1,6 +1,6 @@
 +++
 title = 'Cinema Club'
-date = 2026-03-11T22:44:13Z
+date = 2026-04-23T19:10:27Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-03-11T22:44:13Z
 
 | movie | year | country | watched |
 | --- | --- | --- | --- |
+| Come and See (Ідзі і глядзі) | 1985 | 🇧🇾 Belarus | 04/04/2026 |
 | Brief Encounter | 1945 | 🇬🇧 UK | 22/03/2026 |
 | Stalker (Сталкер) | 1979 | 🇷🇺 Russia | 08/02/2026 |
 | Bufo & Spallanzani | 2001 | 🇧🇷 Brazil | 22/02/2026 |
@@ -43,7 +44,7 @@ date = 2026-03-11T22:44:13Z
 
 ## Stats
 
-Total: 27
+Total: 28
 
 | Country | Count |
 |---------|-------|
@@ -52,6 +53,7 @@ Total: 27
 | 🇩🇪 Germany | 2 |
 | 🇯🇵 Japan | 2 |
 | 🇩🇰 Denmark | 2 |
+| 🇧🇾 Belarus | 1 |
 | 🇷🇺 Russia | 1 |
 | 🇧🇷 Brazil | 1 |
 | 🇳🇴 Norway | 1 |

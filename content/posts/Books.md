@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-03-11T22:44:13Z
+date = 2026-04-23T19:10:27Z
 +++
 
 
@@ -8,6 +8,9 @@ date = 2026-03-11T22:44:13Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Horace Walpole | The Castle of Otranto | 1764 | 🇬🇧 UK | 12/04/2026 |
+| Claire Keegan | Walk the Blue Fields | 2007 | 🇮🇪 Ireland | 06/04/2026 |
+| A. W. Camps | Introduction to Homer | 1980 | 🇬🇧 UK | 26/03/2026 |
 | Stanisław Lem | Solaris | 1961 | 🇵🇱 Poland | 05/03/2026 |
 | László Krasznahorkai | Satantango | 1985 | 🇭🇺 Hungary | 28/02/2026 |
 | Castro Alves | O Navio Negreiro | 1870 | 🇧🇷 Brazil | 25/02/2026 |
@@ -199,14 +202,14 @@ date = 2026-03-11T22:44:13Z
 
 ## Stats
 
-Total: 148
+Total: 151
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 44 |
-| 🇬🇧 UK | 35 |
+| 🇬🇧 UK | 37 |
 | 🇯🇵 Japan | 12 |
-| 🇮🇪 Ireland | 9 |
+| 🇮🇪 Ireland | 10 |
 | 🇫🇷 France | 8 |
 | 🇧🇷 Brazil | 5 |
 | 🇷🇺 Russia | 5 |
