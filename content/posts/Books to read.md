@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-04-23T19:10:27Z
+date = 2026-05-13T17:05:19Z
 +++
 
 | author | book | year | country |
@@ -9,6 +9,7 @@ date = 2026-04-23T19:10:27Z
 | Marcel Proust | La Fin de la jalousie | 1896 | 🇫🇷 France |
 | Charles Baudelaire | Les Fleurs du mal | 1857 | 🇫🇷 France |
 | Simone de Beauvoir | Mémoires d’une jeune fille rangée | 1958 | 🇫🇷 France |
+| Marie NDiaye | La Sorcière | 1996 | 🇫🇷 France |
 | Italo Calvino | Perché leggere i classici | 1991 | 🇮🇹 Italy |
 | Elena Ferrante | La figlia oscura | 2006 | 🇮🇹 Italy |
 | Domenico Starnone | Lacci | 2014 | 🇮🇹 Italy |
@@ -43,10 +44,8 @@ date = 2026-04-23T19:10:27Z
 | Rene Karabash | She Who Remains (Остайница) | 2018 | 🇧🇬 Bulgaria |
 | Shahrnush Parsipur | Women Without Men (زنان بدون مردان) | 1989 | 🇮🇷 Iran |
 | Olga Ravn | The Wax Child (Voksbarnet) | 2023 | 🇩🇰 Denmark |
-| Marie NDiaye | La Sorcière | 1996 | 🇫🇷 France |
 | ------------ |
 | Homer | Iliad (Ἰλιάς) | 8th century BC | Ancient Greece |
-| Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece |
 | Homer | Homeric Hymns (Ὁμηρικοὶ ὕμνοι) | 8th century BC | Ancient Greece |
 | Theocritus | Idylls (Εἰδύλλια) | 3rd century BC | Ancient Greece |
 | Caesar | De Bello Gallico | 58-49 BC | Rome |
@@ -65,6 +64,7 @@ date = 2026-04-23T19:10:27Z
 | Fernando Pessoa | Livro do Desassossego | 1982 | 🇵🇹 Portugal |
 | Miguel de Cervantes | Don Quixote | 1605 | 🇪🇸 Spain |
 | Mercè Rodoreda | La plaça del Diamant | 1962 | 🇪🇸 Spain |
+| Anonymous | La Chanson de Roland | 11th century | 🇫🇷 France |
 | Molière | Tartuffe | 1664 | 🇫🇷 France |
 | Voltaire | Candide | 1759 | 🇫🇷 France |
 | Honoré de Balzac |  |  | 🇫🇷 France |

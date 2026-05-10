@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-04-23T19:10:27Z
+date = 2026-05-13T17:05:19Z
 +++
 
 
@@ -8,6 +8,9 @@ date = 2026-04-23T19:10:27Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Hiroko Oyamada (小山田浩子) | The Hole (穴) | 2014 | 🇯🇵 Japan | 10/05/2026 |
+| Lily King | Heart the Lover | 2026 | 🇺🇸 USA | 10/05/2026 |
+| Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece | 01/05/2026 |
 | Horace Walpole | The Castle of Otranto | 1764 | 🇬🇧 UK | 12/04/2026 |
 | Claire Keegan | Walk the Blue Fields | 2007 | 🇮🇪 Ireland | 06/04/2026 |
 | A. W. Camps | Introduction to Homer | 1980 | 🇬🇧 UK | 26/03/2026 |
@@ -202,13 +205,13 @@ date = 2026-04-23T19:10:27Z
 
 ## Stats
 
-Total: 151
+Total: 154
 
 | Country | Count |
 |---------|-------|
-| 🇺🇸 USA | 44 |
+| 🇺🇸 USA | 45 |
 | 🇬🇧 UK | 37 |
-| 🇯🇵 Japan | 12 |
+| 🇯🇵 Japan | 13 |
 | 🇮🇪 Ireland | 10 |
 | 🇫🇷 France | 8 |
 | 🇧🇷 Brazil | 5 |
@@ -220,6 +223,7 @@ Total: 151
 | 🇨🇴 Colombia | 2 |
 | 🇰🇷 South Korea | 2 |
 | 🇳🇬 Nigeria | 2 |
+| Ancient Greece | 1 |
 | 🇵🇱 Poland | 1 |
 | 🇭🇺 Hungary | 1 |
 | 🇮🇸 Iceland | 1 |
