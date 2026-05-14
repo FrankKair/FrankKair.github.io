@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-05-13T17:05:19Z
+date = 2026-05-14T17:34:53Z
 +++
 
 
@@ -8,6 +8,7 @@ date = 2026-05-13T17:05:19Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Sayaka Murata (村田沙耶香) | Earthlings (地球星人) | 2018 | 🇯🇵 Japan | 14/05/2026 |
 | Hiroko Oyamada (小山田浩子) | The Hole (穴) | 2014 | 🇯🇵 Japan | 10/05/2026 |
 | Lily King | Heart the Lover | 2026 | 🇺🇸 USA | 10/05/2026 |
 | Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece | 01/05/2026 |
@@ -205,13 +206,13 @@ date = 2026-05-13T17:05:19Z
 
 ## Stats
 
-Total: 154
+Total: 155
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 45 |
 | 🇬🇧 UK | 37 |
-| 🇯🇵 Japan | 13 |
+| 🇯🇵 Japan | 14 |
 | 🇮🇪 Ireland | 10 |
 | 🇫🇷 France | 8 |
 | 🇧🇷 Brazil | 5 |
