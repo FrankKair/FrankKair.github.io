@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-05-14T17:34:53Z
+date = 2026-05-17T11:06:07Z
 +++
 
 | author | book | year | country |
@@ -32,7 +32,6 @@ date = 2026-05-14T17:34:53Z
 | George Orwell | Down and Out in Paris and London | 1933 | 🇬🇧 UK |
 | George Orwell | Cigarettes and Books | 1946 | 🇬🇧 UK |
 | Ted Hughes | Birthday Letters | 1998 | 🇬🇧 UK |
-| Seamus Heaney | Beowulf | 1999 | 🇬🇧 UK |
 | Ian McEwan | Atonement | 2001 | 🇬🇧 UK |
 | Zadie Smith | On Beauty | 2005 | 🇬🇧 UK |
 | Kazuo Ishiguro | Never Let Me Go | 2005 | 🇬🇧 UK |
@@ -146,7 +145,6 @@ date = 2026-05-14T17:34:53Z
 | J.R.R. Tolkien | The Hobbit | 1937 | 🇬🇧 UK |
 | Ted Hughes | Lupercal | 1960 | 🇬🇧 UK |
 | Richard Adams | Watership Down | 1972 | 🇬🇧 UK |
-| Simon Armitage | Sir Gawain and the Green Knight | 2007 | 🇬🇧 UK |
 | Zadie Smith | The Wife of Willesden | 2021 | 🇬🇧 UK |
 | Emily Dickinson |  |  | 🇺🇸 USA |
 | Henry Wadsworth Longfellow | Evangeline | 1847 | 🇺🇸 USA |

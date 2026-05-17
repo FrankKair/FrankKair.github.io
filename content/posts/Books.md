@@ -1,6 +1,6 @@
 +++
 title = 'Books'
-date = 2026-05-14T17:34:53Z
+date = 2026-05-17T11:06:07Z
 +++
 
 
@@ -8,9 +8,11 @@ date = 2026-05-14T17:34:53Z
 
 | author | book | year | country | date |
 | --- | --- | --- | --- | --- |
+| Anonymous (Simon Armitage) | Sir Gawain and the Green Knight | 2007 | 🇬🇧 UK | 17/05/2026 |
 | Sayaka Murata (村田沙耶香) | Earthlings (地球星人) | 2018 | 🇯🇵 Japan | 14/05/2026 |
 | Hiroko Oyamada (小山田浩子) | The Hole (穴) | 2014 | 🇯🇵 Japan | 10/05/2026 |
 | Lily King | Heart the Lover | 2026 | 🇺🇸 USA | 10/05/2026 |
+| Anonymous (Seamus Heaney) | Beowulf | 1999 | 🇬🇧 UK | 05/05/2026 |
 | Homer | Odyssey (Ὀδύσσεια) | 8th century BC | Ancient Greece | 01/05/2026 |
 | Horace Walpole | The Castle of Otranto | 1764 | 🇬🇧 UK | 12/04/2026 |
 | Claire Keegan | Walk the Blue Fields | 2007 | 🇮🇪 Ireland | 06/04/2026 |
@@ -206,12 +208,12 @@ date = 2026-05-14T17:34:53Z
 
 ## Stats
 
-Total: 155
+Total: 157
 
 | Country | Count |
 |---------|-------|
 | 🇺🇸 USA | 45 |
-| 🇬🇧 UK | 37 |
+| 🇬🇧 UK | 39 |
 | 🇯🇵 Japan | 14 |
 | 🇮🇪 Ireland | 10 |
 | 🇫🇷 France | 8 |
