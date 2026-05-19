@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-05-17T11:06:07Z
+date = 2026-05-19T08:25:45Z
 +++
 
 | author | book | year | country |
@@ -114,6 +114,7 @@ date = 2026-05-17T11:06:07Z
 | Seamus Heaney | North | 1975 | 🇮🇪 Ireland |
 | Claire Keegan | Antarctica | 1999 | 🇮🇪 Ireland |
 | Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
+| Christopher Marlowe | Dr. Faustus | 1588 | 🇬🇧 UK |
 | Edmund Spenser | The Faerie Queene | 1590 | 🇬🇧 UK |
 | William Shakespeare | A Midsummer Night’s Dream | 1595 | 🇬🇧 UK |
 | William Shakespeare | Romeo and Juliet | 1597 | 🇬🇧 UK |
