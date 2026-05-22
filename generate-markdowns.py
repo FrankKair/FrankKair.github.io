@@ -1,204 +1,195 @@
-from dataclasses import dataclass
+import csv
 from collections import Counter
 from datetime import datetime, timedelta
-import csv
-from abc import ABC, abstractmethod
+from pathlib import Path
+import tomllib
+
+from flags import FLAGS
 
 
-class Stats(ABC):
-    @abstractmethod
-    def write(self, input_csv_file, output):
-        raise NotImplementedError('Missing write Stats method')
+def load_config(path='publications.toml'):
+    with open(path, 'rb') as f:
+        return tomllib.load(f)
 
 
-class CountryStats(Stats):
-    def __init__(self):
-        self.count = 0
-        self.countries = Counter()
-
-    def write(self, input_csv_file, output):
-        with open(input_csv_file, 'r', encoding='utf-8') as csvfile:
-            parsed = csv.reader(csvfile)
-            country_column = None
-            for count, row in enumerate(parsed):
-                # Find 'country' header index
-                if count == 0:
-                    for index, header in enumerate(row):
-                        if header == 'country':
-                            country_column = index
-                            break
-                    continue
-                if not country_column:
-                    return
-
-                # Count occurrences
-                if row[0]:
-                    self.count += 1
-                    countries = row[country_column].split(' / ')
-                    for c in countries:
-                        self.countries[c] += 1
-
-        with open(output, 'a') as out:
-            out.write('\n## Stats\n\n')
-            out.write(f"Total: {self.count}\n")
-
-            sorted_items = self.countries.most_common()
-            out.write('\n| Country | Count |\n')
-            out.write('|---------|-------|\n')
-
-            for key, count in sorted_items:
-                out.write(f"| {str(key)} | {str(count)} |\n")
+def add_flag(value):
+    parts = value.split(' / ')
+    result = []
+    for part in parts:
+        part = part.strip()
+        if not part:
+            continue
+        # Already has a flag emoji (regional indicator symbols)
+        if any('\U0001F1E6' <= chr <= '\U0001F1FF' for chr in part):
+            result.append(part)
+        elif part in FLAGS:
+            result.append()
+        else:
+            result.append(part)
+    return ' / '.join(result)
 
 
-class MusicStats(Stats):
-    @dataclass(frozen=True)
-    class Album:
-        artist: str
-        album: str
-        year: int
-        country: str
-        review: str
-
-    def __init__(self):
-        self.data = []
-        self.count = 0
-        self.countries = Counter()
-        self.decades = Counter()
-
-    def add(self, album):
-        self.data.append(album)
-        self.count += 1
-        self.countries[album.country] += 1
-        decade = str(album.year // 10 * 10) + 's'
-        self.decades[decade] += 1
-
-    def parse_csv(self, filepath):
-        with open(filepath, 'r', encoding='utf-8') as csvfile:
-            parsed = csv.reader(csvfile)
-            for count, r in enumerate(parsed):
-                if count != 0 and r[0] != '':
-                    album = self.Album(r[0], r[1], int(r[2]), r[3], r[4])
-                    self.add(album)
-
-    def write(self, input_csv_file, output):
-        self.parse_csv(input_csv_file)
-        with open(output, 'a') as out:
-            out.write('\n## Stats\n\n')
-            out.write(f"Total: {self.count}\n")
-
-            sorted_items = self.countries.most_common()
-            out.write('\n| Country | Count |\n')
-            out.write('|---------|-------|\n')
-
-            for key, count in sorted_items:
-                out.write(f"| {str(key)} | {str(count)} |\n")
-
-            sorted_items = self.decades.most_common()
-            out.write('\n| Decade | Count |\n')
-            out.write('|--------|-------|\n')
-            for key, count in sorted_items:
-                out.write(f"| {str(key)} | {str(count)} |\n")
+def read_csv(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        headers = next(reader)
+        rows = [row for row in reader if row and row[0]]
+    return headers, rows
 
 
-class CsvToMarkdownPost:
-    def __init__(self, input_file, title=None, stats=None, by_year=False):
-        output_file = input_file.split('.')[0]
-        self.input_file = input_file
-        self.title = title
-        if not title:
-            self.title = output_file
-        self.output = f"content/posts/{self.title}.md"
-        self.headers = []
-        self.rows = []
-        self.stats = stats
-        self.by_year = by_year
-        self.write()
+def extract_year_from_date(value):
+    """Extract year from dd/mm/yyyy format/"""
+    parts = value.strip().split('/')
+    if len(parts) == 3:
+        return parts[2]
+    return None
 
-    def write(self):
-        self.write_headers()
-        self.write_data()
-        if self.stats:
-            self.stats.write(self.input_file, self.output)
 
-    def write_headers(self):
-        with open(self.output, 'w') as out:
-            out.write('+++\n')
-            out.write(f"title = '{self.title}'\n")
-            date = datetime.now() - timedelta(hours=1)
-            formatted = date.isoformat(timespec='seconds') + 'Z'
-            out.write(f"date = {formatted}\n")
-            out.write('+++\n\n')
+def compute_stats(headers, rows, stat_configs):
+    """
+    Compute stats based on declared config list.
+    Supported formats:
+    - country     -> count occurrences in the country column (split on '/')
+    - decade:year -> bucket 'year' column values into decades
+    """
+    output_lines = []
+    total = len(rows)
+    output_lines.append('\n## Stats\n')
+    output_lines.append(f"Total: {total}")
 
-    def write_data(self):
-        def year(date):
-            return date.split('/')[-1]
+    for stat in stat_configs:
+        if ':' in stat:
+            stat_type, column_name = stat.split(':', 1)
+        else:
+            stat_type = stat
+            column_name = stat
 
-        with open(self.input_file, 'r', encoding='utf-8') as csvfile:
-            parsed = csv.reader(csvfile)
-            for count, row in enumerate(parsed):
-                if count == 0:
-                    self.headers = row
-                else:
-                    self.rows.append(row)
+        if column_name not in headers:
+            continue
 
-        top_header = ''
-        next_line = ''
-        for header in self.headers:
-            top_header += f"| {header} "
-            next_line += '| --- '
-        top_header += '|'
-        next_line += '|'
+        col_idx = headers.index(column_name)
+        counter = Counter()
 
-        years = set()
-        with open(self.output, 'a') as out:
-            for count, row in enumerate(self.rows):
-                if self.by_year:
-                    curr_year = year(row[-1])
-                    if curr_year not in years:
-                        years.add(curr_year)
-                        out.write(f"\n## {curr_year}\n\n")
-                        out.write(f"{top_header}\n")
-                        out.write(f"{next_line}\n")
-                elif count == 0:
-                    out.write(f"{top_header}\n")
-                    out.write(f"{next_line}\n")
+        if stat_type == 'country':
+            for row in rows:
+                values = row[col_idx].split(' / ')
+                for v in values:
+                    if v.strip():
+                        counter[v.strip()] += 1
+            label = 'Country'
+        elif stat_type == 'decade':
+            for row in rows:
+                try:
+                    year = int(row[col_idx])
+                    decade = f"{year // 10 * 10}s"
+                    counter[decade] += 1
+                except (ValueError, IndexError):
+                    pass
+            label = 'Decade'
+        else:
+            continue
 
-                line = ''
-                for content in row:
-                    line += f"| {content} "
-                line += '|\n'
-                out.write(line)
+        sorted_items = counter.most_common()
+        output_lines.append(f"\n| {label} | Count |")
+        output_lines.append('|---------|-------|')
+        for key, count in sorted_items:
+            output_lines.append(f"| {key} | {count} |")
+
+    return '\n'.join(output_lines) + '\n'
+
+
+def build_table_header(headers):
+    top = ''
+    sep = ''
+    for h in headers:
+        top += f"| {h} "
+        sep += '| --- '
+    top += '|'
+    sep += '|'
+    return top, sep
+
+
+def build_row(row):
+    line = ''
+    for content in row:
+        line += f"| {content} "
+    line += '|'
+    return line
+
+
+def generate_post(pub):
+    csv_file = pub['csv']
+    title = pub.get('title', Path(csv_file).stem)
+    group_by = pub.get('group_by')
+    stats_configs = pub.get('stats', [])
+    published = pub.get('published', True)
+
+    if not published:
+        return
+
+    if not Path(csv_file).exists():
+        print(f"  Skipping {csv_file} (file not found)")
+
+    headers, rows = read_csv(csv_file)
+    output_path = Path('content/posts') / f"{title}.md"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    country_cols = []
+    for stat in stats_configs:
+        col_name = stat.split(':', 1)[-1] if ':' in stat else stat
+        stat_type = stat.split(':', 1)[0] if ':' in stat else stat
+        if stat_type == 'country' and col_name in headers:
+            country_cols.append(headers.index(col_name))
+
+    for row in rows:
+        for col_idx in country_cols:
+            if col_idx < len(row) and row[col_idx]:
+                row[col_idx] = add_flag(row[col_idx])
+
+    lines = []
+
+    # Hugo front matter
+    lines.append('+++')
+    lines.append(f"title = '{title}'")
+    date = datetime.now() - timedelta(hours=1)
+    lines.append(f"date = {date.isoformat(timespec='seconds')}Z")
+    lines.append('+++\n')
+
+    # Table data
+    top_header, sep = build_table_header(headers)
+
+    if group_by and group_by in headers:
+        col_idx = headers.index(group_by)
+        seen_years = set()
+        for row in rows:
+            date_val = row[col_idx] if col_idx < len(row) else ''
+            year = extract_year_from_date(date_val)
+            if year and year not in seen_years:
+                seen_years.add(year)
+                lines.append(f"\n## {year}\n")
+                lines.append(top_header)
+                lines.append(sep)
+            lines.append(build_row(row))
+    else:
+        lines.append(top_header)
+        lines.append(sep)
+        for row in rows:
+            lines.append(build_row(row))
+
+    if stats_configs:
+        lines.append(compute_stats(headers, rows, stats_configs))
+
+    output_path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+    print(f"  {output_path}")
+
+
+def main():
+    publications = load_config().get('publication', [])
+    print(f"Generating {len(publications)} publications:")
+    for p in publications:
+        generate_post(p)
+    print('✅ Done!')
 
 
 if __name__ == '__main__':
-    # CsvToMarkdownPost(
-    #     input_file='travelling.csv',
-    #     title='Travelling',
-    #     stats=CountryStats()
-    # )
-
-    CsvToMarkdownPost(
-        input_file='books.csv',
-        title='Books',
-        stats=CountryStats(),
-        by_year=True
-    )
-
-    CsvToMarkdownPost(
-        input_file='music.csv',
-        title='Music',
-        stats=MusicStats(),
-        by_year=True
-    )
-
-    CsvToMarkdownPost(
-        input_file='books-to-read.csv',
-        title='Books to read'
-    )
-
-    CsvToMarkdownPost(
-        input_file='cinema-club.csv',
-        title='Cinema Club',
-        stats=CountryStats(),
-        by_year=True,
-    )
+    main()
