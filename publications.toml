@@ -1,28 +1,28 @@
 [[publication]]
 title = "Books"
-csv = "data/books.csv"
+csv = "csv/books.csv"
 group_by = "date"
 stats = ["country"]
 
 [[publication]]
 title = "Music"
-csv = "data/music.csv"
+csv = "csv/music.csv"
 group_by = "review"
 stats = ["country", "decade:year"]
 
 [[publication]]
 title = "Books to read"
-csv = "data/books-to-read.csv"
+csv = "csv/books-to-read.csv"
 stats = ["country"]
 
 [[publication]]
 title = "Cinema Club"
-csv = "data/cinema-club.csv"
+csv = "csv/cinema-club.csv"
 group_by = "watched"
 stats = ["country"]
 
 [[publication]]
 title = "Movies"
-csv = "data/movies.csv"
+csv = "csv/movies.csv"
 group_by = "watched"
 stats = ["country"]
