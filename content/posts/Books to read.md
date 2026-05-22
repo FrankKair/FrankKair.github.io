@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-05-22T08:33:45Z
+date = 2026-05-22T08:56:08Z
 +++
 
 | author | book | year | country |
@@ -23,7 +23,7 @@ date = 2026-05-22T08:33:45Z
 | Mikhail Bulgakov | The Master and Margarita (Мастер и Маргарита) | 1967 | 🇷🇺 Russia |
 | Julio Cortázar | Final del juego | 1956 | 🇦🇷 Argentina |
 | Chinua Achebe | Things Fall Apart | 1958 | 🇳🇬 Nigeria |
-| Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |  |
+| Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | 2009 | 🇵🇱 Poland |
 | J.M. Coetzee | The Childhood of Jesus | 2013 | 🇿🇦 South Africa |
 | Orhan Pamuk | The Red-Haired Woman | 2016 | 🇹🇷 Turkey |  |
 | Min Jin Lee | Pachinko (파친코) | 2017 | 🇰🇷 South Korea |

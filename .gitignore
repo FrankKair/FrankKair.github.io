@@ -3,4 +3,4 @@ __pycache__/
 themes/
 public/
 resources/
-content/posts/
+content/*
