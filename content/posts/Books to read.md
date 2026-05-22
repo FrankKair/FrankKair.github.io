@@ -1,6 +1,6 @@
 +++
 title = 'Books to read'
-date = 2026-05-19T08:25:45Z
+date = 2026-05-22T08:33:45Z
 +++
 
 | author | book | year | country |
@@ -39,11 +39,9 @@ date = 2026-05-19T08:25:45Z
 | Toni Morrison | Beloved | 1987 | 🇺🇸 USA |
 | Cormac McCarthy | The Road | 2006 | 🇺🇸 USA |
 | André Aciman | Call Me By Your Name | 2007 | 🇺🇸 USA |
-| ------------ |
 | Rene Karabash | She Who Remains (Остайница) | 2018 | 🇧🇬 Bulgaria |
 | Shahrnush Parsipur | Women Without Men (زنان بدون مردان) | 1989 | 🇮🇷 Iran |
 | Olga Ravn | The Wax Child (Voksbarnet) | 2023 | 🇩🇰 Denmark |
-| ------------ |
 | Homer | Iliad (Ἰλιάς) | 8th century BC | Ancient Greece |
 | Homer | Homeric Hymns (Ὁμηρικοὶ ὕμνοι) | 8th century BC | Ancient Greece |
 | Theocritus | Idylls (Εἰδύλλια) | 3rd century BC | Ancient Greece |
@@ -110,7 +108,7 @@ date = 2026-05-19T08:25:45Z
 | Tove Jansson | Sent i november | 1970 | 🇫🇮 Finland |
 | Tove Jansson | Rent Spel | 1989 | 🇫🇮 Finland |
 | W.B. Yeats |  |  | 🇮🇪 Ireland |
-| James Joyce | Ulysses | 1922 | 🇮🇪 Ireland   |
+| James Joyce | Ulysses | 1922 | 🇮🇪 Ireland |
 | Seamus Heaney | North | 1975 | 🇮🇪 Ireland |
 | Claire Keegan | Antarctica | 1999 | 🇮🇪 Ireland |
 | Geoffrey Chaucer | The Canterbury Tales | 1387 | 🇬🇧 UK |
@@ -167,3 +165,37 @@ date = 2026-05-19T08:25:45Z
 | Harper Lee | To Kill a Mockingbird | 1960 | 🇺🇸 USA |
 | Alice Walker | The Color Purple | 1982 | 🇺🇸 USA |
 | Elizabeth Strout | Olive Kitteridge | 2008 | 🇺🇸 USA |
+
+## Stats
+
+Total: 160
+
+| Country | Count |
+|---------|-------|
+| 🇬🇧 UK | 42 |
+| 🇺🇸 USA | 24 |
+| 🇫🇷 France | 14 |
+| 🇮🇹 Italy | 9 |
+| 🇩🇪 Germany | 9 |
+| 🇫🇮 Finland | 9 |
+| 🇷🇺 Russia | 7 |
+| Rome | 6 |
+| 🇧🇷 Brazil | 6 |
+| 🇸🇪 Sweden | 5 |
+| 🇮🇪 Ireland | 4 |
+| 🇩🇰 Denmark | 3 |
+| 🇳🇴 Norway | 3 |
+| Ancient Greece | 3 |
+| 🇰🇷 South Korea | 2 |
+| 🇵🇹 Portugal | 2 |
+| 🇪🇸 Spain | 2 |
+| 🇮🇸 Iceland | 2 |
+| 🇦🇷 Argentina | 1 |
+| 🇳🇬 Nigeria | 1 |
+| 🇵🇱 Poland | 1 |
+| 🇿🇦 South Africa | 1 |
+| 🇹🇷 Turkey | 1 |
+| 🇧🇬 Bulgaria | 1 |
+| 🇮🇷 Iran | 1 |
+| 🇦🇹 Austria | 1 |
+
