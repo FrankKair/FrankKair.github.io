@@ -1,6 +1,5 @@
 author,book,year,country
 Lucius Annaeus Seneca,De Brevitate Vitae,49,Rome
-Marcel Proust,La Fin de la jalousie,1896,🇫🇷 France
 Charles Baudelaire,Les Fleurs du mal,1857,🇫🇷 France
 Simone de Beauvoir,Mémoires d’une jeune fille rangée,1958,🇫🇷 France
 Marie NDiaye,La Sorcière,1996,🇫🇷 France
@@ -84,11 +83,23 @@ Alexander Pushkin,Eugene Onegin (Евгений Онегин),1833,🇷🇺 Russ
 Nikolai Gogol,Dead Souls (Мёртвые души),1842,🇷🇺 Russia
 Ivan Turgenev,Fathers and Sons (Отцы и дети),1862,🇷🇺 Russia
 Ivan Turgenev,First Love and Other Stories,1881,🇷🇺 Russia
+Leo Tolstoy,The Death of Ivan Ilych,1886,🇷🇺 Russia
+Anton Chekhov,The Duel,1891,🇷🇺 Russia
+Anton Chekhov,The Seagull,1895,🇷🇺 Russia
+Anton Chekhov,Uncle Vanya,1897,🇷🇺 Russia
+Anton Chekhov,Three Sisters,1900,🇷🇺 Russia
 Boris Pasternak,Doctor Zhivago (Доктор Живаго),1957,🇷🇺 Russia
+Vladimir Nabokov,Lectures on Russian Literature,1981,🇷🇺 Russia
+Vladimir Nabokov,Lectures on Literature,1982,🇷🇺 Russia
 Snorri Sturluson,Prose Edda,1220,🇮🇸 Iceland
 Anonymous,Poetic Edda,1270,🇮🇸 Iceland
+Henrik Ibsen,Peer Gynt,1867,🇳🇴 Norway
+Henrik Ibsen,Et dukkehjem,1879,🇳🇴 Norway
+Henrik Ibsen,Gengangere,1881,🇳🇴 Norway
+Henrik Ibsen,Vildanden,1884,🇳🇴 Norway
+Henrik Ibsen,Fruen fra havet,1888,🇳🇴 Norway
+Henrik Ibsen,Bygmester Solness,1892,🇳🇴 Norway
 Knut Hamsun,Sult,1890,🇳🇴 Norway
-Henrik Ibsen,,,🇳🇴 Norway
 Tove Ditlevsen,Childhood Youth Dependency,1967,🇩🇰 Denmark
 August Strindberg,Röda Rummet,1879,🇸🇪 Sweden
 Victoria Benedictsson,Pengar,1885,🇸🇪 Sweden
@@ -103,6 +114,7 @@ Tove Jansson,Sent i november,1970,🇫🇮 Finland
 Tove Jansson,Rent Spel,1989,🇫🇮 Finland
 W.B. Yeats,,,🇮🇪 Ireland
 James Joyce,Ulysses,1922,🇮🇪 Ireland  
+James Joyce,Finnegans Wake,1939,🇮🇪 Ireland  
 Seamus Heaney,North,1975,🇮🇪 Ireland
 Claire Keegan,Antarctica,1999,🇮🇪 Ireland
 Geoffrey Chaucer,The Canterbury Tales,1387,🇬🇧 UK
@@ -146,10 +158,13 @@ Walt Whitman,Leaves of Grass,1855,🇺🇸 USA
 Mark Twain,The Adventures of Tom Sawyer,1876,🇺🇸 USA
 Henry James,The Europeans,1878,🇺🇸 USA
 Henry James,Washington Square,1880,🇺🇸 USA
+Henry James,The Turn of the Screw,1898,🇺🇸 USA
 F. Scott Fitzgerald,This Side of Paradise,1920,🇺🇸 USA
 F. Scott Fitzgerald,The Great Gatsby,1925,🇺🇸 USA
 Robert Frost,,,🇺🇸 USA
 Ezra Pound,,,🇺🇸 USA
+Edith Wharton,Ethan Frome,1911,🇺🇸 USA
+Edith Wharton,Summer,1917,🇺🇸 USA
 T.S. Elliot,The Waste Land,1922,🇺🇸 USA
 John Steinbeck,The Grapes of Wrath,1939,🇺🇸 USA
 John Steinbeck,East of Eden,1952,🇺🇸 USA
