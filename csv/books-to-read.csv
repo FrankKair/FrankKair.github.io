@@ -1,4 +1,8 @@
 author,book,year,country
+Tove Jansson,Sommarboken,1972,🇫🇮 Finland
+Cesare Pavese,La bella estate,1949,🇮🇹 Italy
+Edith Wharton,Summer,1917,🇺🇸 USA
+Natalia Ginzburg,Lessico Famigliare,1963,🇮🇹 Italy
 Lucius Annaeus Seneca,De Brevitate Vitae,49,Rome
 Charles Baudelaire,Les Fleurs du mal,1857,🇫🇷 France
 Simone de Beauvoir,Mémoires d’une jeune fille rangée,1958,🇫🇷 France
@@ -11,7 +15,6 @@ Solvej Balle,Ifølge loven,1993,🇩🇰 Denmark
 Jenny Hval,Paradise Rot (Perlebryggeriet),2009,🇳🇴 Norway
 Tove Jansson,Trollkarlens hatt,1948,🇫🇮 Finland
 Tove Jansson,Muminpappans memoarer,1950,🇫🇮 Finland
-Tove Jansson,Sommarboken,1972,🇫🇮 Finland
 Vladimir Nabokov,Lolita,1955,🇷🇺 Russia
 Mikhail Bulgakov,The Master and Margarita (Мастер и Маргарита),1967,🇷🇺 Russia
 Julio Cortázar,Final del juego,1956,🇦🇷 Argentina
@@ -32,9 +35,6 @@ Sylvia Plath,Ariel,1965,🇺🇸 USA
 Toni Morrison,Beloved,1987,🇺🇸 USA
 Cormac McCarthy,The Road,2006,🇺🇸 USA
 André Aciman,Call Me By Your Name,2007,🇺🇸 USA
-Rene Karabash,She Who Remains (Остайница),2018,🇧🇬 Bulgaria
-Shahrnush Parsipur,Women Without Men (زنان بدون مردان),1989,🇮🇷 Iran
-Olga Ravn,The Wax Child (Voksbarnet),2023,🇩🇰 Denmark
 Homer,Iliad (Ἰλιάς),8th century BC,Ancient Greece
 Homer,Homeric Hymns (Ὁμηρικοὶ ὕμνοι),8th century BC,Ancient Greece
 Theocritus,Idylls (Εἰδύλλια),3rd century BC,Ancient Greece
@@ -71,6 +71,8 @@ Dante Alighieri,La Vita Nuova,1294,🇮🇹 Italy
 Dante Alighieri,Divina Commedia,1320,🇮🇹 Italy
 Giovanni Boccaccio,Decameron,1348,🇮🇹 Italy
 Ludovico Ariosto,Orlando Furioso,1516,🇮🇹 Italy
+Cesare Pavese,Tra donne sole,1949,🇮🇹 Italy
+Cesare Pavese,Il diavolo sulle colline,1949,🇮🇹 Italy
 Italo Calvino,Marcovaldo ovvero le stagioni in città,1963,🇮🇹 Italy
 Italo Calvino,Se una notte d'inverno un viaggiatore,1979,🇮🇹 Italy
 Anonymous,Nibelungenlied,1200,🇩🇪 Germany
@@ -179,7 +181,6 @@ F. Scott Fitzgerald,The Great Gatsby,1925,🇺🇸 USA
 Robert Frost,,,🇺🇸 USA
 Ezra Pound,,,🇺🇸 USA
 Edith Wharton,Ethan Frome,1911,🇺🇸 USA
-Edith Wharton,Summer,1917,🇺🇸 USA
 T.S. Elliot,The Waste Land,1922,🇺🇸 USA
 John Steinbeck,The Grapes of Wrath,1939,🇺🇸 USA
 John Steinbeck,East of Eden,1952,🇺🇸 USA
@@ -189,3 +190,5 @@ J. D. Salinger,The Catcher in the Rye,1951,🇺🇸 USA
 Harper Lee,To Kill a Mockingbird,1960,🇺🇸 USA
 Alice Walker,The Color Purple,1982,🇺🇸 USA
 Elizabeth Strout,Olive Kitteridge,2008,🇺🇸 USA
+Susan Choi,Flashlight,2025,🇺🇸 USA
+Ocean Vuong,On Earth We're Briefly Gorgeous,2019,🇻🇳 Vietnam
