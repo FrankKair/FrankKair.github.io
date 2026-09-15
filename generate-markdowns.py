@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 import tomllib
 
-from flags import FLAGS
+from countries import FLAGS
 
 
 def load_config(path='publications.toml'):
@@ -12,21 +12,29 @@ def load_config(path='publications.toml'):
         return tomllib.load(f)
 
 
-def add_flag(value):
-    parts = value.split(' / ')
-    result = []
-    for part in parts:
-        part = part.strip()
-        if not part:
-            continue
-        # Already has a flag emoji (regional indicator symbols)
-        if any('\U0001F1E6' <= chr <= '\U0001F1FF' for chr in part):
-            result.append(part)
-        elif part in FLAGS:
-            result.append()
-        else:
-            result.append(part)
-    return ' / '.join(result)
+def flag_emoji(country: str) -> str:
+    """
+    flag_emoji("United Kingdom") -> "🇬🇧"
+    """
+    code = FLAGS[country]
+    return "".join(chr(127397 + ord(char)) for char in code.upper())
+
+
+def country_label(country: str) -> str:
+    """
+    country_label("United Kingdom") -> "🇬🇧 United Kingdom"
+    """
+    return f"{flag_emoji(country)} {country}"
+
+
+def add_flags(value: str) -> str:
+    """Format one or more slash-separated country names with flags."""
+    countries = [country.strip() for country in value.split('/')]
+    return ' / '.join(
+        country_label(country) if country in FLAGS else country
+        for country in countries
+        if country
+    )
 
 
 def read_csv(filepath):
@@ -129,6 +137,7 @@ def generate_post(pub):
 
     if not Path(csv_file).exists():
         print(f"  Skipping {csv_file} (file not found)")
+        return
 
     headers, rows = read_csv(csv_file)
     output_path = Path('content/posts') / f"{title}.md"
@@ -144,7 +153,7 @@ def generate_post(pub):
     for row in rows:
         for col_idx in country_cols:
             if col_idx < len(row) and row[col_idx]:
-                row[col_idx] = add_flag(row[col_idx])
+                row[col_idx] = add_flags(row[col_idx])
 
     lines = []
 
