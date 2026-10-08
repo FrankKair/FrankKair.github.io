@@ -6,15 +6,15 @@ Frank’s personal website: writing and collections of books, films, music, trav
 
 ```text
 Writing & About (Markdown) -----------------+
-                                           |
+                                            |
 Collections (CSV) --> Python ---------------+--> Hugo
-                     flags, years & stats  |      |
-                                           |      v
+                     flags, years & stats   |      |
+                                            |      v
 Design (templates + CSS) -------------------+   public/
                                                HTML + CSS
-                                                  |
-                                                  v
-                                             GitHub Pages
+                                                   |
+                                                   v
+                                              GitHub Pages
 ```
 
 **Hugo is the build engine; there is no theme.** Our templates in `layouts/` and stylesheet in `assets/css/site.css` define the design. Python prepares the CSV collections before Hugo builds. Visitors receive static files—neither Hugo nor Python runs on the server.
