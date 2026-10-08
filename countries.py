@@ -1,3 +1,5 @@
+"""Country labels mapped to ISO codes for generated flag emoji."""
+
 FLAGS: dict[str, str] = {
     "Andorra": "ad",
     "United Arab Emirates": "ae",
@@ -60,6 +62,7 @@ FLAGS: dict[str, str] = {
     "France": "fr",
     "Gabon": "ga",
     "United Kingdom": "gb",
+    "UK": "gb",
     "Grenada": "gd",
     "Georgia": "ge",
     "Ghana": "gh",
@@ -72,6 +75,7 @@ FLAGS: dict[str, str] = {
     "Guyana": "gy",
     "Honduras": "hn",
     "Croatia": "hr",
+    "Hong Kong": "hk",
     "Haiti": "ht",
     "Hungary": "hu",
     "Indonesia": "id",
@@ -176,6 +180,7 @@ FLAGS: dict[str, str] = {
     "Tunisia": "tn",
     "Tonga": "to",
     "Turkey": "tr",
+    "Türkiye": "tr",
     "Trinidad and Tobago": "tt",
     "Tuvalu": "tv",
     "Taiwan": "tw",
@@ -183,6 +188,7 @@ FLAGS: dict[str, str] = {
     "Ukraine": "ua",
     "Uganda": "ug",
     "United States": "us",
+    "USA": "us",
     "Uruguay": "uy",
     "Uzbekistan": "uz",
     "Vatican City": "va",

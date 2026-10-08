@@ -2,7 +2,7 @@
 
 ## What changed
 
-The former Cactus site published five CSV logs as timestamped, untracked posts. The redesign separates authored writing from generated collections and publishes all nine logs. CSV source files and root-level notes were left untouched.
+The former Cactus site published five CSV logs as timestamped, untracked posts. The redesign separates authored writing from generated collections and publishes all nine logs. Entries and root-level notes are preserved; source CSVs now use plain country names, with flags supplied by `countries.py`.
 
 - **Design:** custom Hugo templates and one stylesheet, with system light/dark mode, readable articles, accessible navigation and contained scrolling for collection tables.
 - **Generation:** deterministic Markdown and JSON; all fields, flags, partial dates and blank entries retained. Years sort newest first, with CSV order preserved within each year and an explicit Undated group. Statistics retain the existing country/decade rules.
@@ -32,8 +32,8 @@ The five legacy generated filenames remain ignored by Git and Hugo, preventing o
 
 ## Verification
 
-- All nine CSV hashes unchanged; all **922 entries** preserved. The 721 previously published entries match the baseline after accounting for Markdown smart punctuation and regrouping undated films.
-- Seven standard-library tests cover data preservation, statistics, dates, repeatability, source/article protection, malformed input and unpublishing. Built-page checks validate every collection cell, redirects, internal links and RSS.
+- All **922 entries** preserved. The revamp initially kept CSV hashes unchanged; the later flag cleanup removed flag prefixes and stray country whitespace, preserving row order and other fields while producing identical generated data and published output. The 721 previously published entries match the baseline after accounting for Markdown smart punctuation and regrouping undated films.
+- Eight standard-library tests cover data preservation, country flags, plain-text CSVs, statistics, dates, repeatability, source/article protection, malformed input and unpublishing. Built-page checks validate every collection cell, redirects, internal links and RSS.
 - Repeated builds were byte-identical. After theme removal, `make check` passed with installed Hugo 0.167.0 without warnings; CSS was unchanged.
 - Firefox checked 14 pages, including a temporary article, at **320, 375, 768 and 1440px** in light/dark mode: **112 combinations**. No page overflow; table scrolling, expanded statistics and keyboard focus worked. Body and muted text contrast exceeded 4.5:1.
 

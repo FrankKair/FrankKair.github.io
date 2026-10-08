@@ -33,6 +33,8 @@ CI pins Hugo 0.167.0 and Python 3.12. To use other executable paths, pass `HUGO=
 
 **Collections:** edit the relevant file in `csv/`, keeping its headers and quoting fields containing commas. Dates use `dd/mm/yyyy`; partial dates and blanks are supported. Entries keep their CSV order within each year. Run `make check`, then commit the CSV.
 
+Type plain country names (`UK`, `USA`, `Japan`), separating multiple countries with ` / `. `countries.py` supplies flags at build time; add missing names there. Historical labels such as `Rome` stay unflagged.
+
 `publications.toml` controls categories, labels, year grouping and statistics. Add a category with a unique `slug`, `title` and `csv` path; set `published = false` to hide it. Generated Markdown and JSON are ignored by Git. The generator never rewrites CSVs or authored articles.
 
 **Writing:** create an article with:

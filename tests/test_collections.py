@@ -90,10 +90,20 @@ class CollectionTests(unittest.TestCase):
 
     def test_flags_and_statistics(self):
         self.assertEqual(generator.add_flags("United Kingdom / 🇫🇷 France / Rome"), "🇬🇧 United Kingdom / 🇫🇷 France / Rome")
+        self.assertEqual(generator.add_flags("UK / USA / Türkiye / Hong Kong"), "🇬🇧 UK / 🇺🇸 USA / 🇹🇷 Türkiye / 🇭🇰 Hong Kong")
+        self.assertEqual(generator.add_flags("Ancient Greece / Rome"), "Ancient Greece / Rome")
+        self.assertEqual(generator.add_flags(" Canada/USA "), "🇨🇦 Canada / 🇺🇸 USA")
+        flags = generator.add_flags("UK / USA / Türkiye / Hong Kong")
+        self.assertEqual(generator.add_flags(flags), flags)
         rows = [["🇬🇧 UK / 🇫🇷 France", "1999"], ["🇬🇧 UK", "2001"], ["Rome", "8th century BC"]]
         stats = generator.compute_stats(["country", "year"], rows, ["country", "decade:year"])
         self.assertEqual(dict(stats[0]["items"]), {"🇬🇧 UK": 2, "🇫🇷 France": 1, "Rome": 1})
         self.assertEqual(dict(stats[1]["items"]), {"1990s": 1, "2000s": 1})
+
+    def test_source_csvs_have_no_embedded_flags(self):
+        for path in (self.root / "csv").glob("*.csv"):
+            with self.subTest(csv=path.name):
+                self.assertNotRegex(path.read_text(encoding="utf-8"), "[🇦-🇿]")
 
     def test_unpublishing_removes_only_generated_pages(self):
         generator.generate(self.root)
