@@ -1,0 +1,11 @@
+<ul class="collection-grid">
+  {{ range . }}
+  <li>
+    <a class="collection-card" href="{{ .RelPermalink }}">
+      {{ partial "icon.html" .Params.icon }}
+      <h3>{{ .Title }} <span class="count">{{ .Params.count }}</span></h3>
+      <p>{{ .Description }}</p>
+    </a>
+  </li>
+  {{ end }}
+</ul>

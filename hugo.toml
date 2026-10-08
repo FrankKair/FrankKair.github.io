@@ -1,30 +1,34 @@
 baseURL = 'https://frankkair.github.io/'
-languageCode = 'en-us'
-title = 'Frank'
+languageCode = 'en-gb'
+title = 'Frank Kair'
 theme = 'cactus'
+enableRobotsTXT = true
+
+# Legacy local generator output is ignored; aliases now own these public URLs.
+ignoreFiles = ['(^|/)posts/(Books|Books to read|Cinema Club|Movies|Music)\.md$']
 
 [params]
-colortheme = "dark"
-mainSectionTitle = "--"
-mainSections = "posts"
-showAllPostsOnHomePage = true
+description = "Notes on what I'm learning and a record of what I've read, watched, listened to and experienced."
+github = 'https://github.com/FrankKair'
+mainSections = ['writing']
+
+[taxonomies]
+tag = 'tags'
+
+[markup.highlight]
+style = 'monokai'
 
 [[menu.main]]
-name = "Home"
-url = "/"
+name = 'Writing'
+pageRef = '/writing'
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = 'Collections'
+pageRef = '/collections'
 weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = 'About'
+pageRef = '/about'
 weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4

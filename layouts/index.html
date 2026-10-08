@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="intro" aria-labelledby="hello">
+  <h1 id="hello">{{ .Title }}</h1>
+  <div class="lead">{{ .Content }}</div>
+</section>
+<section class="home-section" aria-labelledby="writing-heading">
+  <div class="section-heading">
+    <h2 id="writing-heading">Writing</h2>
+    <a class="quiet-link" href="{{ "writing/" | relURL }}">View all <span aria-hidden="true">→</span></a>
+  </div>
+  {{ partial "writing-list.html" (first 4 (where site.RegularPages "Section" "writing").ByDate.Reverse) }}
+</section>
+<section class="home-section" aria-labelledby="collections-heading">
+  <div class="section-heading">
+    <h2 id="collections-heading">Collections</h2>
+    <a class="quiet-link" href="{{ "collections/" | relURL }}">View all <span aria-hidden="true">→</span></a>
+  </div>
+  {{ with site.GetPage "/collections" }}{{ partial "collection-grid.html" .RegularPages.ByWeight }}{{ end }}
+</section>
+{{ end }}

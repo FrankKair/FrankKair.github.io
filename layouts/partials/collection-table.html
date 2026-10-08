@@ -1,0 +1,11 @@
+<div class="table-scroll" role="region" aria-label="{{ .title }} · {{ .group.label }}" aria-describedby="table-help" tabindex="0">
+  <table class="log-table">
+    <caption class="visually-hidden">{{ .title }} · {{ .group.label }} · {{ len .group.rows }} entries</caption>
+    <thead><tr>{{ range .data.labels }}<th scope="col">{{ . }}</th>{{ end }}</tr></thead>
+    <tbody>
+      {{ range .group.rows }}
+      <tr>{{ range $index, $value := . }}<td class="field-{{ index $.data.headers $index }}">{{ if $value }}{{ if or (hasPrefix $value "https://") (hasPrefix $value "http://") }}<a href="{{ $value }}">{{ $value }}</a>{{ else }}{{ $value }}{{ end }}{{ else }}<span class="missing" aria-label="Not recorded">—</span>{{ end }}</td>{{ end }}</tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

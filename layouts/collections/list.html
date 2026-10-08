@@ -1,0 +1,4 @@
+{{ define "main" }}
+<header class="page-heading"><h1>{{ .Title }}</h1><p class="lead">{{ .Description }}</p></header>
+{{ partial "collection-grid.html" .RegularPages.ByWeight }}
+{{ end }}

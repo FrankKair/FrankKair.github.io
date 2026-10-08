@@ -1,0 +1,11 @@
+<header class="site-header">
+  <a class="site-name" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+  <nav aria-label="Main navigation">
+    <ul>
+      {{ range site.Menus.main }}
+      <li><a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="{{ if $.IsMenuCurrent "main" . }}page{{ else }}true{{ end }}"{{ end }}>{{ .Name }}</a></li>
+      {{ end }}
+      <li class="header-github"><a href="{{ site.Params.github }}">GitHub <span aria-hidden="true">↗</span></a></li>
+    </ul>
+  </nav>
+</header>

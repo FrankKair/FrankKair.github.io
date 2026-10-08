@@ -3,4 +3,11 @@ __pycache__/
 themes/
 public/
 resources/
-content/*
+/content/collections/*.md
+!/content/collections/_index.md
+/data/collections/
+/content/posts/Books.md
+/content/posts/Books to read.md
+/content/posts/Cinema Club.md
+/content/posts/Movies.md
+/content/posts/Music.md
