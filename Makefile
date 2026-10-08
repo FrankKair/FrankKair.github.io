@@ -5,7 +5,7 @@ HUGO ?= hugo
 all: build
 
 generate:
-	$(PYTHON) generate-markdowns.py
+	$(PYTHON) scripts/generate-markdowns.py
 
 serve: generate
 	$(HUGO) server --buildDrafts

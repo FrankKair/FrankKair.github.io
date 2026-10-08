@@ -4,14 +4,16 @@ import csv
 import importlib.util
 import re
 import shutil
+import sys
 import tempfile
 import unittest
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
 spec = importlib.util.spec_from_file_location(
-    "generator", ROOT / "generate-markdowns.py"
+    "generator", ROOT / "scripts/generate-markdowns.py"
 )
 generator = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(generator)

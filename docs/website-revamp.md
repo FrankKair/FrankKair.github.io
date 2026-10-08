@@ -2,7 +2,7 @@
 
 ## What changed
 
-The former Cactus site published five CSV logs as timestamped, untracked posts. The redesign separates authored writing from generated collections and publishes all nine logs. Entries and root-level notes are preserved; source CSVs now use plain country names, with flags supplied by `countries.py`.
+The former Cactus site published five CSV logs as timestamped, untracked posts. The redesign separates authored writing from generated collections and publishes all nine logs. Entries and root-level notes are preserved; source CSVs now use plain country names, with flags supplied by `scripts/countries.py`.
 
 - **Design:** custom Hugo templates and one stylesheet, with system light/dark mode, readable articles, accessible navigation and contained scrolling for collection tables.
 - **Generation:** deterministic Markdown and JSON; all fields, flags, partial dates and blank entries retained. Years sort newest first, with CSV order preserved within each year and an explicit Undated group. Statistics retain the existing country/decade rules.
