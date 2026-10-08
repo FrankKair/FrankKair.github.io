@@ -13,6 +13,8 @@ Design (templates + CSS) -------------------+   public/
                                               GitHub Pages
 ```
 
+Dependencies: `Python 3.11+` and [`Hugo`](https://gohugo.io/).
+
 ## Usage
 
 ```
