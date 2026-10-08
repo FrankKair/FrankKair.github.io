@@ -65,8 +65,13 @@ class Page(HTMLParser):
 
 
 def verify(destination):
-    publications = tomllib.loads((ROOT / "publications.toml").read_text())["publication"]
-    pages = {path: Page(path.read_text(encoding="utf-8")) for path in destination.rglob("*.html")}
+    publications = tomllib.loads(
+        (ROOT / "publications.toml").read_text()
+    )["publication"]
+    pages = {
+        path: Page(path.read_text(encoding="utf-8"))
+        for path in destination.rglob("*.html")
+    }
     # Respect the Pages baseURL override (including a future custom domain).
     origin = pages[destination / "index.html"].canonical
     assert origin, "Homepage canonical URL is missing"
@@ -75,30 +80,52 @@ def verify(destination):
         if not publication.get("published", True):
             continue
         slug = publication["slug"]
-        data = json.loads((ROOT / "data/collections" / f"{slug}.json").read_text())
+        data = json.loads(
+            (ROOT / "data/collections" / f"{slug}.json").read_text()
+        )
         page = pages[destination / "collections" / slug / "index.html"]
-        expected = [[field.strip() for field in row] for group in data["groups"] for row in group["rows"]]
+        expected = [
+            [field.strip() for field in row]
+            for group in data["groups"]
+            for row in group["rows"]
+        ]
         assert page.rows == expected, f"Rendered entries differ: {slug}"
         total += len(page.rows)
         for alias in publication.get("aliases", []):
-            redirect = pages[destination / alias.strip("/") / "index.html"].refresh
-            assert redirect == urljoin(origin, f"collections/{slug}/"), (alias, redirect)
+            redirect = pages[
+                destination / alias.strip("/") / "index.html"
+            ].refresh
+            assert redirect == urljoin(origin, f"collections/{slug}/"), (
+                alias, redirect
+            )
 
-    for old, new in {"posts": "collections/", "posts/page/1": "collections/", "categories": "collections/", "page/1": ""}.items():
-        assert pages[destination / old / "index.html"].refresh == urljoin(origin, new), old
+    aliases = {
+        "posts": "collections/",
+        "posts/page/1": "collections/",
+        "categories": "collections/",
+        "page/1": "",
+    }
+    for old, new in aliases.items():
+        redirect = pages[destination / old / "index.html"].refresh
+        assert redirect == urljoin(origin, new), old
 
     for path, page in pages.items():
         source = urljoin(origin, str(path.relative_to(destination)))
         for href in page.links:
             link = urlsplit(urljoin(source, href))
-            if link.scheme not in {"http", "https"} or link.netloc != urlsplit(origin).netloc:
+            if (
+                link.scheme not in {"http", "https"}
+                or link.netloc != urlsplit(origin).netloc
+            ):
                 continue
             target = destination / unquote(link.path).lstrip("/")
             if target.is_dir():
                 target /= "index.html"
             assert target.is_file(), f"Broken link: {path} -> {href}"
             if link.fragment and target in pages:
-                assert unquote(link.fragment) in pages[target].ids, f"Broken anchor: {path} -> {href}"
+                assert unquote(link.fragment) in pages[target].ids, (
+                    f"Broken anchor: {path} -> {href}"
+                )
 
     for feed in ["index.xml", "writing/index.xml", "posts/index.xml"]:
         channel = ET.parse(destination / feed).getroot().find("channel")
@@ -106,8 +133,14 @@ def verify(destination):
         for item in channel.findall("item"):
             assert "/writing/" in item.findtext("link"), feed
             assert item.findtext("pubDate"), feed
-    print(f"Verified {total} rendered entries, legacy redirects, internal links and RSS across {len(pages)} HTML pages.")
+    print(
+        f"Verified {total} rendered entries, legacy redirects, "
+        f"internal links and RSS across {len(pages)} HTML pages."
+    )
 
 
 if __name__ == "__main__":
-    verify(Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "public")
+    destination = (
+        Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "public"
+    )
+    verify(destination)

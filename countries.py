@@ -62,7 +62,7 @@ FLAGS: dict[str, str] = {
     "France": "fr",
     "Gabon": "ga",
     "United Kingdom": "gb",
-    "UK": "gb",
+    "UK": "gb",  # Alias; keep the label used in the CSV.
     "Grenada": "gd",
     "Georgia": "ge",
     "Ghana": "gh",
@@ -180,7 +180,7 @@ FLAGS: dict[str, str] = {
     "Tunisia": "tn",
     "Tonga": "to",
     "Turkey": "tr",
-    "Türkiye": "tr",
+    "Türkiye": "tr",  # Alternate name for Turkey.
     "Trinidad and Tobago": "tt",
     "Tuvalu": "tv",
     "Taiwan": "tw",
@@ -188,7 +188,7 @@ FLAGS: dict[str, str] = {
     "Ukraine": "ua",
     "Uganda": "ug",
     "United States": "us",
-    "USA": "us",
+    "USA": "us",  # Alias; keep the label used in the CSV.
     "Uruguay": "uy",
     "Uzbekistan": "uz",
     "Vatican City": "va",
