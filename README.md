@@ -4,14 +4,17 @@ Frank’s personal website: writing and collections of books, films, music, trav
 
 ## How it works
 
-```mermaid
-flowchart LR
-    writing["Writing & About<br/>Markdown"] --> hugo["Hugo<br/>build"]
-    collections["Collections<br/>CSV"] --> python["Python<br/>flags, years & stats"]
-    python --> hugo
-    design["Design<br/>templates & CSS"] --> hugo
-    hugo --> output["Static HTML + CSS<br/>public/"]
-    output --> pages["GitHub Pages"]
+```text
+Writing & About (Markdown) -----------------+
+                                           |
+Collections (CSV) --> Python ---------------+--> Hugo
+                     flags, years & stats  |      |
+                                           |      v
+Design (templates + CSS) -------------------+   public/
+                                               HTML + CSS
+                                                  |
+                                                  v
+                                             GitHub Pages
 ```
 
 **Hugo is the build engine; there is no theme.** Our templates in `layouts/` and stylesheet in `assets/css/site.css` define the design. Python prepares the CSV collections before Hugo builds. Visitors receive static files—neither Hugo nor Python runs on the server.
