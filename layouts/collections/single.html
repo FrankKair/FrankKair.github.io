@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $data := index site.Data.collections .Params.collection }}
+{{ $data := index hugo.Data.collections .Params.collection }}
 <header class="page-heading">
   <a class="back-link" href="{{ "collections/" | relURL }}"><span aria-hidden="true">←</span> Collections</a>
   <h1>{{ .Title }}</h1>

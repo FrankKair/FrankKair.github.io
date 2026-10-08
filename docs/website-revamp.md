@@ -4,7 +4,7 @@
 
 The repository used Hugo Extended 0.124.0 and a tracked, vendored copy of Cactus (not a submodule). `generate-markdowns.py` read five entries in `publications.toml`, wrote untracked Markdown to `content/posts/<Title>.md`, and stamped it with the current time. The broad `content/*` ignore rule also prevented authored articles from being tracked. The generator and production baseline build completed locally; Cactus emitted one existing `IsSet` warning.
 
-GitHub Actions built on pushes to `main` and manual dispatch. It installed Hugo, generated Markdown, used `actions/configure-pages`, built `public/`, uploaded a Pages artifact and deployed it via `actions/deploy-pages`. There was no CNAME file or custom domain configuration in the repository. The new workflow preserves this model and Hugo pin, specifies Python 3.12 for `tomllib`, removes unused Sass/Node installation steps, and adds data verification.
+GitHub Actions built on pushes to `main` and manual dispatch. It installed Hugo, generated Markdown, used `actions/configure-pages`, built `public/`, uploaded a Pages artifact and deployed it via `actions/deploy-pages`. There was no CNAME file or custom domain configuration in the repository. The new workflow preserves this deployment model, specifies Python 3.12 for `tomllib`, removes unused Sass/Node installation steps, and adds data verification. The later theme cleanup updates the Hugo pin to match the installed local version.
 
 ## Data inventory and routes
 
@@ -33,7 +33,7 @@ Root-level untracked language notes and `nobel_literature.csv` were outside the 
 
 ## Implementation
 
-- Keep Cactus with site-level overrides; the PaperMod compatibility assessment and rationale are in the README. No theme source files changed.
+- Use the site's own templates directly, without a theme. Cactus was initially retained during migration, then removed after a build without it produced identical HTML. Its 144 vendored files and 59 unused published assets were removed. CI now pins Hugo 0.167.0 to match the installed local version, uses the standard binary, and no longer requests submodules or full Git history. Templates use the current locale and data APIs; local Hugo Extended works without an additional installation.
 - Authored content lives in `content/writing/`, `content/about.md` and section introductions. A writing archetype supplies dates, summaries, optional tags and draft status.
 - Generated collection Markdown contains deterministic front matter. JSON data retains all columns, grouped rows, counts and statistics for shared Hugo table layouts. Generation validates every CSV before writing and refuses to overwrite unmarked authored collection pages.
 - The header, footer, article, index, collection and RSS templates use local CSS and system fonts. Collections have a wider reading area; articles use a 70-character measure. The site follows system light/dark preference, includes a skip link and visible focus outlines, and uses scrollable semantic tables.
@@ -44,7 +44,8 @@ Root-level untracked language notes and `nobel_literature.csv` were outside the 
 - Production HTML verification compares every rendered collection cell and row in order, validates old URL redirects, checks internal links/anchors and parses all three writing RSS routes.
 - CSV hashes and the five baseline rendered tables were compared before/after; no source bytes or entries changed. Comparisons account for the old Markdown renderer's smart quotes/ellipses and the new explicit Undated group. Collection cells now show the source punctuation directly; undated films move into their own group rather than appearing among dated entries.
 - Two consecutive production builds and generations were compared byte-for-byte, including generated content/data and published output.
-- The existing Firefox installation checked homepage, writing index, temporary Markdown article, About, collections overview and all nine collections at **320, 375, 768 and 1440px**, in both colour schemes: **112 page/viewport/theme checks**. No page-level horizontal overflow; mobile table scrolling and opened statistics remained contained. Screenshots of homepage, article and collection layouts were inspected. The temporary test article was removed afterward.
+- After removing Cactus, `make check` and repeated builds passed with the installed Hugo 0.167.0, without warnings. The stylesheet was unchanged and all 59 unused theme assets disappeared from the output.
+- The existing Firefox installation checked homepage, writing index, temporary Markdown article, About, collections overview and all nine collections at **320, 375, 768 and 1440px**, in both colour schemes: **112 page/viewport/colour-scheme checks**. No page-level horizontal overflow; mobile table scrolling and opened statistics remained contained. Screenshots of homepage, article and collection layouts were inspected. The temporary test article was removed afterward.
 - Native keyboard navigation reached the visible skip link. Body/muted text contrast measured 13.60:1 / 5.46:1 in light mode and 14.21:1 / 8.29:1 in dark mode.
 - Temporary browser packages and downloads were removed. No Chromium/Chrome was installed; Firefox testing used a temporary profile and Python's standard library.
 

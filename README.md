@@ -4,7 +4,7 @@ Frank's personal website: writing, reading and listening logs, films, travel and
 
 ## Local preview
 
-Use **Hugo Extended 0.124.0** (the version pinned in CI) and **Python 3.11+** (CI uses 3.12). There are no pip or npm dependencies. The Cactus theme is already vendored in this repository; no theme installation is needed.
+Use **Hugo 0.167.0** (the version pinned in CI) and **Python 3.11+** (CI uses 3.12). Your installed Hugo Extended also works; there is no need for a separate Hugo installation. There are no themes, pip or npm dependencies to install.
 
 ```sh
 make serve      # generate collections, then preview at http://localhost:1313
@@ -46,11 +46,11 @@ Write Markdown below the front matter. `make serve` includes drafts; set `draft 
 
 Edit the introduction in `content/_index.md` and the About page in `content/about.md`. Only content under `content/` is published; loose notes in the repository root are not articles.
 
-## Design and theme
+## Design
 
-Cactus is retained with site-level overrides in `layouts/` and a single stylesheet, `assets/css/site.css`. Theme source files remain untouched. The custom shell follows the supplied reference: a quiet header, personal introduction, writing list and two-column collection overview. Colours follow the system light/dark preference. Collection tables have semantic headings, a keyboard-focusable horizontal scroll region and a visible scroll hint on narrow screens.
+This is a self-contained Hugo site: templates live in `layouts/` and the single stylesheet is `assets/css/site.css`. Hugo uses these templates directly without a theme. The design follows the supplied reference: a quiet header, personal introduction, writing list and two-column collection overview. Colours follow the system light/dark preference. Collection tables have semantic headings, a keyboard-focusable horizontal scroll region and a visible scroll hint on narrow screens.
 
-PaperMod was evaluated first. Its [current installation instructions](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation) require Hugo 0.146.0 or newer; this repository is pinned to 0.124.0. Both themes would need custom collection and homepage layouts. Keeping the already-vendored Cactus avoids a theme migration, a Hugo upgrade and new download dependencies. The overrides don't load Cactus's JavaScript, icon fonts or SCSS. There is no application JavaScript, external font, media API or frontend build chain.
+The former Cactus theme was removed once the custom templates covered every page. The only bundled assets are the site's own CSS and favicon, with no application JavaScript, font libraries, SCSS, external font, media API or frontend build chain.
 
 ## Deployment
 

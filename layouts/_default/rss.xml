@@ -6,7 +6,7 @@
     <title>{{ site.Title }} · Writing</title>
     <link>{{ "writing/" | absURL }}</link>
     <description>{{ site.Params.description }}</description>
-    <language>{{ site.LanguageCode }}</language>
+    <language>{{ site.Language.Locale }}</language>
     {{ with .OutputFormats.Get "RSS" }}<atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>{{ end }}
     {{ range first 20 $pages.ByDate.Reverse }}
     <item>
