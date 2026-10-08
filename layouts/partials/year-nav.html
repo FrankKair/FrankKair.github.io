@@ -1,0 +1,16 @@
+<nav class="year-nav" aria-label="Jump to year">
+  <div class="year-links">
+    {{ range .groups }}<a href="#{{ .label | anchorize }}">{{ .label }}</a>{{ end }}
+    {{ if .stats }}<a href="#stats">Stats</a>{{ end }}
+  </div>
+  <div class="year-picker">
+    <label for="collection-year">Jump to</label>
+    <select id="collection-year">
+      <option value="">Choose a year</option>
+      {{ range .groups }}<option value="#{{ .label | anchorize }}">{{ .label }}</option>{{ end }}
+      {{ if .stats }}<option value="#stats">Stats</option>{{ end }}
+    </select>
+  </div>
+</nav>
+{{ $script := resources.Get "js/year-nav.js" | minify | fingerprint }}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>

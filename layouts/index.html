@@ -15,6 +15,12 @@
     <h2 id="collections-heading">Collections</h2>
     <a class="quiet-link" href="{{ "collections/" | relURL }}">View all <span aria-hidden="true">→</span></a>
   </div>
-  {{ with site.GetPage "/collections" }}{{ partial "collection-grid.html" .RegularPages.ByWeight }}{{ end }}
+  {{ $featured := slice }}
+  {{ range slice "books" "movies" "music" "concerts" }}
+    {{ with site.GetPage (printf "/collections/%s" .) }}
+      {{ $featured = $featured | append . }}
+    {{ end }}
+  {{ end }}
+  {{ partial "collection-grid.html" $featured }}
 </section>
 {{ end }}

@@ -7,10 +7,7 @@
   <p class="meta">{{ $data.count }} entries{{ if $data.grouped }} · By year{{ end }}</p>
 </header>
 {{ if $data.grouped }}
-<nav class="year-nav" aria-label="Jump to year">
-  {{ range $data.groups }}<a href="#{{ .label | anchorize }}">{{ .label }}</a>{{ end }}
-  {{ if $data.stats }}<a href="#stats">Stats</a>{{ end }}
-</nav>
+{{ partial "year-nav.html" $data }}
 {{ else if $data.stats }}<p><a class="quiet-link" href="#stats">View statistics <span aria-hidden="true">↓</span></a></p>{{ end }}
 <p class="scroll-hint" id="table-help">Scroll tables sideways to see all columns <span aria-hidden="true">↔</span></p>
 {{ range $data.groups }}
