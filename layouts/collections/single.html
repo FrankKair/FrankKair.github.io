@@ -1,0 +1,41 @@
+{{ define "main" }}
+{{ $data := index hugo.Data.collections .Params.collection }}
+<header class="page-heading">
+  <a class="back-link" href="{{ "collections/" | relURL }}"><span aria-hidden="true">←</span> Collections</a>
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+  <p class="meta">{{ $data.count }} entries{{ if $data.grouped }} · By year{{ end }}</p>
+</header>
+{{ if $data.grouped }}
+<nav class="year-nav" aria-label="Jump to year">
+  {{ range $data.groups }}<a href="#{{ .label | anchorize }}">{{ .label }}</a>{{ end }}
+  {{ if $data.stats }}<a href="#stats">Stats</a>{{ end }}
+</nav>
+{{ else if $data.stats }}<p><a class="quiet-link" href="#stats">View statistics <span aria-hidden="true">↓</span></a></p>{{ end }}
+<p class="scroll-hint" id="table-help">Scroll tables sideways to see all columns <span aria-hidden="true">↔</span></p>
+{{ range $data.groups }}
+<section class="collection-group" aria-labelledby="{{ .label | anchorize }}">
+  <h2 id="{{ .label | anchorize }}">{{ .label }} <span class="count">{{ len .rows }}</span></h2>
+  {{ partial "collection-table.html" (dict "data" $data "group" . "title" $.Title) }}
+</section>
+{{ end }}
+{{ with $data.stats }}
+<section class="statistics" aria-labelledby="stats">
+  <h2 id="stats">Stats</h2>
+  <p class="meta">Total: {{ $data.count }} entries. Each country is counted for entries with more than one country.</p>
+  <div class="stats-grid">
+  {{ range . }}
+    <details>
+      <summary>By {{ .label | lower }} <span class="count">{{ len .items }}</span></summary>
+      <table class="stats-table">
+        <caption class="visually-hidden">Entries by {{ .label | lower }}</caption>
+        <thead><tr><th scope="col">{{ .label }}</th><th scope="col">Count</th></tr></thead>
+        <tbody>{{ range .items }}<tr><th scope="row">{{ index . 0 }}</th><td>{{ index . 1 }}</td></tr>{{ end }}</tbody>
+      </table>
+    </details>
+  {{ end }}
+  </div>
+</section>
+{{ end }}
+<p class="back-top"><a href="#main">Back to top <span aria-hidden="true">↑</span></a></p>
+{{ end }}

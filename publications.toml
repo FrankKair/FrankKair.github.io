@@ -1,28 +1,87 @@
 [[publication]]
 title = "Books"
+slug = "books"
+description = "A reading log, one book at a time."
+icon = "book"
 csv = "csv/books.csv"
 group_by = "date"
 stats = ["country"]
+aliases = ["/posts/books/"]
+labels = { date = "Read" }
 
 [[publication]]
-title = "Music"
-csv = "csv/music.csv"
-group_by = "review"
-stats = ["country", "decade:year"]
-
-[[publication]]
-title = "Books to read"
-csv = "csv/books-to-read.csv"
-stats = ["country"]
-
-[[publication]]
-title = "Cinema Club"
-csv = "csv/cinema-club.csv"
-group_by = "watched"
-stats = ["country"]
-
-[[publication]]
-title = "Movies"
+title = "Films"
+slug = "movies"
+description = "Films watched, old favourites and new discoveries."
+icon = "film"
 csv = "csv/movies.csv"
 group_by = "watched"
 stats = ["country"]
+aliases = ["/posts/movies/"]
+labels = { movie = "Film" }
+
+[[publication]]
+title = "Music"
+slug = "music"
+description = "Albums I've spent some time with."
+icon = "music"
+csv = "csv/music.csv"
+group_by = "review"
+stats = ["country", "decade:year"]
+aliases = ["/posts/music/"]
+labels = { review = "Listened" }
+
+[[publication]]
+title = "Travel"
+slug = "travel"
+description = "Places visited, near and far."
+icon = "globe"
+csv = "csv/travelling.csv"
+group_by = "start"
+stats = ["country"]
+
+[[publication]]
+title = "Concerts & theatre"
+slug = "concerts"
+description = "Live music, performances and plans."
+icon = "ticket"
+csv = "csv/Concerts.csv"
+group_by = "date"
+labels = { artist = "Artist / show" }
+
+[[publication]]
+title = "Cinema Club"
+slug = "cinema-club"
+description = "A shared watchlist, a film at a time."
+icon = "film"
+csv = "csv/cinema-club.csv"
+group_by = "watched"
+stats = ["country"]
+aliases = ["/posts/cinema-club/"]
+labels = { movie = "Film" }
+
+[[publication]]
+title = "Books to read"
+slug = "books-to-read"
+description = "The ever-growing reading list."
+icon = "book"
+csv = "csv/books-to-read.csv"
+stats = ["country"]
+aliases = ["/posts/books-to-read/"]
+
+[[publication]]
+title = "Film recommendations"
+slug = "film-recommendations"
+description = "Films saved for another day."
+icon = "film"
+csv = "csv/recs-movie.csv"
+stats = ["country"]
+labels = { movie = "Film" }
+
+[[publication]]
+title = "Music recommendations"
+slug = "music-recommendations"
+description = "Albums on the listening list."
+icon = "music"
+csv = "csv/recs-music.csv"
+stats = ["country", "decade:year"]

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="article">
+  <header class="page-heading">
+    {{ if eq .Section "writing" }}<a class="back-link" href="{{ "writing/" | relURL }}"><span aria-hidden="true">←</span> Writing</a>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ if eq .Section "writing" }}
+    <p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></p>
+    {{ with .GetTerms "tags" }}<ul class="tag-list">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}</ul>{{ end }}
+    {{ end }}
+  </header>
+  <div class="prose">{{ .Content }}</div>
+</article>
+{{ end }}
