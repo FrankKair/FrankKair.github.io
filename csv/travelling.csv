@@ -1,4 +1,6 @@
 destination,country,start,end
+Florianópolis,Brazil,24/12/2026,23/01/2027
+(L) Frankfurt,Germany,05/10/2026,10/10/2026
 Athens / Sifnos,Greece,23/06/2026,29/06/2026
 Barcelona,Spain,04/06/2026,08/06/2026
 New Forest,UK,02/04/2026,06/04/2026
@@ -30,6 +32,7 @@ Rome,Italy,04/11/2021,09/11/2021
 Lisbon,Portugal,10/09/2021,20/09/2021
 Barcelona,Spain,01/08/2021,10/08/2021
 Lake Garda / Verona / Venice,Italy,20/09/2020,25/09/2020
+(L) Los Angeles,USA,-/10/2019,-/10/2019
 Stockholm,Sweden,06/06/2019,10/06/2019
 Isle of Skye,UK,2019,2019
 Copenhagen,Denmark,29/11/2018,02/12/2018
